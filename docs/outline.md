@@ -95,6 +95,60 @@ China's approach to AI is not just a tech race — it is a different civilizatio
   - FreshFromChina (2025-2027 plan): https://freshfromchina.com/guangdongs-underwater-data-centers-chinas-next-frontier-in-digital-infrastructure/
   - 每经网 (2026 update): https://www.nbd.com.cn/articles/2026-01-30/4242100.html
 
+### US vs. China: the energy buildout divergence
+- **The core asymmetry:** The US is building AI data centers faster than it can build clean power. China is building clean power faster than it can build data centers. The result is two fundamentally different energy trajectories for the same technology.
+- **US data center demand:**
+  - IEA: US data center electricity demand set to more than double from 2024 to 2030, reaching 426 TWh (~9% of total US electricity demand). US data centers already account for 45% of global data center electricity consumption.
+  - LBNL (2025): US data centers could account for 11.8% of total US electricity by 2030 (range: 9.5–15.3%); 649 TWh in the Reference Case (range: 521–843 TWh).
+  - EPRI (2026): US data center peak load growth scenarios range from ~150 GW (Low) to ~210 GW (High) by 2030. Under reference policies, "incremental supply is dominated by natural gas." Each additional MWh of data center demand carries an emissions intensity of 0.3–0.4 tCO2, similar to the 2023 grid average.
+  - BloombergNEF: Total global data center consumption set to quadruple to 1,600 TWh/year over the next decade.
+  - Reuters (Feb 2026): Cleanview identified 46 US data centers planning to build their own power plants, primarily gas-fired. Their combined 56 GW represents ~30% of all planned US data center capacity.
+- **US energy mix for data centers (IEA):**
+  - Current: natural gas >40%, renewables 24%, nuclear ~20%, coal ~15%.
+  - 2024–2030: natural gas is the largest source of additional supply, adding >130 TWh. Renewables add 110 TWh. Coal and gas together meet >40% of additional demand.
+  - 2030–2035: SMRs enter the mix (tech companies have plans to finance >20 GW of SMRs). By 2035, low-emissions sources account for >55% of US data center electricity.
+  - **The gas turbine bottleneck:** GE Vernova's order book for gas turbines at end of 2025 is 80 GW, with a backlog lasting into 2029. Siemens Energy and Mitsubishi Heavy Industries are in the same situation. A project ordering turbines today is unlikely to come online until 2030 or beyond. CSIS: "The gas generation boom is creating upstream supply chain constraints."
+  - **The near-term result:** Rhodium Group (2025): "Since not much new capacity can be added in the near term, we instead see existing gas and coal plants running at higher capacity factors and meeting 55–85% of increased demand relative to baseline data center demand growth." In the high-emissions scenario, "gas dominates additions through 2035 while renewables struggle to compete."
+  - **Political dimension:** Trump has championed coal to meet rising data center demand. The US approach is market-driven, fragmented by state permitting, and dependent on corporate PPAs — raising risk of grid bottlenecks in major data center clusters.
+- **China's renewable buildout (the counterpoint):**
+  - 2024: China installed 357 GW of solar and wind in a single year (277 GW solar, 80 GW wind) — a 45% and 18% increase over 2023. AP: "That's akin to building 357 full-size nuclear plants in one year." China surpassed its 1,200 GW renewable target six years early.
+  - 2025: China installed a record 430+ GW of solar and wind (315 GW solar, 119 GW wind), a 22% YoY increase. IEA: "nearly 500 GW of additions, accounting for over 60% of global growth." Cumulative wind + solar reached 1.84 TW, accounting for 47.3% of total installed power capacity — surpassing thermal power for the first time.
+  - **The comparison in one number:** China installed ~357 GW of renewables in 2024 alone. The US data center sector is projected to need ~150–210 GW of new capacity by 2030. China's single-year renewable buildout exceeds the entire US data center demand increase.
+  - **US 2024 renewable installations for comparison:** 268 GW of solar and wind (American Clean Power Association) — less than China's 357 GW, and the US figure includes all sectors, not just data centers.
+- **China's energy mix for data centers (IEA):**
+  - Current: coal ~70% (data centers located mostly in the east), renewables ~20%, nuclear ~10%, gas remainder.
+  - 2024–2030: coal adds ~90 TWh, renewables add ~90 TWh (supported by provincial co-location mandates and "East Data, West Computing" policies).
+  - 2030–2035: SMRs boost nuclear share. By 2035, renewables + nuclear make up ~60% of China's data center electricity supply. Coal enters decline.
+  - **The structural advantage:** China already generates more than twice as much electricity as the US and has increased total power generation by ~6% per year over the past decade, with over half of growth from clean sources (Ember data). The "East Data, West Computing" initiative routes compute to where renewable capacity already exists — a state-coordinated grid-decarbonization strategy with no US equivalent.
+- **The carbon emissions divergence:**
+  - US: data center growth is met primarily by new and existing gas generation (0.3–0.4 tCO2/MWh). In the high-emissions scenario, gas dominates through 2035. The US total emissions trajectory for data centers is upward or flat through 2030.
+  - China: data center emissions peak around 2030 then decline, because the grid is decarbonizing faster than data center demand is growing. By 2035, 60% of data center electricity is from renewables + nuclear.
+  - **The irony:** The US, which positions itself as the leader in AI innovation, is building its AI infrastructure on fossil fuels (gas, coal) due to grid constraints and permitting delays. China, which is often characterized as the "world's top polluter," is building its AI infrastructure on a rapidly decarbonizing grid where renewables overtook coal in installed capacity in 2025.
+  - Brookings (Kyle Chan): "The United States largely controls the supply of the most important chips, but China largely controls the supply of renewable energy products, a key means of quickly and sustainably powering them." The "electron gap" could reshape the balance of compute for AI.
+  - Brookings (David Victor): "For China, there may be opportunities to use AI-related demands for electricity to make fuller use of power that is already oversupplied in some parts of the Chinese grid."
+- **The strategic implication:**
+  - The US AI buildout is constrained by the speed of fossil fuel infrastructure (gas turbines with 4+ year backlogs) and slow permitting. China's AI buildout is constrained by the speed of data center construction, not energy supply — because the energy is already being built.
+  - China's renewable buildout (350+ GW/year) outpaces the US data center demand growth (~150–210 GW over a decade) by a factor of 2–3. The energy transition is not a constraint for China; it is the enabling condition.
+  - The US is effectively choosing between gas (fast but dirty) and renewables (clean but slow to permit). China is choosing between coal (existing) and renewables (already built). The carbon outcomes diverge accordingly.
+- **Refs:**
+  - IEA, Energy supply for AI (US/China mix): https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai
+  - IEA, Key Questions on Energy and AI (2026): https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
+  - Brookings, "How will the US and China power the AI race?": https://www.brookings.edu/articles/how-will-the-united-states-and-china-power-the-ai-race/
+  - Brookings, "Interwoven frontiers: Energy, AI, and US-China competition": https://www.brookings.edu/articles/interwoven-frontiers-energy-ai-and-us-china-competition/
+  - CSIS, "The Electricity Supply Bottleneck on US AI Dominance": https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance
+  - Rhodium Group, "The Impacts of Rising Electricity Demand from Data Centers": https://rhg.com/research/data-centers-electricity-demand/
+  - EPRI, "Powering Intelligence 2026": https://powering-intelligence.epri.com/load-impacts.html
+  - LBNL, "US Data Center Energy Usage Report 2025": https://seta.lbl.gov/publications/united-states-data-center-energy-2025
+  - RAND, "Assessing the US Additional AI Power Capacity by 2030": https://www.rand.org/pubs/research_reports/RRA3845-1.html
+  - AP News, "China built out record wind and solar in 2024": https://apnews.com/article/wind-solar-energy-china-climate-carbon-emissions-b337503abfacfd9b7829fd7bbcd507e9
+  - Gov.cn, "China's newly installed wind, solar up 22% in 2025": https://english.www.gov.cn/archive/statistics/202602/12/content_WS698d93cbc6d00ca5f9a091bb.html
+  - PV Magazine, "China adds 315 GW solar in 2025": https://www.pv-magazine.com/2026/01/28/china-adds-315-gw-of-solar-in-2025/
+  - IEA, "Solar PV and wind net additions in China 2024-2025": https://www.iea.org/data-and-statistics/charts/solar-pv-and-wind-net-additions-in-china-2024-2025
+  - Bloomberg, "US and China Diverge on Strategies to Power AI Data Centers": https://www.bloomberg.com/news/newsletters/2025-07-28/us-and-china-diverge-on-strategies-to-power-their-ai-data-centers
+  - Reuters, "US AI boom faces electric shock": https://www.reuters.com/markets/commodities/us-ai-boom-faces-electric-shock-2026-02-25/
+  - Columbia CKI, "Powering Data": https://business.columbia.edu/sites/default/files-efs/imce-uploads/CKI/data%20centers%20CKI/CKI%20AI%20x%20Data%20Centers-260123.pdf
+  - NucNet, "US and China to Lead Growth in Nuclear for Data Centers": https://www.nucnet.org/news/us-and-china-to-lead-growth-in-nuclear-power-for-data-centre-supply-4-4-2025
+
 ### Rapid cutting-edge battery and capacitor development
 - 100 MW hybrid battery-supercapacitor plant (Shanxi, 2025): world's largest supercapacitor-based installation; 58 MW/30-sec supercapacitor array + 42 MW/42 MWh lithium-ion; CNY 670M investment
 - 500 MW/1 GWh Jiayuguan NingSheng project (Gansu, Dec 2025): world's first GWh-scale supercapacitor-energy storage; 475 MW/1,000 MWh LFP + 25 MW supercapacitor (60-sec discharge); ~RMB 1.2B investment
@@ -341,3 +395,5 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 7. **The "data center vs. power plant" framing is a red herring — the grid is the lever**: Microsoft's Nature paper (2025) provides the definitive quantitative argument. Switching data center cooling technology saves 15–21% GHG. Switching the electricity source to 100% renewable saves 85–90% GHG and 55–85% water. The data center design is a second-order concern; the energy source is the first-order concern. This means the environmental debate about AI is really a debate about grid decarbonization speed. China's "East Data, West Computing" initiative is strategically aligned with this: it routes compute to where renewable capacity already exists, effectively decarbonizing AI workloads without requiring any data center innovation. The IEA corroborates: data center emissions peak at ~320 Mt CO2 by 2030 then decline, because the grid is decarbonizing faster than data center demand is growing. The 300 Mt from data centers is <2.5% of the 13,900 Mt from the global power sector.
 
 8. **China's Global South AI strategy is institutional, not just transactional**: The establishment of WAICO (29 founding members, HQ in Shanghai) represents a shift from ad-hoc development assistance to permanent institutional infrastructure. Combined with the 5,000 training slots, 200 training programs, and regional cooperation centers, China is building a parallel AI governance architecture that gives Global South countries a structural alternative to US-dominated institutions. The Jamestown analysis is candid: the PRC is "seeking to embed its preferred security and governance objectives into global standards by first targeting Global South countries." This is not charity — it is standard-setting through capacity building. The open-source models (DeepSeek, Qwen) are the Trojan horse: by providing high-performance AI at commodity prices, China makes the US premium pricing model irrelevant for most developing nations.
+
+9. **The US-China energy divergence is the most consequential difference in the AI race**: The US is building AI data centers on fossil fuels (gas, coal) because its grid cannot expand fast enough — gas turbine backlogs stretch to 2029, permitting takes 4–8 years, and the total effective capacity of the US generation base has stagnated since 2010. China is building AI data centers on a rapidly decarbonizing grid where renewables overtook coal in installed capacity in 2025. The numbers: China installed 357 GW of renewables in 2024 alone (430+ GW in 2025) — exceeding the entire US data center demand increase of 150–210 GW over a decade. The US data center sector is projected to add 130+ TWh of gas generation by 2030. China's data center emissions peak around 2030 then decline; the US trajectory is upward or flat. The strategic implication: the US controls the chips, but China controls the energy transition that powers them. The "electron gap" (Brookings) may ultimately matter more than the chip gap.
