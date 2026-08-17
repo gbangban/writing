@@ -29,6 +29,83 @@ China's approach to AI is not just a tech race — it is a different civilizatio
   - TheoryChina, "Understanding Chinese Modernization": https://en.theorychina.org.cn/c/2024-06-20/1503226.shtml
   - Xinhua (Xi 2021 centenary declaration): https://english.news.cn/20240504/ae50c03d5f544ae8a651f146c08e5be9/20240504ae50c03d5f544ae8a651f146c08e5be9_332fa818c707734567b4c3c4f2ad406eb0.pdf
 
+## The Research Base: Who's Doing the Science
+
+### Number of AI researchers
+- **UNIDO/Dongbi Report (2015–2024):** US leads with 63,000+ AI researchers; China has ~53,000. Together they account for 57.7% of the world's AI researchers. China's pool surged from <10,000 in 2015 to 52,000+ in 2024.
+- **Nature Sci Rep (2024, 5.4M papers / 363K scientists):** China leads with 105,103 AI scientists vs. 94,363 in the US. China caught up by 2010, then pulled ahead.
+- **Digital Science/Dimensions (2025):** China has ~30,000 active AI researchers (all ages incl. students); US has ~10,000. China's cohort is noticeably younger.
+- **Top 2% elite researchers (ITIF, 2019→2022):** US share of top 2% AI talent fell from 35% to 28%; China's rose from 10% to 26%. For top 20% ("top-tier"), China produced 47% of global talent in 2022 vs. US 18%.
+- **NeurIPS 2024 (MacroPolo Tracker):** 38% of the 4,622 researchers who published at NeurIPS 2024 received their undergraduate education in China (up from 29% five years earlier). 72% of China-educated AI researchers now work in the US. Only 11% of top China-educated researchers remain in China (down from 16% in 2019).
+- **US institutions employ 59% of the world's elite AI researchers** — but this lead is "built almost entirely on foreign-born talent." The US is attracting new AI talent at the lowest rate in over a decade (down 89% since 2017 per Stanford HAI 2026).
+- **Key insight:** The US leads in *retained* elite talent (59% of world's top researchers work there), but China leads in *production* of AI researchers (47% of top-tier, 105K total scientists). The US advantage is an import story, not a homegrown one.
+- **Refs:**
+  - Xinhua (UNIDO/Dongbi): https://english.news.cn/20250704/b426995bb64e4bf3ba3df1068fa113f9/c.html
+  - Nature Sci Rep (5.4M papers): https://www.nature.com/articles/s41598-024-79863-5
+  - Digital Science (Dimensions): https://www.digital-science.com/press-releases/new-report-shows-china-dominates-in-ai-research/
+  - Science.org (Hook analysis): https://www.science.org/content/article/china-tops-world-artificial-intelligence-publications-database-analysis-reveals
+  - ITIF (elite talent): https://itif.org/publications/2025/04/07/ai-is-powering-the-us-economy-but-whos-powering-ai/
+  - MacroPolo (NeurIPS tracker): https://archivemacropolo.org/interactive/digital-projects/the-global-ai-talent-tracker
+  - Stanford HAI 2026 AI Index: https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development
+
+### PhD pipeline: who's producing the next generation
+- **White House CEA (2025):** China produces both more AI-relevant BAs and PhDs than the US. China awards 1.5–2x the number of AI-relevant PhDs the US awards.
+- **S&E PhDs (NCSES/OECD):** In 2020, China awarded 43,000 S&E doctorates vs. US 42,000. China surpassed the US in 2019. In 2022, China produced 99% more S&E PhDs than the US (nearly double). US PhD numbers have stayed flat; China's are growing.
+- **CSET projection (2021):** By 2025, Chinese universities will produce >77,000 STEM PhD graduates/year vs. ~40,000 in the US. Excluding international students, China outnumbers the US more than 3-to-1.
+- **CS PhDs (CRA Taulbee 2025):** US CS doctorates hit a record 1,351 in 2025 (up 50.6% over 5 years). AI/ML is the most popular specialty (>25% of degrees). But even at this record, US CS PhD output is a fraction of China's total STEM PhD output.
+- **US CS PhDs (NSF SED 2024):** 2,595 computer and information science doctorate recipients in 2024. 57.7% are temporary visa holders — the US PhD pipeline is majority foreign.
+- **China's engineering emphasis:** 36.4% of all Chinese doctorates are in engineering (vs. 15.6% in the US). China launched 7,500+ new engineering majors in the last decade, with ~1,000 dedicated to robotics.
+- **The pipeline asymmetry:** China is graduating more AI-relevant PhDs *and* the gap is widening. The US pipeline is flat and majority foreign. By 2030, China's annual AI PhD output will be 2–3x the US.
+- **Refs:**
+  - White House CEA (AI Talent Report): https://www.congress.gov/119/meeting/house/118204/documents/HHRG-119-JU03-20250507-SD001-U1.pdf
+  - NCSES (S&E doctorates): https://ncses.nsf.gov/pubs/nsb202332/international-comparisons-of-s-e-higher-education
+  - CSET (STEM PhD growth): https://cset.georgetown.edu/publication/china-is-fast-outpacing-u-s-stem-phd-growth/
+  - CRA Taulbee 2025: https://datavisualization.cra.org/TaulbeeReports/2025/doctoral.html
+  - NSF SED 2024: https://ncses.nsf.gov/pubs/nsf26315/report/field-of-doctorate
+  - Stanford HAI 2024 (CS PhDs): https://hai.stanford.edu/assets/files/hai_ai-index-report-2024_chapter6.pdf
+
+### AI publications: the last decade
+- **Global trend (Stanford HAI 2025):** AI publications nearly tripled from ~102,000 (2013) to 242,000+ (2023). AI's share of CS publications rose from 21.6% to 41.8%.
+- **China vs. US (Stanford HAI 2025):** In 2023, China produced 23.2% of all AI publications (the most of any country); US produced 15.2%. East Asia + Pacific led all regions at 34.5%.
+- **Digital Science (2014–2023):** US produced 772,000 AI papers (30% global share); China produced 465,000 (18%). But China's trajectory is upward (13,000 in 2012 → 60,000 in 2023) while the US has levelled off.
+- **Springer (2026, DBLP 2000–2022):** China has published 42% more AI papers than the US (74,260 more). China outproduced the US in AI papers since 2008 (participative) / 2007 (sole). In CS overall, the US still leads by 4.8%, but in China's sole research, China leads by 5.4%.
+- **CSET (merged corpus incl. CNKI):** Including CNKI (Chinese-language), China's 2020 AI publications jump from 62,000 to 254,000 — nearly half the world's AI publications. "China's lead in AI research output is even more pronounced than many English-language sources suggest."
+- **Citations (Stanford HAI 2025):** In 2023, Chinese AI publications accounted for 22.6% of all AI citations, US 13.0%. China's share of top-100 most-cited AI papers grew from 33 (2021) to 41 (2024).
+- **Quality nuance (CSET 2022):** Chinese researchers' share of top-5% AI publications rose from half of US output (2010) to parity (2019). US publications still receive more international citations. US leads in "sleeping beauties" (highly cited later) and in specific clusters (transformers, deep RL, AI ethics/safety).
+- **Notable models (Stanford HAI 2025):** US leads in notable AI model development: 40 (2024) vs. China's 15. Over the past decade, more notable ML models have originated from the US than any other country. Industry produced 90.2% of notable models in 2024.
+- **The publication picture in one chart:**
+  - 2000: US far ahead; China minimal (671 AI papers)
+  - 2007–2008: China surpasses US in annual AI paper count
+  - 2014: US publication growth plateaus
+  - 2016: China matches US in CS publications
+  - 2023: China leads in AI publication volume (23.2% vs. 15.2%) and citations (22.6% vs. 13.0%)
+  - 2024: US still leads in notable models (40 vs. 15) and top-cited papers, but the gap is narrowing
+- **Refs:**
+  - Stanford HAI 2025 AI Index: https://hai.stanford.edu/ai-index/2025-ai-index-report/research-and-development
+  - Stanford HAI 2025 (full chapter): https://hai.stanford.edu/assets/files/hai_ai-index-report-2025_chapter1_final.pdf
+  - Digital Science (2014–2023 cartogram): https://www.digital-science.com/blog/research-on-artificial-intelligence-the-global-divides/
+  - Springer (DBLP analysis): https://link.springer.com/article/10.1007/s11192-026-05573-6
+  - CSET (Counting AI Research): https://cset.georgetown.edu/wp-content/uploads/CSET-Counting-AI-Research.pdf
+  - CSET (high-impact comparison): https://cset.georgetown.edu/publication/comparing-u-s-and-chinese-contributions-to-high-impact-ai-research/
+  - Wiley (SciVal 1998–2022): https://onlinelibrary.wiley.com/doi/10.1155/2024/1689353
+
+### Robotics publications and researchers
+- **Robotics papers (ETO Almanac, 2018–2023):** ~221,000 English-language robotics articles published. China: 52,779 (24% share, +139% growth). US: 36,103 (16% share, +23% growth). China outproduces the US by 46%.
+- **Robotics journals (AMiner, 20 years):** US had 2,035 first authors and 308 institutions in SCIE Zone 1 robotics journals. China: 803 first authors, 180 institutions. But in 2022, China surpassed the US in both first authors and institutions for the first time.
+- **Robotics growth (AMiner):** China's robotics first authors grew 545% and institutions 256% between 2015 and 2022.
+- **Robotics patents (CSET):** China became the world leader in robotics patenting in 2015. Chinese organizations comprise most of the top 100 robotics patent grantees globally. 23 of China's top 25 robotics patent filers in 2019 were academic institutions.
+- **Robotics innovation (ITIF 2024):** China files ~3x more robotics patents than the US. China accounts for 27.9% of most-cited robotics research articles vs. US 24.6%. But US leads in innovative products (35 of top 50 in 2022 vs. 3 from China; 35 in 2023 vs. 1).
+- **Robotics quality gap (Atlantis Press, 2015–2024):** China ranks #1 in robotics papers (30,296) but has the lowest proportion of highly cited papers (0.23%). US ranks #2 (24,759) with higher citation rate (0.43%). "Large scale, weak quality" vs. US "quantity and quality" advantage.
+- **Robotics institutions (Atlantis Press):** Chinese Academy of Sciences leads globally with 2,715 robotics papers. Harbin Institute of Technology (1,787) and Tsinghua (1,421) in top 10. But MIT (CNCI 3.39) and UC system (CNCI 2.93) lead in impact.
+- **The robotics picture:** China leads in volume (papers, patents, first authors) and is closing the quality gap. The US leads in impact (citations, innovative products, top-venue publications). China's advantage is scale and academic pipeline; the US advantage is industry-driven innovation and research quality.
+- **Refs:**
+  - ETO Almanac (robotics data): https://almanac.eto.tech/topics/robotics/
+  - China Academy (AMiner robotics): https://thechinaacademy.org/new-frontier-of-sino-us-competition-for-technological-supremacy-robotics-research/
+  - CSET (robotics patents): https://cset.georgetown.edu/publication/chinas-robotics-patent-landscape/
+  - ITIF (robotics innovation): https://itif.org/publications/2024/03/11/how-innovative-is-china-in-the-robotics-industry/
+  - Atlantis Press (robotics bibliometrics): https://www.atlantis-press.com/article/126011242.pdf
+  - SCSP (robotics deficit): https://scorecard.scsp.ai/content/robotics/2026/The%20Robotic%20Deficit%20Diagnosing%20US-China%20Robotics%20Net%20Assessment.pdf
+
 ## I. Environmental
 
 ### Data center vs. power plant: energy and water consumption
@@ -396,4 +473,8 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 
 8. **China's Global South AI strategy is institutional, not just transactional**: The establishment of WAICO (29 founding members, HQ in Shanghai) represents a shift from ad-hoc development assistance to permanent institutional infrastructure. Combined with the 5,000 training slots, 200 training programs, and regional cooperation centers, China is building a parallel AI governance architecture that gives Global South countries a structural alternative to US-dominated institutions. The Jamestown analysis is candid: the PRC is "seeking to embed its preferred security and governance objectives into global standards by first targeting Global South countries." This is not charity — it is standard-setting through capacity building. The open-source models (DeepSeek, Qwen) are the Trojan horse: by providing high-performance AI at commodity prices, China makes the US premium pricing model irrelevant for most developing nations.
 
-9. **The US-China energy divergence is the most consequential difference in the AI race**: The US is building AI data centers on fossil fuels (gas, coal) because its grid cannot expand fast enough — gas turbine backlogs stretch to 2029, permitting takes 4–8 years, and the total effective capacity of the US generation base has stagnated since 2010. China is building AI data centers on a rapidly decarbonizing grid where renewables overtook coal in installed capacity in 2025. The numbers: China installed 357 GW of renewables in 2024 alone (430+ GW in 2025) — exceeding the entire US data center demand increase of 150–210 GW over a decade. The US data center sector is projected to add 130+ TWh of gas generation by 2030. China's data center emissions peak around 2030 then decline; the US trajectory is upward or flat. The strategic implication: the US controls the chips, but China controls the energy transition that powers them. The "electron gap" (Brookings) may ultimately matter more than the chip gap.
+10. **The US AI lead is an import story, not a homegrown one**: The US employs 59% of the world's elite AI researchers, but 38% of NeurIPS 2024 presenters got their undergraduate education in China, and 72% of China-educated AI researchers now work in the US. The US PhD pipeline is flat (2,595 CS doctorates in 2024, 57.7% foreign) while China's is growing (1.5–2x the US in AI-relevant PhDs, 99% more S&E PhDs in 2022). China produces 47% of the world's top-tier AI researchers vs. the US 18%. The US is becoming less attractive: elite AI researchers working in the US fell from 65% (2019) to 57% (2022), and the number of AI researchers moving to the US dropped 89% since 2017. The strategic implication: the US AI advantage is built on a pipeline that is shrinking and increasingly dependent on imported talent, while China's pipeline is growing and self-sustaining. By 2030, China's annual AI PhD output will be 2–3x the US.
+
+11. **China leads in AI publication volume; the US leads in impact and notable models**: China produces 23.2% of all AI publications (vs. US 15.2%) and 22.6% of citations (vs. US 13.0%). China has outproduced the US in annual AI papers since 2008. But the US still leads in notable AI models (40 vs. 15 in 2024), top-100 most-cited papers, and specific frontier clusters (transformers, deep RL, AI safety). The "quantity vs. quality" framing is real but narrowing: China's share of top-5% publications reached parity with the US in 2019, and its share of top-100 citations grew from 33 to 41 between 2021 and 2024. In robotics, China leads in papers (52,779 vs. 36,103), patents (3x the US), and first authors, but the US leads in citations and innovative products. The pattern across both fields: China wins on scale and pipeline; the US wins on impact and frontier innovation. The time lag between China's and the US's AI research topics, which was 6.3 years on average from 2009–2018, disappeared entirely by 2019.
+
+12. **The US-China energy divergence is the most consequential difference in the AI race**: The US is building AI data centers on fossil fuels (gas, coal) because its grid cannot expand fast enough — gas turbine backlogs stretch to 2029, permitting takes 4–8 years, and the total effective capacity of the US generation base has stagnated since 2010. China is building AI data centers on a rapidly decarbonizing grid where renewables overtook coal in installed capacity in 2025. The numbers: China installed 357 GW of renewables in 2024 alone (430+ GW in 2025) — exceeding the entire US data center demand increase of 150–210 GW over a decade. The US data center sector is projected to add 130+ TWh of gas generation by 2030. China's data center emissions peak around 2030 then decline; the US trajectory is upward or flat. The strategic implication: the US controls the chips, but China controls the energy transition that powers them. The "electron gap" (Brookings) may ultimately matter more than the chip gap.
