@@ -57,12 +57,16 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 - **China's engineering emphasis:** 36.4% of all Chinese doctorates are in engineering (vs. 15.6% in the US). China launched 7,500+ new engineering majors in the last decade, with ~1,000 dedicated to robotics.
 - **The pipeline asymmetry:** China is graduating more AI-relevant PhDs *and* the gap is widening. The US pipeline is flat and majority foreign. By 2030, China's annual AI PhD output will be 2–3x the US.
 - **Refs:**
-  - White House CEA (AI Talent Report): https://www.congress.gov/119/meeting/house/118204/documents/HHRG-119-JU03-20250507-SD001-U1.pdf
-  - NCSES (S&E doctorates): https://ncses.nsf.gov/pubs/nsb202332/international-comparisons-of-s-e-higher-education
-  - CSET (STEM PhD growth): https://cset.georgetown.edu/publication/china-is-fast-outpacing-u-s-stem-phd-growth/
-  - CRA Taulbee 2025: https://datavisualization.cra.org/TaulbeeReports/2025/doctoral.html
-  - NSF SED 2024: https://ncses.nsf.gov/pubs/nsf26315/report/field-of-doctorate
-  - Stanford HAI 2024 (CS PhDs): https://hai.stanford.edu/assets/files/hai_ai-index-report-2024_chapter6.pdf
+   - White House CEA (AI Talent Report): https://www.congress.gov/119/meeting/house/118204/documents/HHRG-119-JU03-20250507-SD001-U1.pdf
+   - NCSES (S&E doctorates): https://ncses.nsf.gov/pubs/nsb202332/international-comparisons-of-s-e-higher-education
+   - CSET (STEM PhD growth): https://cset.georgetown.edu/publication/china-is-fast-outpacing-u-s-stem-phd-growth/
+   - CRA Taulbee 2025: https://datavisualization.cra.org/TaulbeeReports/2025/doctoral.html
+   - NSF SED 2024: https://ncses.nsf.gov/pubs/nsf26315/report/field-of-doctorate
+   - Stanford HAI 2024 (CS PhDs): https://hai.stanford.edu/assets/files/hai_ai-index-report-2024_chapter6.pdf
+   - SAGE (China engineering education, 33.7% of majors): https://sage.cnpereading.com/doi/10.1177/20965311241265731
+   - MOE (postgraduate by field): http://en.moe.gov.cn/documents/statistics/2022/national/202401/t20240110_1099521.html
+   - fDi Intelligence (50,000+ STEM doctorates 2022): https://www.fdiintelligence.com/content/d0a58f39-0ed0-4b58-8c51-477133b6d9e1
+   - China Daily (26,000 engineering master's/doctoral students): https://www.chinadaily.com.cn/a/202512/11/WS693a208ea310d6866eb2e0c1.html
 
 ### AI publications: the last decade
 - **Global trend (Stanford HAI 2025):** AI publications nearly tripled from ~102,000 (2013) to 242,000+ (2023). AI's share of CS publications rose from 21.6% to 41.8%.
@@ -151,6 +155,10 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 - New national hubs in Ningxia, Gansu, Qinghai attracting investment from Tencent, Baidu, China Mobile/Telecom/Unicom
 - **Refs:**
   - Caixin Global (in-depth): https://www.caixinglobal.com/2025-05-16/in-depth-chinese-tech-giants-struggle-to-power-ai-data-center-boom-102320408.html
+  - CAICT (Data Center Electricity Consumption Report, 2025): https://www.caict.ac.cn/kxyj/qwfb/ztbg/202505/P020250509511369626787.pdf
+  - Caixin Global (AI boom pressure on grid): https://www.caixinglobal.com/2025-03-22/ai-boom-puts-pressure-on-chinas-power-grid-as-data-centers-eat-up-electricity-102300894.html
+  - Gov.cn (2021 green data center plan, PUE 1.3 target): https://english.www.gov.cn/statecouncil/ministries/202112/09/content_WS61b13edac6d09c94e48a1f81.html
+  - NDRC/MIIT/NEA/NDA (Data Center Green Low-Carbon Action Plan, 2024): https://www.gov.cn/zhengce/zhengceku/202407/content_6962214.htm
 
 ### Cross-province energy transport infrastructure
 - Western provinces hold 70% of installed renewable capacity but most computing demand remains in the east
@@ -165,12 +173,14 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 - Hainan Port pushing ahead with commercial data center using 100+ pressure vessels, powered by nearby nuclear plant
 - Follows Microsoft's Project Natick (2-year underwater test off Scotland)
 - 2025-2027 Guangdong Action Plan: "explore and plan the construction of underwater data centers in municipalities that possess the necessary conditions"
-- Underwater cooling eliminates 30-40% of energy spent on cooling
-- **Refs:**
-  - Reuters: https://www.reuters.com/markets/commodities/chinas-guangdong-province-plans-move-data-centres-undersea-cut-power-use-2021-12-14/
-  - DataCenterDynamics: https://www.datacenterdynamics.com/en/news/guangdong-puts-underwater-data-centers-in-its-5-year-marine-economy-plan-to-save-cooling-costs/
-  - FreshFromChina (2025-2027 plan): https://freshfromchina.com/guangdongs-underwater-data-centers-chinas-next-frontier-in-digital-infrastructure/
-  - 每经网 (2026 update): https://www.nbd.com.cn/articles/2026-01-30/4242100.html
+ - Underwater cooling eliminates 30-40% of energy spent on cooling
+ - **Refs:**
+   - Reuters: https://www.reuters.com/markets/commodities/chinas-guangdong-province-plans-move-data-centres-undersea-cut-power-use-2021-12-14/
+   - DataCenterDynamics: https://www.datacenterdynamics.com/en/news/guangdong-puts-underwater-data-centers-in-its-5-year-marine-economy-plan-to-save-cooling-costs/
+   - FreshFromChina (2025-2027 plan): https://freshfromchina.com/guangdongs-underwater-data-centers-chinas-next-frontier-in-digital-infrastructure/
+   - 每经网 (2026 update): https://www.nbd.com.cn/articles/2026-01-30/4242100.html
+   - Microsoft (Project Natick results): https://news.microsoft.com/2020-09-14/project-natick-underwater-data-center-results/
+   - SCMP (China data center water demand): https://www.scmp.com/news/china/science/article/3259230/chinas-growing-data-centres-and-ai-industry-could-strain-scarce-water-resources-according-new-report
 
 ### US vs. China: the energy buildout divergence
 - **The core asymmetry:** The US is building AI data centers faster than it can build clean power. China is building clean power faster than it can build data centers. The result is two fundamentally different energy trajectories for the same technology.
@@ -218,9 +228,15 @@ China's approach to AI is not just a tech race — it is a different civilizatio
   - LBNL, "US Data Center Energy Usage Report 2025": https://seta.lbl.gov/publications/united-states-data-center-energy-2025
   - RAND, "Assessing the US Additional AI Power Capacity by 2030": https://www.rand.org/pubs/research_reports/RRA3845-1.html
   - AP News, "China built out record wind and solar in 2024": https://apnews.com/article/wind-solar-energy-china-climate-carbon-emissions-b337503abfacfd9b7829fd7bbcd507e9
-  - Gov.cn, "China's newly installed wind, solar up 22% in 2025": https://english.www.gov.cn/archive/statistics/202602/12/content_WS698d93cbc6d00ca5f9a091bb.html
-  - PV Magazine, "China adds 315 GW solar in 2025": https://www.pv-magazine.com/2026/01/28/china-adds-315-gw-of-solar-in-2025/
-  - IEA, "Solar PV and wind net additions in China 2024-2025": https://www.iea.org/data-and-statistics/charts/solar-pv-and-wind-net-additions-in-china-2024-2025
+   - NEA (2024 official data): http://www.nea.gov.cn/20250121/097bfd7c1cd3498897639857d86d5dac/c.html
+   - Xinhua (2024 capacity): https://english.news.cn/20250121/fce0300388b340cf8fbed805497e0fa4/c.html
+   - Electrek (2024 numbers): https://electrek.co/2025/01/21/china-solar-wind-2024/
+   - PV-Tech (277 GW solar 2024): https://www.pv-tech.org/china-hits-another-record-high-with-277-17gw-of-new-pv-in-2024/
+   - Gov.cn (2024 renewables 56% of capacity): https://english.www.gov.cn/archive/statistics/202501/28/content_WS6798de96c6d0868f4e8ef410.html
+   - Gov.cn, "China's newly installed wind, solar up 22% in 2025": https://english.www.gov.cn/archive/statistics/202602/12/content_WS698d93cbc6d00ca5f9a091bb.html
+   - PV Magazine, "China adds 315 GW solar in 2025": https://www.pv-magazine.com/2026/01/28/china-adds-315-gw-of-solar-in-2025/
+   - IEA, "Solar PV and wind net additions in China 2024-2025": https://www.iea.org/data-and-statistics/charts/solar-pv-and-wind-net-additions-in-china-2024-2025
+   - Enerdata (2024 capacity breakdown): https://www.enerdata.net/publications/daily-energy-news/china-installs-record-capacity-solar-45-and-wind-18-2024.html
   - Bloomberg, "US and China Diverge on Strategies to Power AI Data Centers": https://www.bloomberg.com/news/newsletters/2025-07-28/us-and-china-diverge-on-strategies-to-power-their-ai-data-centers
   - Reuters, "US AI boom faces electric shock": https://www.reuters.com/markets/commodities/us-ai-boom-faces-electric-shock-2026-02-25/
   - Columbia CKI, "Powering Data": https://business.columbia.edu/sites/default/files-efs/imce-uploads/CKI/data%20centers%20CKI/CKI%20AI%20x%20Data%20Centers-260123.pdf
@@ -248,11 +264,15 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 - Major tech companies (Alibaba, ByteDance) disabled persona features in chatbots to comply
 - 2025 survey: >60% of 8,500 minors had used AI; >20% said they "only wanted to chat with AI and did not want to talk with real people"
 - **Refs:**
-  - AP News: https://apnews.com/article/china-ai-virtual-companions-bytedance-wechat-22c4247031092c37b61b537dd809b658
-  - Caixin Global: https://www.caixinglobal.com/2026-07-16/chinas-first-ai-companion-rules-to-curb-addiction-protect-minors-102464887.html
-  - Xinhua: https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html
-  - Comparative AI (full rule text): https://comparativeai.org/rules/china/anthropomorphic-interaction-services/
-  - Official regulation: http://www.nmgwx.gov.cn/departmentalRegulations/18108.jhtml
+   - AP News: https://apnews.com/article/china-ai-virtual-companions-bytedance-wechat-22c4247031092c37b61b537dd809b658
+   - Caixin Global: https://www.caixinglobal.com/2026-07-16/chinas-first-ai-companion-rules-to-curb-addiction-protect-minors-102464887.html
+   - Xinhua: https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html
+   - Comparative AI (full rule text): https://comparativeai.org/rules/china/anthropomorphic-interaction-services/
+   - Official regulation: http://www.nmgwx.gov.cn/departmentalRegulations/18108.jhtml
+   - China Youth Daily (8,563-student survey, 61.7% AI use, 21.5% prefer AI chat): https://zqb.cyol.com/pc/content/202603/26/content_423920.html
+   - The Paper (survey methodology): https://www.thepaper.cn/newsDetail_forward_32814783
+   - China Daily (survey findings): https://www.chinadaily.com.cn/a/202604/26/WS69ee2f3aa310d6866eb459b3.html
+   - Just Security (AI companion rules analysis): https://www.justsecurity.org/148468/china-ai-companion-rules-relationships/
 
 ### Ban on replacing workers with AI
 - Hangzhou Intermediate People's Court (April 2026): ruled it illegal to terminate employees solely to replace them with AI
@@ -273,10 +293,12 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 - 2023: Interim Measures for Generative AI Services (effective Aug 15, 2023) — cross-ministerial governance (CAC + 6 ministries); requirements for lawful data, content safety, labeling, risk mitigation, transparency, filing/registration
 - 2024: AI Safety Governance Framework (Sept 9, 2024) — first version; "people-centered approach"; classifies AI safety risks into inherent and application risks; proposes tiered management based on risk level
 - **Refs:**
-  - MOST (2019 principles): https://www.most.gov.cn/kjbgz/201906/t20190617_147107.html
-  - Gov.cn (2023 Interim Measures): https://www.gov.cn/zhengce/202311/content_6917778.htm
-  - DLA Piper (2024 Framework analysis): https://www.dlapiper.com/en-us/insights/publications/2024/09/china-releases-ai-safety-governance-framework
-  - Regulations.ai: https://regulations.ai/regulations/china-2023-7-generative-ai
+   - MOST (2019 principles, full text): https://www.most.gov.cn/kjbgz/201906/t20190617_147107.html
+   - Gov.cn (2023 Interim Measures): https://www.gov.cn/zhengce/202311/content_6917778.htm
+   - DLA Piper (2024 Framework analysis): https://www.dlapiper.com/en-us/insights/publications/2024/09/china-releases-ai-safety-governance-framework
+   - Regulations.ai: https://regulations.ai/regulations/china-2023-7-generative-ai
+   - Library of Congress (2019 principles analysis): https://www.loc.gov/item/global-legal-monitor/2019-09-09/china-ai-governance-principles-released/
+   - Comparative AI (2019 principles, comparative context): https://comparativeai.org/en/rules/china/new-gen-ai-governance-principles/
 
 ### AI in schools from elementary level
 - Ministry of Education circular (Dec 2024): enhance AI education in primary and secondary schools; establish related curriculums, incorporate AI into routine teaching, conduct regular evaluations
@@ -338,11 +360,14 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 - MEGVII (Zhejiang): smart dark workshop producing engines 24/7
 - "Made in China 2025" (2015) prioritized robotics, AI, smart production
 - **Refs:**
-  - South China Morning Post (J-20): https://www.scmp.com/news/china/science/article/3353253/chinas-dark-factory-more-doubles-production-efficiency-j-20-jets
-  - CBS News (Gree): https://www.cbsnews.com/news/trump-china-visit-dark-factories-investment/
-  - VnExpress: https://e.vnexpress.net/news/tech/tech-news/no-lights-no-workers-ai-powered-dark-factories-are-reshaping-china-s-manufacturing-4921224.html
-  - Seoul Economic Daily (Xiaomi): https://en.sedaily.com/finance/2026-01-01/xiaomi-deploys-136-ai-systems-to-achieve-01mm-precision-in
-  - JICC (systematic survey): https://www.jicce.org/journal/view.html?doi=10.56977%2Fjicce.2025.23.4.336
+   - South China Morning Post (J-20): https://www.scmp.com/news/china/science/article/3353253/chinas-dark-factory-more-doubles-production-efficiency-j-20-jets
+   - CBS News (Gree): https://www.cbsnews.com/news/trump-china-visit-dark-factories-investment/
+   - VnExpress: https://e.vnexpress.net/news/tech/tech-news/no-lights-no-workers-ai-powered-dark-factories-are-reshaping-china-s-manufacturing-4921224.html
+   - Seoul Economic Daily (Xiaomi): https://en.sedaily.com/finance/2026-01-01/xiaomi-deploys-136-ai-systems-to-achieve-01mm-precision-in
+   - JICC (systematic survey): https://www.jicce.org/journal/view.html?doi=10.56977%2Fjicce.2025.23.4.336
+   - Gov.cn (Made in China 2025, full text): https://www.gov.cn/zhengce/content/2015-05/19/content_9784.htm
+   - CSET (Made in China 2025 English translation): https://cset.georgetown.edu/publication/notice-of-the-state-council-on-the-publication-of-made-in-china-2025/
+   - China Daily (plan unveiling): http://www.chinadaily.com.cn/business/2015-05/19/content_20760528.htm
 
 ### Hybrid factories
 - (Note: "hybrid factories" from raw notes — likely refers to the smart-to-dark factory transition, where human and machine collaborate in dual-track talent systems)
@@ -357,11 +382,14 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 - Anti-996 License: software license restricting code use to entities complying with labor laws; adopted by 2,000+ projects
 - 2025: Some firms (Midea, Haier) now imposing mandatory clock-off times and bans on after-hours meetings — prompted by EU labour laws
 - **Refs:**
-  - CNN (curse of 35): https://www.cnn.com/2023-08-26/china/35-curse-unemployment-discrimination-intl-hnk
-  - BBC (full-time children): https://www.bbc.com/news/world-asia-china-66172192
-  - MIT Technology Review: https://www.technologyreview.com/2021-11-15/1039650/china-tech-workers-996-fight-back/
-  - New York Times: https://www.nytimes.com/2019-04-29/technology/china-996-jack-ma.html
-  - Reuters (2025 change): https://www.reuters.com/world/china/china-whispers-change-some-companies-tell-staff-work-less-2025-04-08/
+   - CNN (curse of 35): https://www.cnn.com/2023-08-26/china/35-curse-unemployment-discrimination-intl-hnk
+   - BBC (full-time children): https://www.bbc.com/news/world-asia-china-66172192
+   - MIT Technology Review: https://www.technologyreview.com/2021-11-15/1039650/china-tech-workers-996-fight-back/
+   - New York Times: https://www.nytimes.com/2019-04-29/technology/china-996-jack-ma.html
+   - Reuters (2025 change): https://www.reuters.com/world/china/china-whispers-change-some-companies-tell-staff-work-less-2025-04-08/
+   - Yicai Global (DJI, Midea, Haier anti-rat-race measures): https://www.yicaiglobal.com/news/chinas-dji-midea-cut-back-on-long-working-hours-put-focus-on-staff-well-being
+   - TechNode (Midea performative overtime ban): https://technode.com/2025-01-23/midea-president-bans-performative-overtime-and-excessive-ppt-use-within-the-company/
+   - Yicai Global (10% of firms use forced clock-out): https://www.yicaiglobal.com/news/nearly-a-tenth-of-chinese-firms-use-forced-clock-out-systems-survey-finds
 
 ### Monopoly on critical minerals for all tech, including next-gen drone warfare
 - China produces over 90% of the world's processed rare earths and ~95% of permanent magnet production (IEA)
@@ -369,14 +397,29 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 - October 2025: MOFCOM dramatically expanded controls — added 5 new elements, dozens of refining technologies, and first extraterritorial jurisdiction (requiring foreign entities to obtain Chinese licenses when exporting controlled rare earth items from one country to another)
 - June 2026: China imposed export controls on US rare-earth companies (MP Materials, USA Rare Earth) in retaliation for Pentagon adding Chinese firms (BYD, Alibaba, Baidu) to military list
 - 2010 precedent: rare earth exports halted to Japan after boat collision; dysprosium oxide prices rose from $91/kg to $2,377/kg
-- ECB estimates >4/5 of Europe's large companies are within 3 supply chain steps of a Chinese rare earth producer
-- Non-Chinese rare-earth processing capacity remains a decade away by most estimates
-- **Refs:**
-  - Reuters (Oct 2025 expansion): https://www.reuters.com/world/china/china-tightens-rare-earth-export-controls-2025-10-09/
-  - Reuters (trade war weapon): https://www.reuters.com/world/china/chinas-rare-earth-weapon-changes-contours-trade-war-battlefield-2025-06-06/
-  - Foreign Policy (US company controls): https://foreignpolicy.com/2026-06-22/china-us-rare-earth-export-control-trade/
-  - RUSI (comprehensive analysis): https://static.rusi.org/china-and-rare-earths-supply-chain-june-2026.pdf
-  - Andersen Institute: https://anderseninstitute.org/wp-content/uploads/2026/04/AI-Note-06-2026.pdf
+ - ECB estimates >4/5 of Europe's large companies are within 3 supply chain steps of a Chinese rare earth producer
+ - Non-Chinese rare-earth processing capacity remains a decade away by most estimates
+ - **Refs:**
+   - Reuters (Oct 2025 expansion): https://www.reuters.com/world/china/china-tightens-rare-earth-export-controls-2025-10-09/
+   - Reuters (trade war weapon): https://www.reuters.com/world/china/chinas-rare-earth-weapon-changes-contours-trade-war-battlefield-2025-06-06/
+   - Foreign Policy (US company controls): https://foreignpolicy.com/2026-06-22/china-us-rare-earth-export-control-trade/
+   - RUSI (comprehensive analysis): https://static.rusi.org/china-and-rare-earths-supply-chain-june-2026.pdf
+   - Andersen Institute: https://anderseninstitute.org/wp-content/uploads/2026/04/AI-Note-06-2026.pdf
+   - IEA (Rare Earth Elements, 2024 data): https://www.iea.org/reports/rare-earth-elements
+   - IEA (Executive Summary): https://www.iea.org/reports/rare-earth-elements/executive-summary
+   - IEA (News, supply chain risks): https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements
+   - ECB (Euro area vulnerability, network analysis): https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202506_01~44d432008e.en.html
+   - ECB (Occasional Paper 384, model-based assessment): https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op384.en.pdf
+   - Adamas Intelligence (2010 price spike analysis): https://www.adamasintel.com/rare-earth-export-restrictions-price-spikes-and-the-risk-of-demand-destruction/
+   - New York Times (2010 export halt): https://www.nytimes.com/2010/09/23/business/global/23rare.html
+   - Japan Times (2010 ban): https://www.japantimes.co.jp/news/2010/10/13/national/no-improvement-in-chinas-rare-earths-ban/
+   - CEPR/VoxEU (revisiting 2010 dispute): https://cepr.org/voxeu/columns/revisiting-china-japan-rare-earths-dispute-2010
+   - Atlantic Council (mapping China's strategy): https://www.atlanticcouncil.org/wp-content/uploads/2025/06/Mapping-Chinas-strategy-for-rare-earths-dominance.pdf
+   - Reuters (Europe auto industry impact): https://www.reuters.com/business/autos-transportation/some-european-auto-supplier-plants-shut-down-after-chinas-rare-earth-curbs-2025-06-04/
+   - WEF (Europe rare earth dependency): https://www.weforum.org/stories/2025/10/from-chips-to-turbines-europe-depends-on-critical-raw-materials/
+   - fDi Intelligence (China dominant for another decade): https://www.fdiintelligence.com/content/c520dbee-ee2e-41f8-985d-76277a4989cd
+   - Econofact (US reliance, 10-15 year timeline): https://econofact.org/can-the-u-s-reduce-its-reliance-on-imported-rare-earth-elements
+   - Oxford Energy (China's dominance and policy): https://www.oxfordenergy.org/wpcms/wp-content/uploads/2023/06/CE7-Chinas-rare-earths-dominance-and-policy-responses.pdf
 
 ### Free AI undercutting the price of Western AI development
 - DeepSeek V4-Flash: ~105x cheaper than Anthropic's Claude Fable 5; $0.14 per million input tokens vs $5 for GPT-5.5
