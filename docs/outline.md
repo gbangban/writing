@@ -7,6 +7,28 @@
 ## Thesis
 China's approach to AI is not just a tech race — it is a different civilizational strategy spanning energy, society, economics, and military power. Understanding these differences is essential to grasping where the world is heading.
 
+## Overarching Vision: The Two-Step Modernization Strategy (2035 / 2050)
+
+- At the 19th CPC National Congress (2017), Xi Jinping set out a "two-step" strategy for the Second Centenary Goal:
+  - **Step 1 (2020–2035):** Basically realize socialist modernization. China's economic, scientific, and technological strength rises sharply; per capita GDP reaches the level of a moderately developed country; new industrialization, expansion of IT application, and agricultural modernization are basically achieved; modernization of the national defense and armed forces is largely in place.
+  - **Step 2 (2035–mid-century / 2050):** Build China into "a great modern socialist country that is prosperous, strong, democratic, culturally advanced, harmonious, and beautiful." China becomes a global leader in comprehensive national strength and international influence; common prosperity for all is largely realized.
+- The 20th CPC National Congress (2022) reaffirmed this two-step strategy as the Party's central task.
+- **AI and robotics are explicitly positioned as the engine of this modernization:**
+  - Xi (July 2026, WAIC): "Intelligent Manufacturing in China has become another shining hallmark of Chinese modernization." The core smart economy industries are worth at least RMB 1 trillion.
+  - Xi (July 2026, sci-tech innovation speech): The 15th Five-Year Plan period (2026–2030) is "a critical phase for tackling tough challenges in building up the country's strength in science and technology." Target: "make steady progress toward the 2035 goal of becoming a leading country in science and technology." Major projects to be planned "across frontier fields like AI, quantum tech and life sciences."
+  - 15th Five-Year Plan (March 2026): China will "seize the commanding heights of science and technological development" and seek "decisive breakthroughs in key core technologies," including AI, quantum computing, and humanoid robots.
+  - Xi (July 2026, WAIC): AI is "moving from the digital world into the physical world" — an endorsement of embedding AI in robotics and intelligent manufacturing as the material basis for modernization.
+- **The 2050 vision is not just economic — it is civilizational:** "Modernization with Chinese characteristics" explicitly rejects "the Western routes of capital-centered modernization, polarized modernization, materialistic expansion, and external plundering" and "shatters the myth that modernization equals Westernization." AI and robotics are the material substrate for this alternative modernization path.
+- **Refs:**
+  - Xi, WAIC 2026 keynote (full text): http://english.scio.gov.cn/m/topnews/2026-07/18/content_118605932.html
+  - Xi, WAIC 2026 (CGTN): https://news.cgtn.com/news/2026-07-17/Full-text-Xi-s-keynote-speech-at-the-2026-WAIC-opening-ceremony-1OQSfeoRvUs/p.html
+  - Xi, sci-tech innovation speech (July 2026): http://english.www.gov.cn/news/202607/08/content_WS6a4dc8b9c6d00ca5f9a0c10d.html
+  - Reuters, 15th Five-Year Plan: https://www.reuters.com/world/asia-pacific/china-vows-accelerate-technological-self-reliance-ai-push-2026-03-05/
+  - Springer, "The Basic Realization of Socialist Modernization by 2035": https://link.springer.com/chapter/10.1007/978-981-99-3397-6_2
+  - QSTheory, "Embarking on a New Journey to Build a Modern Socialist China": https://en.qstheory.cn/2021-01/14/c_581654.htm
+  - TheoryChina, "Understanding Chinese Modernization": https://en.theorychina.org.cn/c/2024-06-20/1503226.shtml
+  - Xinhua (Xi 2021 centenary declaration): https://english.news.cn/20240504/ae50c03d5f544ae8a651f146c08e5be9/20240504ae50c03d5f544ae8a651f146c08e5be9_332fa818c707734567b4c3c4f2ad406eb0.pdf
+
 ## I. Environmental
 
 ### Data center vs. power plant: energy and water consumption
@@ -15,11 +37,35 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 - Water consumption: estimated ~1.3bn m³ today, could rise to >3bn m³ by 2030; 72% of computing capacity located in severe water-scarce regions
 - 46% of data center racks are in the "Dry 10" water-scarce provinces; 35% of national racks in extreme water-scarce regions
 - PUE (Power Usage Effectiveness) target: cut large data centers to 1.25 by 2025 (Germany requires 1.5 by 2027)
+- **The "data center vs. power plant" split — Microsoft's Nature paper (2025):**
+  - Microsoft researchers published the first public cradle-to-grave life cycle assessment (LCA) comparing four data center cooling technologies (air-cooled, cold-plate, one-phase immersion, two-phase immersion) across GHG emissions, energy demand, and blue water consumption.
+  - **The critical finding: switching from grid electricity to 100% renewable energy reduces GHG emissions by 85–90%, energy demand by 6–7%, and blue water consumption by 55–85% — regardless of cooling technology.** This dwarfs the 15–21% GHG savings from switching cooling methods.
+  - The paper explicitly states: "The largest contributor to impacts for all cooling technologies is the use phase" — i.e., the electricity consumed to operate servers. "Average grid electricity is still heavily dependent on fossil fuels." Thermal power generation (coal, gas) also requires water to convert to steam.
+  - **Implication for the article's argument:** The environmental impact of AI data centers is overwhelmingly determined by the energy source, not the data center design. Building "green" or "sustainable" data centers (better cooling, lower PUE) yields modest gains (15–21% GHG). But decarbonizing the grid — the broader renewable energy buildout — is the dominant lever, accounting for 85–90% of potential emissions reduction. This reframes the debate: the question is not "how do we build cleaner data centers?" but "how fast can we decarbonize the power grid?"
+  - **Water follows the same logic:** renewable electricity requires far less water for generation than thermal power. Switching to 100% renewable energy reduces blue water consumption by 55–85%, compared to 31–52% from switching cooling technologies. The water savings from grid decarbonization are roughly 2x the savings from data center cooling innovation.
+  - Microsoft's own data: FY25 total energy consumption 37.5 TWh (up 168% from 2020), but Scope 1+2 emissions down 29.9% from 2020 baseline — because they contracted 34 GW of carbon-free electricity across 24 countries (18x increase since 2020). The energy went up; the emissions went down. The grid, not the data center, is the lever.
+  - **China's "East Data, West Computing" initiative is essentially a grid-decarbonization strategy for AI:** by moving compute to the western regions where 70% of installed renewable capacity sits, China is effectively routing AI workloads to cleaner electricity. This is structurally more impactful than any data center design innovation.
+- **IEA corroboration:**
+  - Data centers consumed 415 TWh globally in 2024 (1.5% of world electricity); projected to double to ~945 TWh by 2030 (3% of global electricity).
+  - Renewables are the fastest-growing source of data center electricity, meeting nearly 50% of the growth in data center demand to 2030. In China, renewables + nuclear are expected to push coal into decline for data center operations by 2035.
+  - CO2 emissions from data center electricity peak at ~320 Mt CO2 by 2030, then enter a shallow decline — because the grid is decarbonizing faster than data center demand is growing.
+  - Data centers remain "a relatively small part of the overall power system" — rising from ~1% of global electricity generation today to 3% in 2030, accounting for less than 1% of total global CO2 emissions.
+  - **The broader renewable energy buildout is the dominant emissions factor.** Global power sector emissions (~13,900 Mt CO2 annually) are plateauing as renewables overtake coal. Renewables and nuclear are expected to account for ~50% of global electricity by 2030. The 300 Mt CO2 from data centers is a rounding error against the 13,900 Mt from the power sector — and the grid is the thing being decarbonized.
 - **Refs:**
   - Carbon Brief: https://www.carbonbrief.org/explainer-how-china-is-managing-the-rising-energy-demand-from-data-centres
   - Caixin Global: https://www.caixinglobal.com/2025-03-22/ai-boom-puts-pressure-on-chinas-power-grid-as-data-centers-eat-up-electricity-102300894.html
   - CWR (water risk): https://cwrrr.org/wp-content/uploads/2024/04/CWR-2024-China-ICT-running-dry-The-rise-of-AI-climate-risks-amplify-existing-water-risks-faced-by-thirsty-data-centres.pdf
   - Applied Energy journal: https://ideas.repec.org/a/eee/appene/v399y2025ics0306261925012528.html
+  - **Microsoft Nature paper (LCA of data center cooling):** https://www.nature.com/articles/s41586-025-08832-3
+  - **Microsoft (Nature paper press release):** https://news.microsoft.com/source/features/sustainability/microsoft-quantifies-environmental-impacts-of-datacenter-cooling-from-cradle-to-grave-in-new-nature-study/
+  - **Microsoft 2025 Environmental Sustainability Report:** https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Microsoft-Environmental-Sustainability-Report.pdf
+  - **Microsoft 2026 Environmental Data Fact Sheet:** https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf
+  - **IEA, Energy and AI (executive summary):** https://www.iea.org/reports/energy-and-ai/executive-summary
+  - **IEA, Energy supply for AI:** https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai
+  - **IEA, Key Questions on Energy and AI (2026 update):** https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
+  - **IEA, Electricity 2026:** https://www.iea.org/reports/electricity-2026/executive-summary
+  - **Columbia CKI, "Powering Data":** https://business.columbia.edu/sites/default/files-efs/imce-uploads/CKI/data%20centers%20CKI/CKI%20AI%20x%20Data%20Centers-260123.pdf
+  - **UN University (AP News):** https://apnews.com/article/ai-data-centers-environment-climate-footprint-a792f184a9f2833b5388dbae8b41ca95
 
 ### First electrostate: renewables and the scale/pace of the buildout
 - "East Data, West Computing" initiative (2022): channel computing from energy-hungry east to wind/solar-rich west (70% of installed renewable capacity)
@@ -113,6 +159,42 @@ China's approach to AI is not just a tech race — it is a different civilizatio
   - ECNU journal (curriculum guidelines): https://xbjk.ecnu.edu.cn/EN/10.16382/j.cnki.1000-5560.2023.03.013
   - AAAI (AI teaching resources): https://ojs.aaai.org/index.php/AAAI/article/view/26904
   - Beijing Education Commission: https://jw.beijing.gov.cn/xxgk/2024zcwj/2024qtwj/202506/t20250626_4127392.html
+
+### AI education and capacity building for the Global South
+- **Strategic framing:** Xi (WAIC 2026): "We must carry out extensive international cooperation and help Global South countries with capacity building to bridge the AI and digital divides, promote sustainable development, and prevent creating new historical injustice in AI." AI should not be "a solo performance by a single country but rather a symphony of global cooperation."
+- **5,000 AI training opportunities (July 2026):** Xi announced China will provide developing countries with 5,000 AI training and seminar opportunities over the next five years, plus international AI application cooperation centers with ASEAN, the League of Arab States, the African Union, the Community of Latin American and Caribbean States, the Shanghai Cooperation Organization, and BRICS. Also: 30 countries invited to use China's AI-powered meteorological warning system (MAZU).
+- **WAICO — World Artificial Intelligence Cooperation Organization:** Founded July 16, 2026 by 29 countries, headquartered in Shanghai. Founding members heavily weighted toward Africa (Algeria, Cameroon, Congo, Ethiopia, Kenya, Lesotho, Mozambique, Senegal, South Africa) and the Middle East (Oman), plus Asia (Cambodia, Indonesia, Kazakhstan, Kyrgyzstan, Laos, Malaysia, Myanmar, Pakistan, Tajikistan, Uzbekistan) and Latin America (Brazil, Cuba, Nicaragua, Venezuela). Many signatories already participate in China's Digital Silk Road or Belt and Road Initiative. WAICO is designed as a permanent institutional channel for technology sharing, policy dialogue, capacity building, and collaborative governance — an alternative to US-dominated AI governance institutions.
+- **"Digital South" initiative (July 2025):** Premier Li Qiang announced at the 17th BRICS Summit that China will host 200 training programs on digital economy and AI for Global South countries over the next five years, under the Global Development Initiative framework.
+- **AI Capacity-Building Action Plan for Good and for All (Sept 2024):** China's formal plan to bridge the AI and digital divides, implementing UN General Assembly Resolution A/RES/78/311. Key commitments: North-South, South-South, and triangular cooperation; joint AI infrastructure and laboratories; 10 AI workshops and seminars for developing countries by end of 2025; AI literacy programs with focus on women and children; open-source and inclusive AI communities.
+- **AI+ International Cooperation Initiative (Sept 2025):** Proposed at a high-level meeting on the Global Development Initiative. Calls for "AI+ talents cultivation" campaign — joint development and sharing of AI education resources, talent exchanges to train AI professionals with "digital literacy, innovation skills and a global vision." Also: AI in healthcare (telemedicine, disease prevention in remote regions), AI in education (equitable distribution of high-quality education resources).
+- **Africa-specific investments:**
+  - **AU–ASRIC + Beijing Academy of AI + Peking University:** AI Compute Faculty Development Initiative — trains African university lecturers as "Seed Teachers" to replicate AI knowledge, develop curricula, and drive AI programs in their home institutions. 1st Cohort (April 2026): 130+ applications from 24 African countries; 15 lecturers selected. Curriculum covers AI systems, computing architecture, ML systems, large-scale model training, open-source AI frameworks (FlagOS ecosystem).
+  - **South Africa–China digital education framework (May 2026):** Agreed at World Digital Education Conference in Hangzhou. Joint Technical Working Group to oversee China–South Africa Vocational and Technical Centres across all nine provinces. TVET cooperation aligned to AI, robotics, renewable energy, and advanced manufacturing. BYD committing to internships/employment for South African TVET graduates. Scholarship programs aligned to South Africa's industrial priorities.
+  - **Kenya:** First-ever Regional Cooperation Center for China-Africa Digital Education launched at Open University of Kenya (Feb 2025), part of 2024 FOCAC Summit plans. Collaboration between Open University of China, Donghua University, and Open University of Kenya. Joint online programs, staff capacity-building, co-offered academic and nonacademic programs.
+  - **China-Africa Community with a Shared Future in Cyberspace (2025–2026 Plan):** China will cultivate African talents in digital economy, e-commerce, ICT, cybersecurity, and AI via the China-Africa Exchange and Cooperation Center. Annual China-Africa Digital Economy Seminar and Cybersecurity Seminar. Dialogue on AI rules, cross-border data flows, and Internet-related laws.
+  - **Zimbabwe:** High-Performance Computing Center supporting universities and scientific research — expanded computing capacity accelerating AI research.
+- **ASEAN-specific investments:**
+  - 2026 China-ASEAN Education Cooperation Week (Guizhou, July 28–Aug 2): AI as "a new driver of educational collaboration."
+  - National University of Laos + Guangxi Minzu University: AI development center.
+  - Shandong University + Vietnamese universities + Goertek: tailored intelligent manufacturing training; first batch of 20 Vietnamese students completed 4-month course before joining Goertek's Vietnam branch.
+  - Shanghai University: "art plus AI technology" education model attracting ASEAN students; AI-assisted platform at Confucius Institute in Thailand.
+  - Guizhou: 17 training bases for ASEAN and Belt and Road countries; 20,900 students received training.
+- **Strategic significance:** China is building an integrated AI ecosystem for the Global South — models (DeepSeek, Qwen open-source), training, infrastructure, standards, and governance — as an alternative to US-dominated AI platforms. The goal is digital sovereignty: enabling countries to "build AI systems aligned with their own development priorities" rather than depending on foreign technology platforms. The Jamestown analysis notes the PRC is "seeking to embed its preferred security and governance objectives into global standards by first targeting Global South countries."
+- **Refs:**
+  - Xi, WAIC 2026 keynote (5,000 training, cooperation centers): http://english.scio.gov.cn/m/topnews/2026-07/18/content_118605932.html
+  - Gov.cn (5,000 AI training): https://english.www.gov.cn/news/202607/17/content_WS6a59a5c3c6d00ca5f9a0c439.html
+  - MFA (AI Capacity-Building Action Plan): https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240927_11498465.html
+  - MFA (AI+ International Cooperation Initiative): https://www.mfa.gov.cn/eng/xw/zyxw/202509/t20250924_11715960.html
+  - Global Times (Digital South, 200 training programs): https://www.globaltimes.cn/page/202507/1337888.shtml
+  - The Diplomat (WAICO analysis): https://thediplomat.com/2026/07/with-new-ai-governance-organization-china-seeks-to-formalize-its-global-ai-influence/
+  - Jamestown (Xi AI governance leadership): https://jamestown.org/xi-pursues-ai-governance-leadership-at-beijing-summit/
+  - AU-ASRIC (AI Compute Faculty Development): https://asric.africa/events/call-participation-ai-compute-faculty-development-initiative
+  - SAnews (South Africa–China digital education): https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-digital-education
+  - China Daily (Kenya digital education center): https://www.chinadaily.com.cn/a/202502/08/WS67a6c534a310a2ab06eaae40.html
+  - CAC (China-Africa Cyberspace Plan): https://www.cac.gov.cn/2025-09/28/c_1760606713169654.htm
+  - SCIO (China-ASEAN education): http://english.scio.gov.cn/internationalexchanges/2026-08/04/content_118632350.html
+  - CGTN (Global South AI leverage): https://news.cgtn.com/news/2026-08-10/Why-Global-South-will-have-more-leverage-than-ever-in-the-future-of-AI-1PurCThjGMw/p.html
+  - Heeks, "China's digital expansion in the Global South" (academic review): https://www.tandfonline.com/doi/full/10.1080/01972243.2024.2315875
 
 ## III. Economic
 
@@ -255,3 +337,7 @@ China's approach to AI is not just a tech race — it is a different civilizatio
 5. **MizarVision is not a "private military company"**: It is a commercial geospatial intelligence company with 5.5% government ownership. The raw notes' framing as "private military companies selling targeting information" overstates the case. The DIA assessment is that the imagery *helped* Iran target US forces, but China's MFA denies any state direction. The company is on the US OFAC SDN list, which is the strongest evidence of US government concern.
 
 6. **The 996/curse-of-35 narrative is evolving**: While still prevalent, 2025 data shows some major firms (Midea, Haier) are now imposing mandatory clock-off times and banning after-hours meetings — a partial reversal prompted by EU labour law compliance. This suggests the "disposable labor" thesis may be partially outdated, though the curse of 35 persists.
+
+7. **The "data center vs. power plant" framing is a red herring — the grid is the lever**: Microsoft's Nature paper (2025) provides the definitive quantitative argument. Switching data center cooling technology saves 15–21% GHG. Switching the electricity source to 100% renewable saves 85–90% GHG and 55–85% water. The data center design is a second-order concern; the energy source is the first-order concern. This means the environmental debate about AI is really a debate about grid decarbonization speed. China's "East Data, West Computing" initiative is strategically aligned with this: it routes compute to where renewable capacity already exists, effectively decarbonizing AI workloads without requiring any data center innovation. The IEA corroborates: data center emissions peak at ~320 Mt CO2 by 2030 then decline, because the grid is decarbonizing faster than data center demand is growing. The 300 Mt from data centers is <2.5% of the 13,900 Mt from the global power sector.
+
+8. **China's Global South AI strategy is institutional, not just transactional**: The establishment of WAICO (29 founding members, HQ in Shanghai) represents a shift from ad-hoc development assistance to permanent institutional infrastructure. Combined with the 5,000 training slots, 200 training programs, and regional cooperation centers, China is building a parallel AI governance architecture that gives Global South countries a structural alternative to US-dominated institutions. The Jamestown analysis is candid: the PRC is "seeking to embed its preferred security and governance objectives into global standards by first targeting Global South countries." This is not charity — it is standard-setting through capacity building. The open-source models (DeepSeek, Qwen) are the Trojan horse: by providing high-performance AI at commodity prices, China makes the US premium pricing model irrelevant for most developing nations.
