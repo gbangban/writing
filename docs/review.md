@@ -203,3 +203,108 @@ Mostly good self-corrections. Fix the numbering (no #9). Obs #10 and #12 contain
 17. D1-D3, D6-D14: verify or soften unverified figures
 18. F: Replace/label weak references (Atlantis Press, KuCoin, FreshFromChina)
 19. G1-G6: Attribute analytical claims as the author's analysis
+---
+
+## J. Round-2 Adversarial Review — New Sections (CXMT / EUV / EDA / Materials / Embodied AI / Military)
+
+**Reviewed:** 2026-08-17 (second pass)
+**Scope:** The sections added after the first review pass — the CXMT chip-gap subsection, the EUV-lithography gap, the EDA-tools gap, the specialty-materials gap, the embodied-AI/VLA gap, and the J-20-vs-F-35 / F-35-theft / Operation Epic Fury / MizarVision / Hugging-Face-incident military material. Every load-bearing number was re-checked against the cited source or an independent search.
+
+**Headline:** The new research is, on the whole, well-sourced and accurate. The CXMT, EUV, EDA, and military-loss figures all check out against primary or major-outlet coverage. But the pass surfaced **one hard factual error** (the J-20/F-35 wingspan comparison, which is wrong by an order of magnitude), **one overstatement that contradicts the cited source** (the WF6 "permanent exit"), **one internal inconsistency** (CXMT market-cap figure), and a set of attribution/precision slips. Details below.
+
+### J-A. Hard errors (must fix)
+
+**J-A1. J-20 vs. F-35 wingspan (line 625) is wrong by ~10x and inverts the comparison.**
+- **Outline (line 625):** "the J-20 is a larger, heavier aircraft (11.7m wingspan vs. F-35's ~3.2m) with a longer combat radius."
+- **Reality:** J-20 wingspan is **13.01 m** (42 ft 8 in); F-35 wingspan is **10.7 m** (35 ft). The F-35's "~3.2m" figure is not a wingspan at all — it appears to be a garbled fragment (a misread of some other dimension or a unit error). The J-20's "11.7m" is also wrong (actual 13.01 m).
+- **Why it matters:** The sentence's *point* (J-20 is larger than the F-35) is correct, but as written it claims the F-35 has a 3.2 m wingspan — a number a reader can check in one search and find absurd (the F-35 is a 10.7 m wingspan fighter). This is the same class of error as the A1 (268 GW) hard error: a false number attached to a true conclusion.
+- **Fix:** Replace with "13.0 m wingspan vs. the F-35's 10.7 m" (or "42 ft vs. 35 ft").
+
+### J-B. Overstatements / contradictions with the cited source
+
+**J-B1. WF6 "permanently exited" (line 519) overstates the cited source.**
+- **Outline (line 519):** "Japan's Kanto Denka Kogyo and Central Glass permanently exited WF6 production (combined ~2,200 MT/year) after China's tungsten export controls cut off their raw material supply."
+- **Reality:** The cited Echemi piece (July 2, 2026) explicitly says the "permanent production halt" reports "have been confirmed as misinterpretations." It also notes Kanto Denka told investors on June 8 it would "not face production halts" thanks to recycled-material channels. The ChemNet piece (July 1) that *does* claim a permanent halt is a secondary outlet, and the outline's own reference list cites the Echemi article — which disputes the halt. SCMP (June 13) and The Elec (April 3) describe it as a *suspension / output cut*, not a permanent exit.
+- **Why it matters:** The outline asserts as fact what its own cited source calls a misinterpretation. The underlying supply shock is real and well-documented (WF6 prices +200–232% YoY; ~2,000 t/yr high-end capacity at risk; China's APT exports to Japan at zero since Jan 2026), so the *direction* of the claim is right — but "permanently exited" is not supportable from the cited source.
+- **Fix:** Soften to "have suspended or sharply cut WF6 output (combined ~2,200 MT/year of high-end capacity at risk) after China's tungsten export controls cut off their raw material supply; reports of a 'permanent' halt have been disputed by the companies."
+
+### J-C. Internal inconsistencies / precision
+
+**J-C1. CXMT market cap: two different figures in the same subsection.**
+- **Line 444:** "market cap reached ~3.3 trillion yuan ($487B)" — correct (CNBC, AP, SCMP, Business Times all give 3.3 trillion yuan / ~$487B at the 49-yuan close).
+- **Line 446:** "CXMT was briefly valued at $541B" — this is the *intraday* peak (China Daily reports the midday market cap hit 3.66 trillion yuan / $541B when shares touched 54.65 yuan).
+- **Issue:** Not a factual error, but the two figures are presented adjacent to each other without a clear close-vs-peak distinction, which reads as contradictory. The "$487B" (close) and "$541B" (intraday peak) should be labeled as such.
+- **Fix:** "market cap reached ~3.3 trillion yuan ($487B) at the close, peaking intraday at ~3.66 trillion yuan ($541B)."
+
+**J-C2. CXMT DDR5 "2 points behind Samsung" (line 451) — the gap is 2–3 points, and the node comparison is apples-to-oranges.**
+- **Outline (line 451):** "CXMT's 17nm-class DDR5 yield has surpassed 90%, only 2 points behind Samsung's 92–93%."
+- **Reality:** The DigiTimes / MyDrivers / Korea Herald reporting says the gap is "2 to 3 percentage points," not a flat 2. More importantly, the comparison is between CXMT's **17nm-class** DDR5 and Samsung's **10nm-class** DDR5 — i.e., CXMT is matching Samsung's yield on a *less advanced* node. TechPowerUp and Duck-IT both flag this explicitly.
+- **Fix:** "only 2–3 points behind Samsung's 92–93% — and on a less advanced (17nm-class) node, not the 10nm-class node Samsung runs."
+
+**J-C3. EUV "30% more wafers" (line 475) — correct, but the source attribution is loose.**
+- **Outline (line 475):** "CXMT requires ~30% more wafers than competitors to produce the same memory output."
+- **Reality:** Correct — CNBC (July 31) quotes MST Financial's David Gibson: "Without them, CXMT requires about 30% more wafers... to produce the same amount of memory." The Capacity Global piece adds that analysts put CXMT's *cost-per-bit* more than 30% behind rivals (a related but distinct figure).
+- **Note:** The outline cites CNBC, which is the right source. No fix needed, but be aware the "30%" appears in two slightly different forms (wafer count vs. cost-per-bit) across coverage — keep the wafer-count framing, which is what CNBC says.
+
+**J-C4. "350,000 WSPM by end-2026, matching Micron" (line 448) — slightly off.**
+- **Outline (line 448):** "on track to match Micron's capacity by end-2026 (~350,000 WSPM)."
+- **Reality:** TechPowerUp (via TrendForce/Reuters) puts CXMT at ~350,000 WPM by end-2026 and Micron at a *projected* 375,000 WPM — i.e., CXMT is "just slightly behind" Micron, not matching it. The Seoul Economic Daily "14% of global supply, on par with Micron" framing is about *share*, not raw WSPM.
+- **Fix:** "on track to reach ~350,000 WSPM by end-2026, just behind Micron's projected ~375,000 WSPM."
+
+### J-D. Attribution / precision slips
+
+**J-D1. EDA "85%" (line 484) — the figure is defensible but the source mix is thin.**
+- **Outline (line 484):** "Synopsys, Cadence, and Siemens EDA still hold ~85% of the Chinese EDA market (domestic ~10%)."
+- **Reality:** Omdia (March 2025) puts the big three at **78%** of the Chinese market by 2024; TechNode (July 2025) says "around 80%"; the faxiangongchang 2026 report says "~85%." The 85% is the most recent and most favorable-to-domestic-substitution figure, but it's a single secondary source. The "domestic ~10%" is consistent across TrendForce, Omdia, and TechNode.
+- **Fix:** Cite the range ("~78–85% depending on source and year") or anchor to Omdia's 78% + the 2026 report's 85% as a trend.
+
+**J-D2. "Empyrean (6%), Primarius, Broadway" (line 484) — Empyrean's 6% is stale.**
+- **Reality:** Omdia (March 2025) gives Empyrean 6% of the Chinese market, but that's 2024 data. The 2026 faxiangongchang report puts Empyrean FY2025 revenue at RMB 1.325B (+57% YoY per one source, +8.4% per another — a discrepancy worth noting). The "6%" is fine as an order of magnitude but should be dated.
+- **Fix:** Add "(2024, Omdia)" after the 6%.
+
+**J-D3. "100+ domestic EDA companies" (line 484) — correct but unsourced in the reference list.**
+- **Reality:** SCMP (June 2025) quotes Empyrean's Yu Han: "China currently had over 100 domestic EDA companies." TechNode says "at least 60." The reference list doesn't include SCMP for this claim.
+- **Fix:** Add the SCMP Empyrean citation, or soften to "60–100+ domestic EDA companies."
+
+**J-D4. Hugging Face incident (line 778) — "170+ repos" is a snapshot, not a total.**
+- **Outline (line 778):** "170+ repos... were compromised."
+- **Reality:** The 170+ figure is from a single point in time during the incident; the final count of affected repos was higher (the incident ran for days). The $11M estimate is from a secondary outlet (The New Stack / BleepingComputer coverage). The core facts (Nov 2023, malicious commit, npm package, 200+ orgs) are correct.
+- **Fix:** "170+ repos (at one point in the incident; final count higher)" or just "hundreds of repos."
+
+**J-D5. "F-35 design theft — 4 independent sources" (line 760) — the "4 sources" framing needs care.**
+- **Outline (line 760):** "The 'F-35 design theft' claim is supported by 4 independent sources."
+- **Reality:** The four sources (Reuters, SCMP, CSIS, The Economist) are not all *independent* in the strict sense — CSIS and The Economist both draw on the same underlying reporting, and the "theft" is specifically the *alleged* breach by the "APT Iran" group (a Pro-Iran hacktivist collective), not a confirmed PLA operation. The outline correctly notes this is a *breach claim*, but "4 independent sources" overstates the independence.
+- **Fix:** "supported by multiple major outlets (Reuters, SCMP, CSIS, The Economist), though the underlying actor (a Pro-Iran hacktivist group claiming the breach) has not been independently confirmed by the US government."
+
+### J-E. What checked out (no fix needed)
+
+These new-section claims were verified against primary or major-outlet coverage and are accurate:
+
+- **CXMT IPO (line 444):** 466% surge, 8.66 yuan/share, $8.6B raised, 3.3 trillion yuan market cap, most valuable mainland-listed company — all confirmed by CNBC, AP, SCMP, Xinhua, Business Times.
+- **CXMT DRAM revenue (line 446):** 716% YoY Q2 surge, 7% global revenue share, 4th-largest supplier — confirmed by Counterpoint Research via China Daily. (Note: AP/Counterpoint also cite ~719% for Q1 and ~8–9% share by shipments — the 716%/7% is the Q2 revenue figure, which is what the outline uses; fine, but the Q1-vs-Q2 distinction could be noted.)
+- **CXMT HBM3 (lines 452–454):** 60,000 WSPM (20% of capacity) at Shanghai plant, HBM3 by end-2026, gap narrowed from 4 to 3 years — confirmed by Korea Herald, MK, Seoul Economic Daily. (Note: DigiTimes says mass production in 2026 is "unlikely," targeting 2027 — the outline's "by end-2026" is the optimistic end of the range; worth a hedge.)
+- **CXMT DDR5 speed (line 451):** 8,800 MT/s on AMD AM5 — confirmed by Duck-IT / enthusiast reporting.
+- **CXMT DDR4 phase-out (line 454):** policy-driven shift to DDR5 — consistent with Korea Herald reporting on CXMT flooding legacy DDR4 at half price before pivoting.
+- **CXMT prospectus spending (line 454):** 29.5B yuan, no dedicated HBM project — confirmed by Seoul Economic Daily (May 19) and the IPO prospectus coverage.
+- **EUV gap (lines 475–479):** 30% more wafers, 5 machines in 2026 vs ASML ~130, 20 in 2027, first deliveries to SMIC/Hua Hong/CXMT, Aishengna as the maker — all confirmed by CNBC, Reuters, CNA, Tom's Hardware, SCMP.
+- **EUV "1.5–2 years behind on DUV, 5–10+ on EUV" (line 479):** consistent with the Tom's Hardware roadmap analysis (AI Futures Project puts a viable domestic 7nm immersion scanner at 2032–2038, median 2035).
+- **WF6 price shock (line 519):** +200–232% YoY, ~2,000 t/yr high-end capacity at risk, China APT exports to Japan at zero since Jan 2026 — confirmed by SCMP, Nikkei, NHK, ChemNet, The Elec.
+- **Embodied AI / LingBot-VLA (lines 560–567):** 20,000 hours of real-world data, 9 dual-arm robot configs, GM-100 benchmark, 261 samples/sec/GPU throughput, 1.5–2.8x speedup — all confirmed by the arXiv paper (2601.18692) and the Robbyant open-source release.
+- **Beijing robot half-marathon (line 566):** Honor's "Lightning" robot, 50:26, beating the human world record of 57:20 (Jacob Kiplimo), 100+ robots from 76 institutions — confirmed by AP, WIRED, Xinhua, Al Jazeera, CBS, NBC.
+- **Operation Epic Fury losses (line 764):** 42 US aircraft lost (incl. F-35A, F-15E, A-10, E-3, 24 MQ-9s), $3.7B first 100 hours, ~$40B total (CSIS $34–42B) — consistent with CSIS and major-outlet coverage. (Note: the outline correctly frames this as a US-Iran operation, not a PLA exercise.)
+- **MizarVision (line 766):** Shanghai-based, posting satellite imagery of US bases, alleged to help Iran target assets — consistent with ABC News / DIA reporting.
+- **Type 076 "Sichuan" (line 766):** 40,000-tonne amphibious assault ship, electromagnetic catapult, GJ-21 stealth drone launch — confirmed by SCMP (July 29, 2026).
+- **F5 breach (line 766):** Chinese hackers stole BIG-IP source code, "catastrophic" breach (Oct 2025) — consistent with F5's own disclosure and major-outlet coverage.
+
+### J-F. Recommended fixes (priority order)
+
+1. **J-A1 (hard error):** Fix the J-20/F-35 wingspan at line 625 → "13.0 m vs. 10.7 m."
+2. **J-B1 (contradicts cited source):** Soften the WF6 "permanently exited" at line 519.
+3. **J-C1 (internal inconsistency):** Label the two CXMT market-cap figures as close vs. intraday peak.
+4. **J-C2 (precision):** "2 points" → "2–3 points" and note the node difference at line 451.
+5. **J-C4 (precision):** "matching Micron" → "just behind Micron's ~375,000 WSPM" at line 448.
+6. **J-D1–J-D5 (attribution):** Add date/source qualifiers to the EDA figures, the Hugging Face repo count, and the "4 independent sources" framing.
+
+### J-G. Verdict
+
+The round-2 additions are materially stronger than the original draft — the CXMT, EUV, EDA, and military sections are well-sourced and the big numbers check out. The single hard error (J-A1, the wingspan) and the one overstatement that contradicts the cited source (J-B1, WF6) are the only items that would embarrass the piece if published as-is. The rest are precision/attribution polish. Fix J-A1 and J-B1 before anything else; the rest can be batched into a cleanup pass.
