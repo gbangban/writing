@@ -23,11 +23,11 @@ Technically the Chinese model is Socialism with Chinese characteristics, but thi
 
 The Chinese AI model is so different in its outcomes because the economic mode of production (socialism vs capitalism) changes the incentives and distribution of profits.  But more fundamentally, the relationship between the state and capital is a dictatorship of the proletariat. This means the working class controls the Chinese government rather than the wealthy ruling class that we see in liberal democracies.
 
-As such, the goals of the technology are centered upon achieving harmony with humanity and the planet rather than making profits under capitalism.  I will look at a number of categories including enviromental, social, etc. which offer alternative visions for how this technology could be used under a different socioeconomic regime.
+As such, the goals of the technology are centered upon achieving harmony with humanity and the planet rather than making profits under capitalism.  I will look at a number of categories including environmental, social, etc. which offer alternative visions for how this technology could be used under a different socioeconomic regime.
 
 [Add a two column summary table as a quick visual summary]
 
-Tl;dr: AI and robotics arent destroying jobs, the planet, or recreating a two tier society, but our rathercapitalist economic model.   Capitalism has found a set of technologies which it can use to replace its dependence on humanity whereas socialism has discovered a technology to move humanity collectively forward beyond "bullshit jobs" and meaningless labor.   
+Tl;dr: AI and robotics aren't destroying jobs, the planet, or recreating a two tier society — our rather capitalist economic model is.   Capitalism has found a set of technologies which it can use to replace its dependence on humanity whereas socialism has discovered a technology to move humanity collectively forward beyond "bullshit jobs" and meaningless labor.   
 
 That said, as a scientist and a dialectical materialist, I prefer "objective" facts and analysis to conjecture, so I will list both positive and negative aspects of the Chinese model throughout this piece, especially with some of the social ramifications.
 
@@ -35,7 +35,7 @@ Transparently, much of the rest of this piece is co-written with my local AI set
 
 I'll update this piece as needed as I verify the various sources.
 
-### A Brief Introduction to the Chinese Governence Model
+### A Brief Introduction to the Chinese Governance Model
 
 Most people are never taught about the governance structures of non liberal democratic countries, so I'll briefly introduce the primary economic difference imo.  Namely, one party central planning by the government vs the corporate-government planning that we see in most western countries.  These take the shape of five year plans which use the public and private sectors to implement the various priorities of the party + working class. 
 
@@ -57,11 +57,11 @@ Without any corporate or market influences, the government can directly shape th
 ## Environment
 In the west, we often hear of AI data center expansion largely as a neocolonial project by big tech companies paying near-unlimited amounts of money to build data centers in locations with the most exploitable resources whether energy, water, or human talent.
 
-Yet if you pay attention to any of these data center exposes, they're never of any major Chinese firm.   There's a variety of state mandated reasons for this, but many Chinese firms would never want to build in America even without these restrictions.  The aging, outdated energy infrastructure of the US is so brittle that its nearly impossible to optimize the energy grid to support and run data centers cost effectively whether by renewable energy or smart energy transportation.   This is why you see so many [hyperscaler data centers building their own fossil fuel infrastructure](https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter) [9] rather than solely using grid energy.
+Yet if you pay attention to any of these data center exposes, they're never of any major Chinese firm.   There's a variety of state mandated reasons for this, but many Chinese firms would never want to build in America even without these restrictions.  The aging, outdated energy infrastructure of the US is so brittle that it's nearly impossible to optimize the energy grid to support and run data centers cost effectively whether by renewable energy or smart energy transportation.   This is why you see so many [hyperscaler data centers building their own fossil fuel infrastructure](https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter) [9] rather than solely using grid energy.
 
 Conversely, China is one of the only nations in the world to actually modernize its energy grid, allowing energy transportation across thousands of miles from energy rich areas to energy hungry areas, enabling a nationally coordinated energy model to reduce the disparate environmental impacts.
 
-As detailed below, the majority of emissions (85%) and water use (55%) that you hear about in the headlines actually come from the energy grid rather than the data center itself (i.e. coal and natural gas are used since we dont have nearly as much renewable solar and wind domestically).  Moreover, given China has added more renewable energy to the grid just last year than than the next 5 years of US data center energy use combined, the incredibly rapid pace of solar energy and energy distribution enables a much more sustainable deployment of AI infrastructure.
+As detailed below, the majority of emissions (85%) and water use (55%) that you hear about in the headlines actually come from the energy grid rather than the data center itself (i.e. coal and natural gas are used since we dont have nearly as much renewable solar and wind domestically).  Moreover, given China has added more renewable energy to the grid just last year than the next 5 years of US data center energy use combined, the incredibly rapid pace of solar energy and energy distribution enables a much more sustainable deployment of AI infrastructure.
 
 The two countries have quite divergent views in terms of nuclear ambitions with the US rolling forward with a massive buildout of Uranium based SMRs which produce a great deal of nuclear waste + water consumption, whereas China is pursuing next gen thorium reactors to move safer + cleaner nuclear power.  While I'm not a nuclear energy proponent in the slightest, it seems foolhardy to pursue legacy SMRs for the sake of quick profits vs long term water scarcity and nuclear waste proliferation.
 
@@ -91,6 +91,8 @@ All of this progress is not at the cost of the Chinese working class or the envi
   - **The broader renewable energy buildout is the dominant emissions factor.** Global power sector emissions are plateauing as renewables overtake coal. Renewables and nuclear are expected to account for ~50% of global electricity by 2030 (IEA Electricity 2026). Data center emissions (~300 Mt CO2) are a small fraction of total power sector emissions — and the grid is the thing being decarbonized.
 
 ## Energy
+The energy section is where the two models diverge most sharply: the US is building data centers faster than it can build clean power, while China is building clean power faster than it can build data centers.  Below I walk through China's renewable buildout and grid transport, the unknowns (like underwater data centers), the US-vs-China divergence in numbers, and finally the nuclear water, waste, and thorium question.
+
 ### First electrostate: renewables and the scale/pace of the buildout
 - "East Data, West Computing" initiative (2022): channel computing from energy-hungry east to wind/solar-rich west, where the bulk of new renewable capacity is being built
 - Western regions offer cheaper electricity but face infrastructure gaps, unstable supply, and local subsidy uncertainty
@@ -157,7 +159,7 @@ All of this progress is not at the cost of the Chinese working class or the envi
 - **The honest summary:** Thorium is not a panacea. It does not eliminate nuclear waste; it changes the waste profile. It does not make nuclear inherently safer; the MSR design is safer than a LWR, but a reactor is a reactor. What it does offer is a fuel cycle that is more abundant, produces less long-lived waste, and is physically harder to use for weapons proliferation (U-233 is more difficult to weaponize than U-235, though not impossible). Whether that is enough to justify the R&D investment is an open question. What is not open is that, as of 2026, **no country has a commercial thorium reactor**, and the country closest to one is China.
 
 ## Social
-In the west, we often hear news reports of people forming intimate relationships with AI leading to romantic entanglements, delusion, and even suicide.  While the frequency of these events has been markedly different, China and any country using AI is liable to have these types of incidents occur.  Moreover, China was inspiried to take regulatory action from the US suicides rather than any in its own country, while our own country seems to be run by AI companies now.
+In the west, we often hear news reports of people forming intimate relationships with AI leading to romantic entanglements, delusion, and even suicide.  While the frequency of these events has been markedly different, China and any country using AI is liable to have these types of incidents occur.  Moreover, China was inspired to take regulatory action from the US suicides rather than any in its own country, while our own country seems to be run by AI companies now.
 
 The primary difference is that the China government has decided that there are red lines for AI + robotics companies rather than the corporate self regulation approach in the West.  
 
@@ -208,9 +210,9 @@ This is the flip side of the worker-replacement bans above: while China's courts
 ### AI education and capacity building for the Global South
 Despite the fascist and genocidal overtures of our current moment, soft power is not yet dead.  The two major players right now are Pax Silica and WAICO with a growing amount of incompatibility between the two organizations. 
 
-The US led Pax Silica is a global consortium seeks to promote US corporate interests around the world with a clear bias towards affluent, global north countries with an increasingly clear goal of precluding any cooperation with China in the respecive countries AI development.  
+The US led Pax Silica is a global consortium that seeks to promote US corporate interests around the world with a clear bias towards affluent, global north countries, with an increasingly clear goal of precluding any cooperation with China in the respective countries' AI development.  
 
-Conversely, China's WAICO seeks to provide meaningful social, technical, and physical infrastructure for AI development in the global south.  Many have [framed it as a beginning to a new cold war](https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico) [97], despite the metaphorical shoe not quite fitting.  While neither are actually supported by the UN, I do find it notable that [the UN General Secretary did visit China for the announcement of WAICO](https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/) [98].  Also, in contrast to the US, WAICO membership does not preclude any members from joining Pax Silica, which might eventually lead Kazakhstan to a loggerheads with Washington later.  
+Conversely, China's WAICO seeks to provide meaningful social, technical, and physical infrastructure for AI development in the global south.  Many have [framed it as a beginning to a new cold war](https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico) [97], despite the metaphorical shoe not quite fitting.  While neither are actually supported by the UN, I do find it notable that [the UN General Secretary did visit China for the announcement of WAICO](https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/) [98].  Also, in contrast to the US, WAICO membership does not preclude any members from joining Pax Silica, which might eventually lead Kazakhstan to loggerheads with Washington later.  
 
 It is worth pausing here, because the comparison most people reach for — WAICO versus the EU AI Act versus US AI law — is a comparison of three fundamentally different animals.  WAICO is a state-to-state cooperation club with a charter, a council, and a secretariat, but no fines, no market surveillance, and no power to compel a single company.  The EU AI Act is a binding statute with a risk-based tiering, a dedicated enforcement office, and penalties that reach 7% of a company's global turnover.  And the US has no comparable federal statute at all: a patchwork of state laws, a few executive orders that mostly point the other way, and voluntary frameworks that no one is required to follow.  The table below makes that asymmetry explicit, because it is the single clearest way to see what WAICO actually is — and is not.
 
@@ -246,24 +248,32 @@ Read that table left to right and the point writes itself.  WAICO's entire appar
 - **Strategic significance:** China is building an integrated AI ecosystem for the Global South — models (DeepSeek, Qwen open-source), training, infrastructure, standards, and governance — as an alternative to US-dominated AI platforms. The goal is digital sovereignty: enabling countries to "build AI systems aligned with their own development priorities" rather than depending on foreign technology platforms. The Jamestown analysis notes the PRC is "seeking to embed its preferred security and governance objectives into global standards by first targeting Global South countries."
 
 ## Recommendations
-Other than this piece being too long, its hopefully given you a material understanding of the Chinese AI model, including how it affects people and the planet.  Their rollout of AI is not perfect by any means, but there's a reason why a majority of Chinese people look forward to the development of AI.  
+- **For the US grid: the data center debate should be a grid debate.** The evidence in this piece is unambiguous: the environmental impact of AI is set by the energy source, not the data center design [17]. The fastest lever is decarbonizing the grid — which means treating permitting speed, transmission buildout, and renewable additions as national-priority infrastructure questions, not state-by-state permitting accidents.
+- **For the US energy buildout: stop betting on gas turbines to power AI.** The near-term US supply plan leans on gas with multi-year turbine backlogs and existing coal and gas plants running hotter [43][44]. That is a carbon-increasing path for the technology the US claims to lead. The alternatives are slower to permit but already demonstrated at scale: the renewable buildout China is executing shows what state-coordinated planning can do in a single year [55].
+- **For nuclear: fund the next generation, not the legacy one.** If the US wants nuclear in its AI energy mix, the water and waste math favors the designs with passive safety, recirculating cooling, and reprocessing over once-through LWRs and dry cask storage [63][64]. China's ACP100 is already in commissioning and its thorium molten salt pilot is the only operating one in the world [61][62]; the US has no operating thorium pilot at all.
+- **For labor: the Chinese court rulings are a warning shot, not a curiosity.** Firing workers to replace them with AI is now illegal in multiple Chinese jurisdictions [78]. The US has no comparable floor, and its own market is already voting with its feet for Chinese open-weight models [83][85]. If the US wants to keep the talent it claims to need, it needs a policy answer to displacement before the courts are forced to write it.
+- **For governance: pick a model.** WAICO is a forum, the EU is a statute, and the US is a patchwork that is actively deregulating itself [115][118]. None of these is automatically "right," but the US is the only one of the three that has not decided what it wants. That indecision is itself a policy.
+- **For readers: the alternative is not hypothetical.** The Chinese model is not perfect — the social tradeoffs in this piece are real — but it is a working, material alternative to the US model, and the US market is already adopting its open-weight output [83]. If you only follow western media, you are seeing half the story.
 
-When you have a humanistic government guiding the heights and restricting the lows of such a formative technology, its much easier to envision and subsequently build technology in a way that not only moves China forward, but the world as well.
-
-TODO(restructure): populate remaining recommendations (the US-adoption-of-Chinese-AI section has been added under `## Social`)
+Other than this piece being too long, it's hopefully given you a material understanding of the Chinese AI model, including how it affects people and the planet.  Their rollout of AI is not perfect by any means, but there's a reason why a majority of Chinese people look forward to the development of AI.  When you have a humanistic government guiding the heights and restricting the lows of such a formative technology, it's much easier to envision and subsequently build technology in a way that not only moves China forward, but the world as well.
 
 ### Revisions
-- Compare WAICO to its US and/or European equivalent, and also create a summary table
-- Inline linking with wiki style references where appropriate and restructuring the written portions to flow sequentially with the reference sections in a separate section
-- Implement the todos in single brackets
-- Need to add section about rapid US firms' adoption of Chinese AI models
-- Better define PUE,  GHG, and other technical terms to eludicate their impacts to a general audience
-- There are many comparisons with the world as a whole vs the US + China.  Keep the global numbers for context, but more directly compare the two countries when appropriate with qualified data
-- Pull in my new inline sources to improve the overall writeup where possible
-- Add more research for the water use by planned SMRs vs Chinese nuclear reactors, and the generated nuclear waste + water consumption
+Completed in this revision round:
+- Restructured into intro + environment/energy/social sections
+- Fact-checked against linked sources
+- Added the US-adoption-of-Chinese-AI subsection under `## Social`
+- Added the nuclear water/waste/thorium subsection under `## Energy`
+- Added the WAICO vs EU/US comparison table under `## Social`
+- Defined technical terms (PUE, GHG, LCA, SMR, etc.) on first use
+- Consolidated all citations into the numbered `## Sources` list
+
+Open follow-ups:
+- Add a two-column summary table to the Introduction and a section summary table to the Environment section
+- Add more research on water use by planned US SMRs vs Chinese nuclear reactors, and the generated nuclear waste + water consumption
 	- Add details about the uranium vs thorium split between the two countries and the safety + environmental impacts of each technology
-- Fact check my writing both within this overall text, but also via the linked resources and the internet more broadly, but still exclusive to authoritative sources
-- Restructure this piece explicitly into intro, 3 supporting sections for environment, energy, and social foci, but feel free to make other recommendation
+- Keep the global numbers for context, but more directly compare the US and China with qualified data where appropriate
+- Pull in additional inline sources to improve the overall writeup where possible
+- Fact-check the remaining prose against the linked resources and authoritative sources more broadly
 
 ### Previous Outline
 #### Environmental 
@@ -278,7 +288,7 @@ Unknowns: underwater data centers
 
 Rapid cutting edge battery and capacitor development that the entire world will require to decarbonize
 
-Social
+#### Social
 
 - AI girlfriend / boyfriend ban
 
@@ -288,7 +298,7 @@ Social
 
 - ai in schools from elementary
 
-Economic
+#### Economic
 
 - dark factories
 
@@ -300,7 +310,7 @@ Economic
 
 - free ai and undercutting the price of Western ai development, creating the fundamental economic conditions for Western economic collapse
 
-Militaristic
+#### Militaristic
 
 - rapid gains in robotics from the last two years of the Chinese robot Marathon
 
