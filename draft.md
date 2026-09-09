@@ -27,7 +27,7 @@ As such, the goals of the technology are centered upon achieving harmony with hu
 
 [Add a two column summary table as a quick visual summary]
 
-Tl;dr: AI and robotics aren't destroying jobs, the planet, or recreating a two tier society — our rather capitalist economic model is.   Capitalism has found a set of technologies which it can use to replace its dependence on humanity whereas socialism has discovered a technology to move humanity collectively forward beyond "bullshit jobs" and meaningless labor.   
+Tl;dr: AI and robotics aren't destroying jobs, the planet, or recreating a two tier society — it's our capitalist economic model that is.   Capitalism has found a set of technologies which it can use to replace its dependence on humanity whereas socialism has discovered a technology to move humanity collectively forward beyond "bullshit jobs" and meaningless labor.   
 
 That said, as a scientist and a dialectical materialist, I prefer "objective" facts and analysis to conjecture, so I will list both positive and negative aspects of the Chinese model throughout this piece, especially with some of the social ramifications.
 
@@ -61,7 +61,7 @@ Yet if you pay attention to any of these data center exposes, they're never of a
 
 Conversely, China is one of the only nations in the world to actually modernize its energy grid, allowing energy transportation across thousands of miles from energy rich areas to energy hungry areas, enabling a nationally coordinated energy model to reduce the disparate environmental impacts.
 
-As detailed below, the majority of emissions (85%) and water use (55%) that you hear about in the headlines actually come from the energy grid rather than the data center itself (i.e. coal and natural gas are used since we dont have nearly as much renewable solar and wind domestically).  Moreover, given China has added more renewable energy to the grid just last year than the next 5 years of US data center energy use combined, the incredibly rapid pace of solar energy and energy distribution enables a much more sustainable deployment of AI infrastructure.
+As detailed below, the majority of emissions (85%) and water use (55%) that you hear about in the headlines actually come from the energy grid rather than the data center itself (i.e. coal and natural gas are used since we don't have nearly as much renewable solar and wind domestically).  Moreover, given China has added more renewable energy to the grid just last year than the next 5 years of US data center energy use combined, the incredibly rapid pace of solar energy and energy distribution enables a much more sustainable deployment of AI infrastructure.
 
 The two countries have quite divergent views in terms of nuclear ambitions with the US rolling forward with a massive buildout of Uranium based SMRs which produce a great deal of nuclear waste + water consumption, whereas China is pursuing next gen thorium reactors to move safer + cleaner nuclear power.  While I'm not a nuclear energy proponent in the slightest, it seems foolhardy to pursue legacy SMRs for the sake of quick profits vs long term water scarcity and nuclear waste proliferation.
 
@@ -159,13 +159,13 @@ The energy section is where the two models diverge most sharply: the US is build
 - **The honest summary:** Thorium is not a panacea. It does not eliminate nuclear waste; it changes the waste profile. It does not make nuclear inherently safer; the MSR design is safer than a LWR, but a reactor is a reactor. What it does offer is a fuel cycle that is more abundant, produces less long-lived waste, and is physically harder to use for weapons proliferation (U-233 is more difficult to weaponize than U-235, though not impossible). Whether that is enough to justify the R&D investment is an open question. What is not open is that, as of 2026, **no country has a commercial thorium reactor**, and the country closest to one is China.
 
 ## Social
-In the west, we often hear news reports of people forming intimate relationships with AI leading to romantic entanglements, delusion, and even suicide.  While the frequency of these events has been markedly different, China and any country using AI is liable to have these types of incidents occur.  Moreover, China was inspired to take regulatory action from the US suicides rather than any in its own country, while our own country seems to be run by AI companies now.
+In the west, we often hear news reports of people forming intimate relationships with AI leading to romantic entanglements, delusion, and even suicide.  While the frequency of these events has been markedly different in the two countries, China and any country using AI is liable to have these types of incidents occur.  Moreover, China was inspired to take regulatory action from the US suicides rather than any in its own country, while our own country seems to be run by AI companies now.
 
-The primary difference is that the China government has decided that there are red lines for AI + robotics companies rather than the corporate self regulation approach in the West.  
+The primary difference is that the Chinese government has decided that there are red lines for AI + robotics companies rather than the corporate self regulation approach in the West.  
 
 As such, China has:
 - Created the legal basis to prevent workers from being replaced by AI
-- Banning any comprehensive product which simulates or replaces human relationships (no AI girlfriend/boyfriends) 
+- Banning any product which simulates or replaces human relationships (no AI girlfriend/boyfriends) 
 - Started rolling out universal AI education across the K-12 equivalent system
 	- This is not without similar complications as we see in the west via the survey study below
 - Started an open international organization to develop AI in the global South
@@ -212,7 +212,7 @@ Despite the fascist and genocidal overtures of our current moment, soft power is
 
 The US led Pax Silica is a global consortium that seeks to promote US corporate interests around the world with a clear bias towards affluent, global north countries, with an increasingly clear goal of precluding any cooperation with China in the respective countries' AI development.  
 
-Conversely, China's WAICO seeks to provide meaningful social, technical, and physical infrastructure for AI development in the global south.  Many have [framed it as a beginning to a new cold war](https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico) [97], despite the metaphorical shoe not quite fitting.  While neither are actually supported by the UN, I do find it notable that [the UN General Secretary did visit China for the announcement of WAICO](https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/) [98].  Also, in contrast to the US, WAICO membership does not preclude any members from joining Pax Silica, which might eventually lead Kazakhstan to loggerheads with Washington later.  
+Conversely, China's WAICO seeks to provide meaningful social, technical, and physical infrastructure for AI development in the global south.  Many have [framed it as a beginning to a new cold war](https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico) [97], despite the metaphorical shoe not quite fitting.  While neither are actually supported by the UN, I do find it notable that [the UN General Secretary did visit China for the announcement of WAICO](https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/) [98].  Also, in contrast to the US, WAICO membership does not preclude any members from joining Pax Silica, which might eventually bring Kazakhstan into conflict with Washington.  
 
 It is worth pausing here, because the comparison most people reach for — WAICO versus the EU AI Act versus US AI law — is a comparison of three fundamentally different animals.  WAICO is a state-to-state cooperation club with a charter, a council, and a secretariat, but no fines, no market surveillance, and no power to compel a single company.  The EU AI Act is a binding statute with a risk-based tiering, a dedicated enforcement office, and penalties that reach 7% of a company's global turnover.  And the US has no comparable federal statute at all: a patchwork of state laws, a few executive orders that mostly point the other way, and voluntary frameworks that no one is required to follow.  The table below makes that asymmetry explicit, because it is the single clearest way to see what WAICO actually is — and is not.
 
