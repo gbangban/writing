@@ -9,20 +9,8 @@ aliases:
 tags:
   - Inbox
 ---
-# Revisions
-- Compare WAICO to its US and/or European equivalent, and also create a summary table
-- Inline linking with wiki style references where appropriate and restructuring the written portions to flow sequentially with the reference sections in a separate section
-- Implement the todos in single brackets
-- Need to add section about rapid US firms' adoption of Chinese AI models
-- Better define PUE,  GHG, and other technical terms to eludicate their impacts to a general audience
-- There are many comparisons with the world as a whole vs the US + China.  Keep the global numbers for context, but more directly compare the two countries when appropriate with qualified data
-- Pull in my new inline sources to improve the overall writeup where possible
-- Add more research for the water use by planned SMRs vs Chinese nuclear reactors, and the generated nuclear waste + water consumption
-	- Add details about the uranium vs thorium split between the two countries and the safety + environmental impacts of each technology
-- Fact check my writing both within this overall text, but also via the linked resources and the internet more broadly, but still exclusive to authoritative sources
-- Restructure this piece explicitly into intro, 3 supporting sections for environment, energy, and social foci, but feel free to make other recommendation
-
-# Introduction
+# The Communist AI Approach
+## Introduction
 I often get into discussions (read: arguments) with leftists of all stripes over AI.  Most Americans, if not most people around the western world, have only heard about AI from western media sources or straight from the various AI technofascists' mouths.  And they are absolutely in the right when it comes to a critique of those individuals and institutions, yet the field and industry of AI is much larger than just the US.  
 
 Namely, China and the Chinese AI model offer such a radically different vision for AI that I wish more people could understand in which there's a way of creating and deploying this technology with both the people and the planet at the forefront.  
@@ -31,7 +19,6 @@ I am intentionally omitting any of the positive AI fluff pieces to keep this foc
 
 Therefore, I'm writing this piece first and foremost to illuminate the contradictions in our western model and the material alternatives already improving lives here and abroad with the Chinese model.  
 
-# The Communist AI Approach
 Technically the Chinese model is Socialism with Chinese characteristics, but this sounds catchier.
 
 The Chinese AI model is so different in its outcomes because the economic mode of production (socialism vs capitalism) changes the incentives and distribution of profits.  But more fundamentally, the relationship between the state and capital is a dictatorship of the proletariat. This means the working class controls the Chinese government rather than the wealthy ruling class that we see in liberal democracies.
@@ -48,13 +35,13 @@ Transparently, much of the rest of this piece is co-written with my local AI set
 
 I'll update this piece as needed as I verify the various sources.
 
-## A Brief Introduction to the Chinese Governence Model
+### A Brief Introduction to the Chinese Governence Model
 
 Most people are never taught about the governance structures of non liberal democratic countries, so I'll briefly introduce the primary economic difference imo.  Namely, one party central planning by the government vs the corporate-government planning that we see in most western countries.  These take the shape of five year plans which use the public and private sectors to implement the various priorities of the party + working class. 
 
 Without any corporate or market influences, the government can directly shape the development of the country for the collective benefit of the people.  Through this system, China has been able to lift [900 million people out of poverty more rapidly than any other nation in history](https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality) in deep contrast to the US, which builds its economy upon poverty.  Similarly, the rapid and somewhat mindboggling advancements that China continues to achieve in AI, robotics, biotech, EVs, renewable energy, and more are all a by-product of this five year central planning system over the last eight decades.
 
-## What is China's Overarching Vision? The Two-Step Modernization Strategy for 2035 and 2050
+### What is China's Overarching Vision? The Two-Step Modernization Strategy for 2035 and 2050
 
 - At the 19th CPC National Congress (2017), Xi Jinping set out a "two-step" strategy for the Second Centenary Goal, reaffirmed at the 20th Congress (2022) as the Party's central task:
   - **Step 1 (2020–2035):** Basically realize socialist modernization. China's economic, scientific, and technological strength rises sharply; per capita GDP reaches the level of a moderately developed country; new industrialization, expansion of IT application, and agricultural modernization are basically achieved; modernization of the national defense and armed forces is largely in place.
@@ -76,7 +63,7 @@ Without any corporate or market influences, the government can directly shape th
   - Xinhua white paper, "Chinese Modernization and the Great Rejuvenation of the Chinese Nation" (May 2024): https://english.news.cn/20240504/ae50c03d5f544ae8a651f146c08e5be9/20240504ae50c03d5f544ae8a651f146c08e5be9_332fa818c707734567b4c3c4f2ad406eb0.pdf
 
 
-## Can AI be environmentally sustainable? 
+## Environment
 In the west, we often hear of AI data center expansion largely as a neocolonial project by big tech companies paying near-unlimited amounts of money to build data centers in locations with the most exploitable resources whether energy, water, or human talent.
 
 Yet if you pay attention to any of these data center exposes, they're never of any major Chinese firm.   There's a variety of state mandated reasons for this, but many Chinese firms would never want to build in America even without these restrictions.  The aging, outdated energy infrastructure of the US is so brittle that its nearly impossible to optimize the energy grid to support and run data centers cost effectively whether by renewable energy or smart energy transportation.   This is why you see so many [hyperscaler data centers building their own fossil fuel infrastructure](https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter) rather than solely using grid energy.
@@ -126,7 +113,7 @@ All of this progress is not at the cost of the Chinese working class or the envi
   - **Columbia CKI, "Powering Data":** https://business.columbia.edu/sites/default/files-efs/imce-uploads/CKI/data%20centers%20CKI/CKI%20AI%20x%20Data%20Centers-260123.pdf
   - **UN University (AP News):** https://apnews.com/article/ai-data-centers-environment-climate-footprint-a792f184a9f2833b5388dbae8b41ca95
 
-
+## Energy
 ### First electrostate: renewables and the scale/pace of the buildout
 - "East Data, West Computing" initiative (2022): channel computing from energy-hungry east to wind/solar-rich west, where the bulk of new renewable capacity is being built
 - Western regions offer cheaper electricity but face infrastructure gaps, unstable supply, and local subsidy uncertainty
@@ -159,7 +146,7 @@ All of this progress is not at the cost of the Chinese working class or the envi
    - Reuters: https://www.reuters.com/markets/commodities/chinas-guangdong-province-plans-move-data-centres-undersea-cut-power-use-2021-12-14/
    - DataCenterDynamics: https://www.datacenterdynamics.com/en/news/guangdong-puts-underwater-data-centers-in-its-5-year-marine-economy-plan-to-save-cooling-costs/
    - FreshFromChina (2025-2027 plan): https://freshfromchina.com/guangdongs-underwater-data-centers-chinas-next-frontier-in-digital-infrastructure/
-	   - Actual plan overview: https://www.cnbayarea.org.cn/policy/policyrelease/policies/content/post_1317919.html
+      - Actual plan overview: https://www.cnbayarea.org.cn/policy/policyrelease/policies/content/post_1317919.html
    - 每经网 (2026 update): https://www.nbd.com.cn/articles/2026-01-30/4242100.html
    - Microsoft (Project Natick results): https://news.microsoft.com/source/features/sustainability/project-natick-underwater-datacenter/
    - SCMP (China data center water demand): https://www.scmp.com/news/china/science/article/3259230/chinas-growing-data-centres-and-ai-industry-could-strain-scarce-water-resources-according-new-report
@@ -222,7 +209,7 @@ All of this progress is not at the cost of the Chinese working class or the envi
   - Columbia CKI, "Powering Data": https://business.columbia.edu/sites/default/files-efs/imce-uploads/CKI/data%20centers%20CKI/CKI%20AI%20x%20Data%20Centers-260123.pdf
   - NucNet, "US and China to Lead Growth in Nuclear for Data Centers": https://www.nucnet.org/news/us-and-china-to-lead-growth-in-nuclear-power-for-data-centre-supply-4-4-2025
 
-## II. Social
+## Social
 In the west, we often hear news reports of people forming intimate relationships with AI leading to romantic entanglements, delusion, and even suicide.  While the frequency of these events has been markedly different, China and any country using AI is liable to have these types of incidents occur.  Moreover, China was inspiried to take regulatory action from the US suicides rather than any in its own country, while our own country seems to be run by AI companies now.
 
 The primary difference is that the China government has decided that there are red lines for AI + robotics companies rather than the corporate self regulation approach in the West.  
@@ -335,14 +322,28 @@ Conversely, China's WAICO seeks to provide meaningful social, technical, and phy
   - Heeks, "China's digital expansion in the Global South" (academic review): https://www.tandfonline.com/doi/full/10.1080/01972243.2024.2315875
 
 
-# Conclusion
+## Recommendations
 Other than this piece being too long, its hopefully given you a material understanding of the Chinese AI model, including how it affects people and the planet.  Their rollout of AI is not perfect by any means, but there's a reason why a majority of Chinese people look forward to the development of AI.  
 
 When you have a humanistic government guiding the heights and restricting the lows of such a formative technology, its much easier to envision and subsequently build technology in a way that not only moves China forward, but the world as well.
 
+TODO(restructure): populate remaining recommendations; add section on rapid US firms' adoption of Chinese AI models (per author revision list)
 
-# Previous Outline
-## Environmental 
+### Revisions
+- Compare WAICO to its US and/or European equivalent, and also create a summary table
+- Inline linking with wiki style references where appropriate and restructuring the written portions to flow sequentially with the reference sections in a separate section
+- Implement the todos in single brackets
+- Need to add section about rapid US firms' adoption of Chinese AI models
+- Better define PUE,  GHG, and other technical terms to eludicate their impacts to a general audience
+- There are many comparisons with the world as a whole vs the US + China.  Keep the global numbers for context, but more directly compare the two countries when appropriate with qualified data
+- Pull in my new inline sources to improve the overall writeup where possible
+- Add more research for the water use by planned SMRs vs Chinese nuclear reactors, and the generated nuclear waste + water consumption
+	- Add details about the uranium vs thorium split between the two countries and the safety + environmental impacts of each technology
+- Fact check my writing both within this overall text, but also via the linked resources and the internet more broadly, but still exclusive to authoritative sources
+- Restructure this piece explicitly into intro, 3 supporting sections for environment, energy, and social foci, but feel free to make other recommendation
+
+### Previous Outline
+#### Environmental 
 
 Data center vs power plant energy and water consumption
 
@@ -393,3 +394,6 @@ Militaristic
 - Chinese private military companies selling targeting information to Iran during its resistance against US and Israeli aggression
 
 - in the event that China ever chose cyberwarfare, it would win because US firms have already displayed reliance upon Chinese AI rather than US (hugging face hack by openai)
+
+## Sources
+TODO(restructure): populate Sources (Task 7 converts inline references to a numbered Sources section)
