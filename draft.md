@@ -254,6 +254,16 @@ As such, China has:
   - NPR: https://www.npr.org/2026-05-01/nx-s1-5807131/tech-worker-china-ai
   - El País: https://english.elpais.com/economy-and-business/2026-05-07/a-chinese-court-sets-limits-on-the-dismissal-of-a-worker-replaced-by-ai.html
 
+### The US market voting with its feet: rapid US adoption of Chinese AI models
+China is building these open-weight models — and the US market is already voting for them.  On [OpenRouter](https://openrouter.ai/rankings), the routing platform that sits between developers and the model providers, Chinese-origin models have carried **at least 30% of US enterprise token volume every single week since February 8, 2026**, peaking at **46%** — up from an 11% average over the prior year and just **4.5%** in the first half of 2025 ([CNBC, July 7, 2026](https://www.cnbc.com/2026-07-07/chinese-ai-models-costs-us-openai-anthropic.html)).  DeepSeek alone is now the **largest single vendor on the platform at 17.6%** of routed tokens, ahead of OpenAI, Google, and Anthropic, with Alibaba's Qwen close behind at 13.9%.
+
+The driver is price.  Open-source Chinese models run **60% to 90% cheaper** than the leading Anthropic and OpenAI models ([CNBC](https://www.cnbc.com/2026-07-07/chinese-ai-models-costs-us-openai-anthropic.html)); DeepSeek V4-Flash lists at $0.14 per million input tokens against $5.00 for GPT-5.5.  And this is no longer a developer sandbox story — it has moved into corporate expense reports.  [Lindy, a San Francisco AI startup, moved 100% of its traffic from Claude to DeepSeek in June 2026](https://restofworld.org/2026/when-americans-choose-chinese-ai/), saving millions, and DeepSeek became the #1 trending software vendor on the Ramp corporate-card index.  Even Airbnb and Anysphere (Cursor) are under congressional investigation after disclosing they built AI infrastructure on Chinese open models like Qwen and Kimi ([Rest of World, June 17, 2026](https://restofworld.org/2026/when-americans-choose-chinese-ai/)).
+
+This is the flip side of the worker-replacement bans above: while China's courts protect its own workers from being displaced by AI, the US market is quietly substituting its own frontier models with cheaper Chinese ones — the US economy is voting with its feet for the very technology the US AI hegemony narrative claims it is outcompeting.
+- **Refs:**
+   - CNBC, "Chinese AI models gain ground with U.S. companies as costs surge" (Kai Nicol-Schwarz, July 7, 2026): https://www.cnbc.com/2026-07-07/chinese-ai-models-costs-us-openai-anthropic.html
+   - Rest of World, "When Americans choose Chinese AI" (Viola Zhou, June 17, 2026): https://restofworld.org/2026/when-americans-choose-chinese-ai/
+
 ### Government principles for AI
 - 2019: National New-Generation AI Governance Principles — 8 principles: harmony & friendliness, fairness & justice, inclusivity & sharing, privacy respect, safety & controllability, shared responsibility, open collaboration, agile governance
 - 2023: Interim Measures for Generative AI Services (effective Aug 15, 2023) — cross-ministerial governance (CAC + 6 ministries); requirements for lawful data, content safety, labeling, risk mitigation, transparency, filing/registration
@@ -327,7 +337,7 @@ Other than this piece being too long, its hopefully given you a material underst
 
 When you have a humanistic government guiding the heights and restricting the lows of such a formative technology, its much easier to envision and subsequently build technology in a way that not only moves China forward, but the world as well.
 
-TODO(restructure): populate remaining recommendations; add section on rapid US firms' adoption of Chinese AI models (per author revision list)
+TODO(restructure): populate remaining recommendations (the US-adoption-of-Chinese-AI section has been added under `## Social`)
 
 ### Revisions
 - Compare WAICO to its US and/or European equivalent, and also create a summary table
