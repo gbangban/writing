@@ -313,7 +313,7 @@ Militaristic
 - in the event that China ever chose cyberwarfare, it would win because US firms have already displayed reliance upon Chinese AI rather than US (hugging face hack by openai)
 
 ## Sources
-1. 900 million people out of poverty more rapidly than any other nation in history — https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality
+1. The Guardian, "China has brought millions out of poverty. The US has not – by choice" (Nov 23, 2025) — https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality
 2. Xi, WAIC 2026 keynote (5,000 training, cooperation centers) — http://english.scio.gov.cn/m/topnews/2026-07/18/content_118605932.html
 3. Xi, WAIC 2026 (CGTN) — https://news.cgtn.com/news/2026-07-17/Full-text-Xi-s-keynote-speech-at-the-2026-WAIC-opening-ceremony-1OQSfeoRvUs/p.html
 4. Xi, sci-tech innovation speech (July 2026) — http://english.www.gov.cn/news/202607/08/content_WS6a4dc8b9c6d00ca5f9a0c10d.html
@@ -321,10 +321,10 @@ Militaristic
 6. Springer, "The Basic Realization of Socialist Modernization by 2035" — https://link.springer.com/chapter/10.1007/978-981-99-3397-6_2
 7. 20th CPC National Congress report (full text) — https://www.idcpc.gov.cn/
 8. Xinhua white paper, "Chinese Modernization and the Great Rejuvenation of the Chinese Nation" (May 2024) — https://english.news.cn/20240504/ae50c03d5f544ae8a651f146c08e5be9/20240504ae50c03d5f544ae8a651f146c08e5be9_332fa818c707734567b4c3c4f2ad406eb0.pdf
-9. hyperscaler data centers building their own fossil fuel infrastructure — https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter
-10. China is still expected to achieve carbon neutrality by 2060 — https://www.hbs.edu/bigs/china-poised-to-meet-carbon-neutrality-goal-before-2060
-11. after Paris climate agreement — https://climateactiontracker.org/countries/china/net-zero-targets/
-12. US is increasingly moving away from that target — https://climateactiontracker.org/countries/usa/net-zero-targets/
+9. The Guardian, "US building twice as much gas-fired capacity as China in AI boom, analysis finds" (Aug 25, 2026) — https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter
+10. Harvard BiGS, "China poised to achieve carbon neutrality before 2060 goal" (June 20, 2025) — https://www.hbs.edu/bigs/china-poised-to-meet-carbon-neutrality-goal-before-2060
+11. Climate Action Tracker, China net-zero targets — https://climateactiontracker.org/countries/china/net-zero-targets/
+12. Climate Action Tracker, USA net-zero targets — https://climateactiontracker.org/countries/usa/net-zero-targets/
 13. Carbon Brief — https://www.carbonbrief.org/explainer-how-china-is-managing-the-rising-energy-demand-from-data-centres
 14. Caixin Global (AI boom pressure on grid) — https://www.caixinglobal.com/2025-03-22/ai-boom-puts-pressure-on-chinas-power-grid-as-data-centers-eat-up-electricity-102300894.html
 15. CWR (water risk) — https://cwrrr.org/wp-content/uploads/2024/04/CWR-2024-China-ICT-running-dry-The-rise-of-AI-climate-risks-amplify-existing-water-risks-faced-by-thirsty-data-centres.pdf
@@ -397,7 +397,7 @@ Militaristic
 82. OpenRouter — https://openrouter.ai/rankings
 83. CNBC, "Chinese AI models gain ground with U.S. companies as costs surge" (Kai Nicol-Schwarz, July 7, 2026) — https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
 84. Reuters, "DeepSeek's new AI model is by far the cheapest of well-known models to run" (Eduardo Baptista, August 3, 2026) — https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/
-85. Lindy, a San Francisco AI startup, moved 100% of its traffic from Claude to DeepSeek in June 2026 — https://restofworld.org/2026/when-americans-choose-chinese-ai/
+85. Rest of World, "When Americans choose Chinese AI" (Viola Zhou, June 17, 2026) — https://restofworld.org/2026/when-americans-choose-chinese-ai/
 86. Ramp, "Top SaaS vendors on Ramp" (June 2026) — https://www.ramp.com/data/top-saas-vendors-on-ramp-june-2026
 87. MOST (2019 principles, full text) — https://www.most.gov.cn/kjbgz/201906/t20190617_147107.html
 88. Gov.cn (2023 Interim Measures) — https://www.gov.cn/zhengce/202311/content_6917778.htm
@@ -409,8 +409,8 @@ Militaristic
 94. ECNU journal (curriculum guidelines) — https://xbjk.ecnu.edu.cn/EN/10.16382/j.cnki.1000-5560.2023.03.013
 95. AAAI (AI teaching resources) — https://ojs.aaai.org/index.php/AAAI/article/view/26904
 96. Beijing Education Commission — https://jw.beijing.gov.cn/xxgk/2024zcwj/2024qtwj/202506/t20250626_4127392.html
-97. framed it as a beginning to a new cold war — https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico
-98. the UN General Secretary did visit China for the announcement of WAICO — https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/
+97. Stanford Tech Review, "The AI Cold War: Pax Silica vs WAICO, Explained" (Priya Raman, Aug 15, 2026) — https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico
+98. The Diplomat, "Pax Silica vs WAICO: Will Central Asia Have to Pick a Side?" (Catherine Putz, Sept 8, 2026) — https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/
 99. Gov.cn (5,000 AI training) — https://english.www.gov.cn/news/202607/17/content_WS6a59a5c3c6d00ca5f9a0c439.html
 100. MFA (AI Capacity-Building Action Plan) — https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240927_11498465.html
 101. MFA (AI+ International Cooperation Initiative) — https://www.mfa.gov.cn/eng/xw/zyxw/202509/t20250924_11715960.html
