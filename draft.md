@@ -25,8 +25,6 @@ The Chinese AI model is so different in its outcomes because the economic mode o
 
 As such, the goals of the technology are centered upon achieving harmony with humanity and the planet rather than making profits under capitalism.  I will look at a number of categories including environmental, social, etc. which offer alternative visions for how this technology could be used under a different socioeconomic regime.
 
-[Add a two column summary table as a quick visual summary]
-
 Tl;dr: AI and robotics aren't destroying jobs, the planet, or recreating a two tier society — it's our capitalist economic model that is.   Capitalism has found a set of technologies which it can use to replace its dependence on humanity whereas socialism has discovered a technology to move humanity collectively forward beyond "bullshit jobs" and meaningless labor.   
 
 That said, as a scientist and a dialectical materialist, I prefer "objective" facts and analysis to conjecture, so I will list both positive and negative aspects of the Chinese model throughout this piece, especially with some of the social ramifications.
@@ -67,7 +65,6 @@ The two countries have quite divergent views in terms of nuclear ambitions with 
 
 All of this progress is not at the cost of the Chinese working class or the environment, as [China is still expected to achieve carbon neutrality by 2060](https://www.hbs.edu/bigs/china-poised-to-meet-carbon-neutrality-goal-before-2060) [10] albeit [after Paris climate agreement](https://climateactiontracker.org/countries/china/net-zero-targets/) [11], while the [US is increasingly moving away from that target](https://climateactiontracker.org/countries/usa/net-zero-targets/) [12].
 
-[Add Section summary table]
 ### Data center vs. power plant: energy and water consumption
 - China's data centers consumed ~200 TWh (terawatt-hours — 1 TWh is roughly the annual electricity use of 100,000 US homes) in 2020 (2.7% of national electricity); projected to reach 400 TWh by 2030 (3.7% of national power) [13][28]
 - China accounted for 25% of global data-center electricity consumption in 2024 (IEA), second only to the US [25][31]
@@ -149,8 +146,9 @@ The energy section is where the two models diverge most sharply: the US is build
 ### Nuclear: water, waste, and the thorium question
 - **The water question cuts both ways.** Nuclear plants are often portrayed as the water-hungry alternative to renewables, but the reality depends entirely on the cooling method. A large LWR (Light Water Reactor, the dominant commercial reactor type) using **once-through cooling** — drawing water from a river or lake, passing it through the condenser, and discharging it back without reuse — can consume on the order of **90 m³/s** for a 1,600 MWe unit (World Nuclear Association). That is roughly 7.8 billion litres per day. Switch to a **recirculating (closed-loop) cooling tower**, and the plant's *consumptive* water use drops by an order of magnitude, because the same water is cycled through the system rather than withdrawn and lost. The PNNL fuel-cycle analysis — which reports in US customary units — puts US LWR consumption at roughly **0.6 gallons/kWh** (about 2.3 L/kWh) and withdrawal at **0.8 gallons/kWh** (about 3.0 L/kWh), meaningful but far below the 1.5–2.5 gallons/kWh typical of once-through coal plants.
 - **SMRs change the water math further.** A [NuScale VOYGR](https://www.nuscalepower.com/products/nuscale-power-module) [60] SMR unit is rated at **77 MWe per module**, with up to 12 modules per site (924 MWe total). Because each module is small, the absolute water draw per unit of generation is lower, and the modular design allows siting in locations where a full-scale plant's thermal output would be impractical. The NRC has approved the VOYGR design; the first commercial deployment is expected in the mid-2030s.
-- **China's nuclear fleet is already here, not hypothetical.** While US SMRs are still in the NRC licensing queue, China operates **60+ commercial reactors** with a total capacity of roughly **64 GW** (as of 2026, World Nuclear Association) [65]. The [ACP100 "Linglong One"](https://www.world-nuclear-news.org/articles/cold-testing-of-chinese-smr-completed) [61] SMR — a **125 MWe** unit built by CNNC at the Changjiang nuclear plant in Hainan — completed cold tests in late 2025 and is the world's first land-based commercial SMR in the final stages of commissioning. It uses **passive safety systems** (cooling that relies on gravity and natural circulation rather than active pumps, so it can shut down safely without external power for an extended period) and is designed for multi-purpose use: electricity generation, desalination, district heating, and industrial process heat. The IAEA completed its safety assessment of the design in 2016.
+- **China's nuclear fleet is already here, not hypothetical.** While US SMRs are still in the NRC licensing queue, China operates **60+ commercial reactors** with a total capacity of roughly **64 GW** (as of 2026, World Nuclear Association) [65]. The [ACP100 "Linglong One"](https://www.world-nuclear-news.org/articles/cold-testing-of-chinese-smr-completed) [61] SMR — a **125 MWe** unit built by CNNC at the Changjiang nuclear plant in Hainan — completed cold tests in late 2025 and is, by CNNC's positioning, the world's first land-based commercial SMR — currently in the final stages of commissioning (the IAEA's PRIS database still lists it as under construction). It uses **passive safety systems** (cooling that relies on gravity and natural circulation rather than active pumps, so it can shut down safely without external power for an extended period) and is designed for multi-purpose use: electricity generation, desalination, district heating, and industrial process heat. The IAEA completed its safety assessment of the design in 2016.
 - **China's water story is the mirror image of the US.** Because China's fleet is sited almost entirely on the coast, the dominant cooling method is **once-through seawater** — the same high-withdrawal, low-consumption pattern as a US coastal plant, but drawing on seawater rather than a fresh river or lake (World Nuclear Association). The constraint is therefore not water scarcity but the thermal and ecological impact of discharging warm seawater, which is why China is now building the first large-scale recirculating seawater-cooling systems: at Lianjiang in Guangdong, SPIC completed the world's first ultra-large high-level seawater cooling tower in 2025, which recirculates the cooling water and cuts seawater discharge to roughly **one-fortieth** of a traditional once-through plant (World Nuclear News) [66]. The ACP100, by contrast, is a compact integral design whose small thermal output can be rejected through a modest cooling tower or seawater loop, and whose multi-purpose use (desalination, district heating) lets the waste heat be put to work rather than simply dumped.
+- **The head-to-head water math.** At the PNNL figure of ~0.6 gal/kWh consumption [64], a single NuScale VOYGR module (77 MWe) at 90% capacity factor would consume on the order of 1 million gallons per day, while a typical 1,000 MWe Chinese LWR at the same specific rate would consume roughly 13 million gallons per day — a single US SMR is an order of magnitude smaller than a single Chinese reactor, purely by size [60][65]. But the comparison is not one plant against one plant: the US is planning 20+ GW of new SMR capacity (mid-2030s) while China's 64 GW fleet is already operating today [65]. And the cooling method still matters most: China's shift to recirculating seawater cooling (Lianjiang) will cut its consumptive footprint sharply [66], whereas each US SMR's water signature will depend on whether it is sited for once-through or recirculating cooling [63].
 - **The waste gap is real but smaller than the rhetoric suggests.** A once-through LWR fuel cycle produces roughly **2.5 kg of enriched uranium** and about **21 kg of natural uranium** per GWh of electricity (PNNL). The high-level waste (HLW) volume is on the order of a few cubic metres per GWh — a large number in absolute terms, but spread over the plant's 40–60 year operating life, the per-year waste footprint is modest.
 - **The strategic difference is not in the waste itself but in what each country does with it.** China's fleet, being larger and older in aggregate, generates proportionally more total waste, but the per-unit numbers are the same physics. The US has no commercial reprocessing capacity, so all spent fuel goes to dry cask storage; China is operating a reprocessing pilot at the Jiuquan nuclear complex in Gansu province, which would reduce the volume of HLW requiring long-term geological disposal.
 - **Thorium: promising on paper, unproven in practice.** The thorium fuel cycle — in which thorium-232 is transmuted into uranium-233, a fissile isotope that can sustain a chain reaction — is frequently cited as a safer, more abundant, and lower-waste alternative to uranium. On paper, the case is strong: thorium is roughly **3–4x more abundant** in the Earth's crust than uranium, the fuel cycle produces less transuranic waste (the long-lived, highly radiotoxic isotopes that dominate nuclear waste concerns), and a **molten salt reactor (MSR)** — a reactor in which the fuel is dissolved in a molten fluoride salt that acts as both coolant and fuel carrier — can operate at atmospheric pressure, eliminating the risk of a high-pressure steam explosion. The salt itself can be drained from the core in an emergency, freezing the fission chain reaction.
@@ -256,71 +254,6 @@ Read that table left to right and the point writes itself.  WAICO's entire appar
 - **For readers: the alternative is not hypothetical.** The Chinese model is not perfect — the social tradeoffs in this piece are real — but it is a working, material alternative to the US model, and the US market is already adopting its open-weight output [83]. If you only follow western media, you are seeing half the story.
 
 Other than this piece being too long, it's hopefully given you a material understanding of the Chinese AI model, including how it affects people and the planet.  Their rollout of AI is not perfect by any means, but there's a reason why a majority of Chinese people look forward to the development of AI.  When you have a humanistic government guiding the heights and restricting the lows of such a formative technology, it's much easier to envision and subsequently build technology in a way that not only moves China forward, but the world as well.
-
-### Revisions
-Completed in this revision round:
-- Restructured into intro + environment/energy/social sections
-- Fact-checked against linked sources
-- Added the US-adoption-of-Chinese-AI subsection under `## Social`
-- Added the nuclear water/waste/thorium subsection under `## Energy`
-- Added the WAICO vs EU/US comparison table under `## Social`
-- Defined technical terms (PUE, GHG, LCA, SMR, etc.) on first use
-- Consolidated all citations into the numbered `## Sources` list
-
-Open follow-ups:
-- Add a two-column summary table to the Introduction and a section summary table to the Environment section
-- Add more research on water use by planned US SMRs vs Chinese nuclear reactors, and the generated nuclear waste + water consumption
-	- Add details about the uranium vs thorium split between the two countries and the safety + environmental impacts of each technology
-- Keep the global numbers for context, but more directly compare the US and China with qualified data where appropriate
-- Pull in additional inline sources to improve the overall writeup where possible
-- Fact-check the remaining prose against the linked resources and authoritative sources more broadly
-
-### Previous Outline
-#### Environmental 
-
-Data center vs power plant energy and water consumption
-
-First electrostate, Renewables and scale/pace of the build out
-
-Cross province Energy transport
-
-Unknowns: underwater data centers
-
-Rapid cutting edge battery and capacitor development that the entire world will require to decarbonize
-
-#### Social
-
-- AI girlfriend / boyfriend ban
-
-- ban on replacing workers with AI
-
-- government principles for AI
-
-- ai in schools from elementary
-
-#### Economic
-
-- dark factories
-
-- hybrid factories
-
-- 997 work schedule + disposable labor after 30 in tech
-
-- monopoly on critical minerals for all tech, including next gen drone warfare
-
-- free ai and undercutting the price of Western ai development, creating the fundamental economic conditions for Western economic collapse
-
-#### Militaristic
-
-- rapid gains in robotics from the last two years of the Chinese robot Marathon
-
-- for good or bad, China already has black mirror level all terrain "dog" drones
-
-- Chinese drone carriers
-
-- Chinese private military companies selling targeting information to Iran during its resistance against US and Israeli aggression
-
-- in the event that China ever chose cyberwarfare, it would win because US firms have already displayed reliance upon Chinese AI rather than US (hugging face hack by openai)
 
 ## Sources
 1. The Guardian, "China has brought millions out of poverty. The US has not – by choice" (Nov 23, 2025) — https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality
@@ -446,3 +379,70 @@ Rapid cutting edge battery and capacitor development that the entire world will 
 121. Colorado General Assembly, SB 26-189 (revised AI/ADMT law, effective Jan 1, 2027; repeals and reenacts SB 24-205) — https://leg.colorado.gov/bills/sb26-189
 122. NIST, "AI Congressional Mandates, Executive Orders and Actions" (NIST AI RMF, voluntary) — https://www.nist.gov/artificial-intelligence/ai-congressional-mandates-executive-orders-and-actions
 123. CRS, "Regulating Artificial Intelligence: U.S. and International Approaches" (R48555, June 2025) — https://www.congress.gov/crs-product/R48555
+
+## Appendix
+
+### Revisions
+Completed in this revision round:
+- Restructured into intro + environment/energy/social sections
+- Fact-checked against linked sources
+- Added the US-adoption-of-Chinese-AI subsection under `## Social`
+- Added the nuclear water/waste/thorium subsection under `## Energy`
+- Added the WAICO vs EU/US comparison table under `## Social`
+- Defined technical terms (PUE, GHG, LCA, SMR, etc.) on first use
+- Consolidated all citations into the numbered `## Sources` list
+
+Open follow-ups:
+- Add a two-column summary table to the Introduction and a section summary table to the Environment section
+- Add more research on water use by planned US SMRs vs Chinese nuclear reactors, and the generated nuclear waste + water consumption
+	- Add details about the uranium vs thorium split between the two countries and the safety + environmental impacts of each technology
+- Keep the global numbers for context, but more directly compare the US and China with qualified data where appropriate
+- Pull in additional inline sources to improve the overall writeup where possible
+- Fact-check the remaining prose against the linked resources and authoritative sources more broadly
+
+### Previous Outline
+#### Environmental 
+
+Data center vs power plant energy and water consumption
+
+First electrostate, Renewables and scale/pace of the build out
+
+Cross province Energy transport
+
+Unknowns: underwater data centers
+
+Rapid cutting edge battery and capacitor development that the entire world will require to decarbonize
+
+#### Social
+
+- AI girlfriend / boyfriend ban
+
+- ban on replacing workers with AI
+
+- government principles for AI
+
+- ai in schools from elementary
+
+#### Economic
+
+- dark factories
+
+- hybrid factories
+
+- 997 work schedule + disposable labor after 30 in tech
+
+- monopoly on critical minerals for all tech, including next gen drone warfare
+
+- free ai and undercutting the price of Western ai development, creating the fundamental economic conditions for Western economic collapse
+
+#### Militaristic
+
+- rapid gains in robotics from the last two years of the Chinese robot Marathon
+
+- for good or bad, China already has black mirror level all terrain "dog" drones
+
+- Chinese drone carriers
+
+- Chinese private military companies selling targeting information to Iran during its resistance against US and Israeli aggression
+
+- in the event that China ever chose cyberwarfare, it would win because US firms have already displayed reliance upon Chinese AI rather than US (hugging face hack by openai)
