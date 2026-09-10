@@ -90,7 +90,7 @@ All of this progress is not at the cost of the Chinese working class or the envi
 ## Energy
 The energy section is where the two models diverge most sharply: the US is building data centers faster than it can build clean power, while China is building clean power faster than it can build data centers.  Below I walk through China's renewable buildout and grid transport, the unknowns (like underwater data centers), the US-vs-China divergence in numbers, and finally the nuclear water, waste, and thorium question.
 
-### First, the state: renewables and the scale/pace of the buildout
+### First electrostate: renewables and the scale/pace of the buildout
 - "East Data, West Computing" initiative (2022): channel computing from energy-hungry east to wind/solar-rich west, where the bulk of new renewable capacity is being built [27][32]
 - Western regions offer cheaper electricity but face infrastructure gaps, unstable supply, and local subsidy uncertainty
 - Tencent's Huailai microgrid (wind + solar + battery) covers only 15% of annual demand; bulk still from state grid [14][27]
