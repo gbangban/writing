@@ -1,0 +1,20 @@
+{
+  "source_id": 122,
+  "title": "AI Congressional Mandates, Executive Orders and Actions (NIST)",
+  "url": "https://www.nist.gov/artificial-intelligence/ai-congressional-mandates-executive-orders-and-actions",
+  "publisher": "NIST",
+  "published": "2026-03-27",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "f173a63dc62eb3c11952c53c6a408ebecfaf548d609ade0dce75c8d18d7e8adc",
+  "authoritative": "yes",
+  "authority_note": "Primary official NIST reference page (updated 2026-03-27).",
+  "claims": [
+    "NIST AI work driven by congressional mandates (Chips and Science Act 2022; National AI Initiative Act 2020) and Presidential EOs",
+    "National AI Initiative Act 2020 established NAIAC and the NAIRR Task Force",
+    "NIST AI Risk Management Framework (AI RMF) reflects the 2020 trustworthy-AI EO and the National AI Initiative Act (voluntary framework)",
+    "EO 14110 (10/30/2023) was rescinded 1/20/2025; EO 14179 (1/23/2025) and 'Winning the Race: America's AI Action Plan' (7/23/2025) are current drivers"
+  ],
+  "draft_usage": "Cited for the NIST AI RMF (voluntary) and US federal AI mandate landscape under Social (US policy).",
+  "issues": []
+}

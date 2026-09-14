@@ -1,0 +1,22 @@
+{
+  "source_id": 123,
+  "title": "Regulating Artificial Intelligence: U.S. and International Approaches and Considerations for Congress (CRS R48555)",
+  "url": "https://www.congress.gov/crs-product/R48555",
+  "publisher": "Congressional Research Service (Library of Congress)",
+  "author": "Laurie Harris",
+  "published": "2025-06-04",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "7b1f15ff442434af492775af9e88c27548e02753cfda9c4dc45b26568ff4fe77",
+  "authoritative": "yes",
+  "authority_note": "Primary nonpartisan CRS report (Version 4, June 4, 2025).",
+  "claims": [
+    "No broad federal AI regulatory authority enacted; US approach cautious on private-sector AI, focused on federal-use oversight",
+    "States enacting their own AI laws in the absence of federal regulation (patchwork concern)",
+    "EU: broad risk-based approach (EU AI Act); China: vertical, technology-specific framework; UK: measured approach",
+    "Shift from Biden-era AI safety focus toward security concerns in the second Trump Administration",
+    "Policy options for Congress: leverage existing frameworks, create new authorities, support US AI development, engage internationally"
+  ],
+  "draft_usage": "Cited for the US-vs-international AI regulation comparison under Social.",
+  "issues": []
+}

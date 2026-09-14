@@ -1,0 +1,21 @@
+{
+  "source_id": 120,
+  "title": "EO 14409 - Promoting Advanced Artificial Intelligence Innovation and Security",
+  "url": "https://www.federalregister.gov/documents/full_text/html/2026/06/05/2026-11415.html",
+  "publisher": "Federal Register (FR Doc. 2026-11415)",
+  "published": "2026-06-05",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "9bd834c43422f1234315445a0f498d346cc7182a8d0c948ee72e1012081d1207",
+  "authoritative": "yes",
+  "authority_note": "Primary official Federal Register Executive Order text (order dated June 2, 2026).",
+  "claims": [
+    "EO 14409 dated June 2, 2026; promotes AI innovation and security with the private sector",
+    "Sec. 2: 30-day cyber-defense priorities (National Security Systems, DoW, civilian Federal via CISA); AI cybersecurity clearinghouse (Treasury/NSA/CISA); OPM cybersecurity hiring expansion",
+    "Sec. 3: classified benchmarking to designate 'covered frontier models'; voluntary framework giving Government up to 30 days pre-release access to covered frontier models; trusted-partner early access",
+    "Sec. 3(c): no mandatory licensing/preclearance/permitting for new AI models",
+    "Sec. 4: AG to prioritize criminal enforcement (18 U.S.C. 1028/1030/1343) against AI-enabled illegal computer access"
+  ],
+  "draft_usage": "Cited for the June 2026 US AI security executive order under Social (US policy).",
+  "issues": ["Order uses 'Secretary of War'/'Department of War' (2026 DoD rename)."]
+}

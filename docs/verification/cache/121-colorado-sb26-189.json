@@ -1,0 +1,21 @@
+{
+  "source_id": 121,
+  "title": "SB 26-189 - Automated Decision-Making Technology (Colorado)",
+  "url": "https://leg.colorado.gov/bills/sb26-189",
+  "publisher": "Colorado General Assembly",
+  "published": "2026-05-14",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "4c9976685d4142d0e72b5d9ea6f9ceebda8936351db7ac3606c45d6cb2a02561",
+  "authoritative": "yes",
+  "authority_note": "Primary official state bill page (enacted, signed May 14, 2026, Chapter 131).",
+  "claims": [
+    "SB 26-189 repeals and reenacts SB 24-205 (2024) with new ADMT requirements",
+    "Developer obligations effective January 1, 2027: technical documentation to deployers, material-update notice, 3-year record retention",
+    "Consumer notice at point of interaction; plain-language description within 30 days of adverse-outcome decision; AG rules by Jan 1, 2027",
+    "Consumer rights: data access/correction, meaningful human review and reconsideration after adverse outcome",
+    "Enforced via Colorado Consumer Protection Act; 60-day cure notice before actions prior to Jan 1, 2030; no new private right of action"
+  ],
+  "draft_usage": "Cited for the Colorado revised AI/ADMT law under Social (US state preemption context).",
+  "issues": []
+}

@@ -119,3 +119,9 @@
 | 115 | EU AI Act policy page | https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai | 115-eu-ai-act-policy-page.md | yes | 2026-09-14 | |
 | 116 | EU AI Act enforcement 2 Aug | https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august | 116-eu-ai-act-enforcement-2aug.md | yes | 2026-09-14 | |
 | 117 | EU AI Act Art 99/101 penalties | https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng | 117-eu-ai-act-articles-99-101.md | yes | 2026-09-14 | |
+| 118 | White House EO 14179 (Jan 2025) | https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/ | 118-whitehouse-eo-14179.md | yes | 2026-09-14 | |
+| 119 | White House EO 14365 state preemption | https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/ | 119-whitehouse-eo-14365.md | yes | 2026-09-14 | |
+| 120 | Federal Register EO 14409 (Jun 2026) | https://www.federalregister.gov/documents/full_text/html/2026/06/05/2026-11415.html | 120-federalregister-eo-14409.md | yes | 2026-09-14 | |
+| 121 | Colorado SB 26-189 (ADMT) | https://leg.colorado.gov/bills/sb26-189 | 121-colorado-sb26-189.md | yes | 2026-09-14 | |
+| 122 | NIST AI mandates/EOs (AI RMF) | https://www.nist.gov/artificial-intelligence/ai-congressional-mandates-executive-orders-and-actions | 122-nist-ai-mandates-eo.md | yes | 2026-09-14 | |
+| 123 | CRS R48555 Regulating AI | https://www.congress.gov/crs-product/R48555 | 123-crs-r48555-regulating-ai.md | yes | 2026-09-14 | |
