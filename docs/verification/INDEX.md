@@ -72,3 +72,14 @@
 | 68 | AP AI companions | https://apnews.com/article/china-ai-virtual-companions-bytedance-wechat-22c4247031092c37b61b537dd809b658 | 68-ap-ai-companions.md | yes | 2026-09-14 | |
 | 69 | Caixin AI companion rules | https://www.caixinglobal.com/2026-07-16/chinas-first-ai-companion-rules-to-curb-addiction-protect-minors-102464887.html | 69-caixin-ai-companion-rules.md | yes | 2026-09-14 | |
 | 70 | Xinhua AI companion rules | https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html | 70-xinhua-ai-companion-rules.md | yes | 2026-09-14 | |
+| 71 | Comparative AI rule text | https://comparativeai.org/rules/china/anthropomorphic-interaction-services/ | 71-comparativeai-anthropomorphic.md | yes | 2026-09-14 | |
+| 72 | CAC Order No. 21 (nmgwx mirror) | http://www.nmgwx.gov.cn/departmentalRegulations/18108.jhtml | 72-cac-order-21.md | traced-to | 2026-09-14 | 72-trace-cac-order21.md (CAC cac.gov.cn) |
+| 73 | China Youth Daily survey | https://zqb.cyol.com/pc/content/202603/26/content_423920.html | 73-chinayouthdaily-survey.md | yes | 2026-09-14 | |
+| 74 | The Paper survey methodology | https://www.thepaper.cn/newsDetail_forward_32814783 | 74-thepaper-survey-methodology.md | yes | 2026-09-14 | |
+| 75 | China Daily survey findings | https://www.chinadaily.com.cn/a/202604/26/WS69ee2f3aa310d6866eb459b3.html | 75-chinadaily-survey-findings.md | yes | 2026-09-14 | |
+| 76 | Just Security AI companion analysis | https://www.justsecurity.org/148468/china-ai-companion-rules-relationships/ | 76-justsecurity-ai-companion.md | yes | 2026-09-14 | |
+| 77 | Bloomberg court rules (paywall) | https://www.bloomberg.com/news/articles/2026-05-02/chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds | 77-bloomberg-court-rules.md | yes | 2026-09-14 | |
+| 78 | Caixin court AI replacement | https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-102439602.html | 78-caixin-court.md | yes | 2026-09-14 | |
+| 79 | SCMP court AI layoffs | https://www.scmp.com/tech/tech-trends/article/3352327/ai-cost-cutting-not-legal-excuse-fire-workers-chinese-court-says | 79-scmp-court-ai-layoffs.md | yes | 2026-09-14 | |
+| 80 | NPR tech worker AI | https://www.npr.org/2026-05-01/nx-s1-5807131/tech-worker-china-ai | 80-npr-tech-worker-ai.md | yes | 2026-09-14 | |
+| 81 | El País court AI dismissal | https://english.elpais.com/economy-and-business/2026-05-07/a-chinese-court-sets-limits-on-the-dismissal-of-a-worker-replaced-by-ai.html | 81-elpais-court-ai-dismissal.md | yes | 2026-09-14 | |
