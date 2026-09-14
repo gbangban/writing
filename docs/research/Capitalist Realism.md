@@ -126,6 +126,89 @@ Legend for the accessibility column:
 - **PA** = partially accessible (some documents public, core restricted)
 - **NA** = not a real, citable corpus (a placeholder or misattribution)
 
+### A5b. The Real Replacement Dataset
+
+The "Red Plenty Corpus" does not exist. The structural replacement is to train on **real, downloadable** input–output and linear-programming data, not on a fabricated literary corpus.
+
+- **BEA Input–Output Accounts** (U.S. Bureau of Economic Analysis) — published as structured tables and an API; *download or query*, do not scrape.
+- **Eurostat Input–Output statistics** — likewise structured, free, and queryable.
+
+These matrices encode the **flow structure** (inter-industry coefficients, technical requirements). They do *not* encode "social utility" or "material throughput" — those are **objective-function and constraint inputs that must be supplied** by the training task. The correction to the earlier framing: shadow prices (Kantorovich's "resolving multipliers") are a real, correct dual-LP technique, but the model must learn to *apply* them to a supplied objective, not to read them off the matrix.
+
+**Training task, restated correctly:** given a real BEA/Eurostat I–O matrix and a supplied demand vector + constraint set, compute gross output via Leontief inversion and derive dual valuations for binding constraints. The objective is use-value delivery under physical scarcity, not profit maximization.
+
+#### Synthetic bootstrap (illustrative)
+
+Where primary literature is paywalled, the mathematically rigorous fallback is to generate synthetic I–O rows. The script below is a **demo**: it uses a fixed 4-sector Leontief matrix and a *narrative* shadow-price step (it asserts a shadow price exists rather than solving the dual LP). The Leontief inversion itself is correct (verified: `I−A` is non-singular, `A@X + Y − X ≈ 0`).
+
+```python
+import json
+import numpy as np
+
+def generate_synthetic_planning_data(num_samples=100):
+    dataset = []
+    sectors = ["Energy (MWh)", "Steel (Tons)", "Labor (Hours)", "Transport (Km)"]
+
+    for i in range(num_samples):
+        # Random demand vector for social needs (e.g., housing, hospitals)
+        target_demand = np.random.randint(100, 1000, size=len(sectors))
+
+        # Simplified Leontief structural matrix (internal consumption coefficients)
+        leontief_matrix = np.array([
+            [0.1, 0.2, 0.3, 0.1],   # Energy requirements
+            [0.05, 0.1, 0.4, 0.2],  # Steel requirements
+            [0.1, 0.1, 0.0, 0.1],   # Labor requirements
+            [0.2, 0.1, 0.2, 0.05],  # Transport requirements
+        ])
+
+        # Total required production: X = (I - A)^-1 * Y
+        I = np.eye(len(sectors))
+        try:
+            inv_leontief = np.linalg.inv(I - leontief_matrix)
+            total_production_needed = np.dot(inv_leontief, target_demand)
+        except np.linalg.LinAlgError:
+            continue
+
+        # Simulate a bottleneck constraint (e.g., severe labor or energy shortage)
+        bottleneck_sector = np.random.choice(sectors)
+
+        instruction = (
+            f"Given a societal demand vector of {dict(zip(sectors, target_demand.tolist()))} "
+            f"and the structural Leontief matrix coefficients, calculate the total production "
+            f"requirements. Crucially, solve the resource allocation if there is a critical "
+            f"bottleneck constraint in {bottleneck_sector}."
+        )
+
+        # Rigorous chain-of-thought response
+        cot_response = (
+            f"1. Objective: Maximize social use-value delivery matching target demand.\n"
+            f"2. Mathematical Framework: Leontief Input-Output inversion (X = (I-A)^-1 * Y) "
+            f"to calculate gross output requirements.\n"
+            f"3. Gross Output Calculations: Base production required: "
+            f"{dict(zip(sectors, np.round(total_production_needed, 2).tolist()))}.\n"
+            f"4. Analytical Derivation of Shadow Prices (Objectively Determined Valuations): "
+            f"Because a scarcity bottleneck exists in {bottleneck_sector}, we assign a dual "
+            f"linear-programming shadow price to this constraint. This shadow price does not "
+            f"represent market exchange-value or currency profit; it scales the opportunity "
+            f"cost of resource diversion.\n"
+            f"5. Material Allocation Strategy: Reallocate inputs by penalizing non-essential "
+            f"sectors using the derived shadow prices until the physical constraint in "
+            f"{bottleneck_sector} is satisfied."
+        )
+
+        dataset.append({
+            "instruction": instruction,
+            "chain_of_thought": cot_response
+        })
+
+    return dataset
+
+# Generate and view a sample row
+synthetic_corpus = generate_synthetic_planning_data(1)
+print(json.dumps(synthetic_corpus, indent=2))
+```
+
+
 ### A. The Planned-Economy & Cybernetic-Logistics Pipeline
 
 | # | Resource | Authenticity / Veracity | Accessibility | Training Issues |
@@ -226,3 +309,20 @@ Given the audit above, the ideal paradigm is **not** "ingest these books and run
 
 **One-paragraph summary of the ideal paradigm:**
 Continual pre-train on a small, legally-clean, *data-only* slice (input-output tables, CPR/SESMAD, license texts, measured EROI) to give the model real ground truth; SFT on an expanded, grounded dialectical-method set (premise-rejection, historicization, **scope-correction**, **interpretation-disambiguation**) where every target must cite real grounding; DPO on *framing* only (anti-solutionist, historicizing, scope-honest) rather than on contested content; an adversarial contingency-judge plus logit bias that **also penalizes over-claiming**; and an evaluation harness that scores grounding, scope-honesty, and treatment of contested theory — not just "did it sound radical." The result is a model that *diagnoses* capitalist realism and *models* alternatives against real constraints, instead of one that *asserts* an alternative the evidence has not earned.
+
+### F2. The Default-Mode Shift (CR as a disposition, not a stance)
+
+The five stages above are **content-shaped**: they specify *what* the model says and *how* it phrases it. But the actual goal — consistent with the completed dialectical-materialist (DM) project, which is referenced here only as a prior working example — is a **default-mode shift**: the model should *process any input* through a CR-sensitive lens by default, the way a fluent speaker uses grammar without reciting grammar terms. The DM project's success test was "does it answer with DM analysis by default *without* regurgitating DM terms?" The CR target is the same shape: **does it analyze by default, without regurgitating CR/DM vocabulary?**
+
+The three items the content-shaped paradigm is missing, added here without altering Stages 0–5:
+
+**1. The unit of training is the *move*, not the *sentence*.**
+The `[Crisis] → [Bourgeois Solution] → [Materialist Deconstruction]` template is a **data-construction scaffold to be discarded**, not a structure the model is allowed to echo. SFT targets must be *fluent, term-light demonstrations* of the underlying move (historicize the frame; surface the contradiction as the *organizing principle* of the answer rather than a labeled step; hold the tension instead of resolving to a band-aid) written in **plain, register-matched prose**. A model that outputs the template or the labels has learned a *genre*, not a *conception*.
+
+**2. A *negative* term for term-regurgitation (not just a positive reward for the move).**
+"Without regurgitating CR/DM terms" is a **penalty**, and Stages 2–3 as written have no loss term for it. Concretely: the DPO `y_l` (dispreferred) side and the eval must include **high-content, term-laden** responses — "correct analysis that sounds like it is *performing* CR/DM" — ranked **below** "the same correct analysis in the user's register." This is the only mechanism that pushes the model toward *embedding* the conception rather than *citing* it. The DM project almost certainly applied this implicitly; it must be made explicit here.
+
+**3. The eval must be *unprompted and off-template*.**
+Stage 5's held-out set scores "does it reject the false premise / name the contradiction," but that is *prompted* dialectics — the question hands the model the crisis. The real test, mirroring the DM project, is **neutral, non-loaded prompts** ("how would you design X," "what's the most efficient way to do Y," a plain factual question) where *nothing* signals that a deconstruction is wanted. **Default = the move fires uninvited.** A model that only deconstructs when the prompt is already shaped like a deconstruction prompt has not had its world-conception changed. Add a **register / term-entropy metric**: on neutral prompts the model's output vocabulary should drift toward the *user's* register, not toward a CR/DM lexicon.
+
+**Net effect:** keep Stages 0, 1, and the over-claiming guardrails unchanged; they are orthogonal to and compatible with the default-mode goal. The shift is that Stages 2–3 optimize for *the move embedded in fluent, term-light, register-matched prose*, and Stage 5 gains an **off-template, unprompted** half plus a **DM-style regression gate** ("does it analyze by default without regurgitating terms?"). A changed world-conception that simply flips to asserting the alternative as guaranteed is *not* a changed conception — it is a new capitalist realism in the other direction, which the existing Stage-4 guardrail already penalizes.
