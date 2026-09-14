@@ -2,6 +2,7 @@
 Status:
   - 🟨
 Processed: false
+Verified: 2026-09-14 — full metabolic pass complete; 5 open escalations awaiting author decision (see docs/verification/claims.md, "## Escalations")
 Created: August 23, 2026
 Related: 
 Reference: 

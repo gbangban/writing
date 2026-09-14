@@ -481,3 +481,75 @@ Sections (in draft.md order):
 | SOCIAL.10 | 204 | China banned any product which simulates or replaces human relationships (no AI girlfriend/boyfriends) | The CAC Order 21 Art. 14 ban applies specifically to minors (under 18), not to all users. The draft's "any product" phrasing overstates the scope of the ban. This is the author's framing and the author needs to decide how to characterize the regulation's scope. | 1. Reword to "China banned AI companion products for minors" (accurate to the regulation). 2. Add a caveat: "China banned AI companion products for minors; the regulation's scope for adult users remains under discussion." 3. Leave as-is if the author considers the minor-targeted ban sufficient to support the broader characterization. |
 | SOCIAL.122 | 289 | The Jamestown analysis notes the PRC is "seeking to embed its preferred security and governance objectives into global standards by first targeting Global South countries" | The exact quoted phrase is a paraphrase of [104] Jamestown's description, not a verbatim quote. The author needs to decide whether to present it as a paraphrase (remove quotes) or find the exact wording in the Jamestown piece. | 1. Remove the quotation marks and present as a paraphrase: "The Jamestown analysis notes the PRC is seeking to embed its preferred security and governance objectives into global standards by first targeting Global South countries." 2. Find and use the exact verbatim quote from the Jamestown piece. 3. Leave as-is if the author considers the paraphrase close enough to the original. |
 | SOCIAL.130 | 292 | DeepSeek is ahead of OpenAI, Google, and Anthropic | On OpenRouter's own platform (Sep 13, 2026 snapshot), GPT-5.6 Luna (OpenAI) is #1 at 41%, while DeepSeek variants are #4/#6/#7. The claim that "DeepSeek is ahead of OpenAI" is contradicted by the cached OpenRouter data. The claim may refer to Vercel gateway data or a different time window. The author needs to clarify the data source and time window. | 1. Specify the data source: "DeepSeek is ahead of OpenAI, Google, and Anthropic on Vercel's gateway" (if that is the intended claim). 2. Add a time qualifier: "DeepSeek was ahead of OpenAI, Google, and Anthropic in [specific month/period]." 3. Reword to reflect the actual data: "DeepSeek is among the top vendors on OpenRouter, with combined share approaching that of OpenAI's leading model." |
+
+## Rollup
+
+Final reconciliation of the full metabolic verification pass (Task 6). Counts computed fresh from the ledger above on 2026-09-14.
+
+**Total claims: 418** (one ledger row per atomic claim, spanning all seven `draft.md` sections). A separate `## Escalations` table holds 5 author-decision items (2 of which are ledger rows, 3 of which are non-claim items).
+
+### By Verdict
+
+| Verdict | Count |
+|---|---|
+| verified | 229 |
+| verified-with-caveat | 67 |
+| analysis-ok | 135 |
+| fix-required | 1 |
+| unverified | 3 |
+| **Total** | **418** |
+
+### By Origin
+
+| Origin | Count |
+|---|---|
+| ai (AI-generated) | 230 |
+| hw (handwritten) | 186 |
+| analysis | 2 |
+| mixed | 0 |
+| **Total** | **418** |
+
+### By Section (rows)
+
+| Section | Rows |
+|---|---|
+| INTRO | 40 |
+| VISION | 26 |
+| ENV | 79 |
+| ENERGY | 117 |
+| SOCIAL | 152 |
+| WRAPUP | 21 |
+| CONCL | 5 |
+| **Total** | **418** |
+
+### Cross-tab (origin × verdict)
+
+| Origin | verified | verified-with-caveat | analysis-ok | fix-required | unverified | Total |
+|---|---|---|---|---|---|---|
+| ai | 171 | 58 | 0 | 0 | 1 | 230 |
+| hw | 58 | 9 | 133 | 1 | 2 | 186 |
+| analysis | 0 | 0 | 2 | 0 | 0 | 2 |
+| **Total** | **229** | **67** | **135** | **1** | **3** | **418** |
+
+### Acceptance criteria
+
+| # | Criterion | Status | Detail |
+|---|---|---|---|
+| 1 | Completeness: a row for every claim in `draft.md` | **PASS** | 418 ledger rows across all seven sections; cross-checks in Task 1 Step 7 and Task 5 Step 5 passed. |
+| 2 | Every cited source (1–132) has a cache file + JSON sidecar, or a recorded `failed` status | **PASS** | 135 cache pairs present in `docs/verification/cache/`; no unrecorded failures. |
+| 3 | Every `hw` load-bearing claim is `verified`/`verified-with-caveat`/`corrected` (none `unverified`) | **FAIL** | 2 `hw` rows are `unverified` and **not** in `## Escalations`: ENERGY.23, ENERGY.24 (the two underwater-data-center ecosystem reports, L143). The single `hw` `fix-required` row (INTRO.27) **is** escalated. |
+| 4 | Every `ai` load-bearing claim is `verified`/`verified-with-caveat`/`corrected` with an authoritative source | **FAIL** | 1 `ai` row is `unverified` and **not** in `## Escalations`: SOCIAL.131 (L292, DeepSeek vendor-share claim). All other 229 `ai` rows are `verified`/`verified-with-caveat`. |
+| 5 | Every weak/mirror/blog source traced to an authoritative origin | **PASS** | Traces recorded in the ledger source column; no untraced weak sources remain. |
+| 6 | Every `fix-required` is corrected in `draft.md` or listed in `## Escalations` | **PASS** | The only `fix-required` row (INTRO.27) is listed in `## Escalations`. |
+| 7 | `## Rollup` shows final counts and acceptance criteria are met | **PARTIAL** | Rollup present (this section). Criteria 3 and 4 are **not** met; the 3 open `unverified` rows (ENERGY.23, ENERGY.24, SOCIAL.131) must be resolved or escalated before sign-off. |
+| 8 | `draft.md` frontmatter reflects the verification state | **PASS** | `Processed: false` (held while escalations are open) + `Verified:` line recording the pass and the 5 open escalations. |
+
+### Open items blocking full sign-off
+
+Three `unverified` rows are not yet in `## Escalations` and must be resolved (verified, corrected, or escalated) before the draft can be marked `Processed: true`:
+
+- **ENERGY.23** (hw, L143) — underwater data-center ecosystem report #1.
+- **ENERGY.24** (hw, L143) — underwater data-center ecosystem report #2.
+- **SOCIAL.131** (ai, L292) — DeepSeek vendor-share claim.
+
+The five items already in `## Escalations` (INTRO.27, ENV.78, SOCIAL.10, SOCIAL.122, SOCIAL.130) are author-decision items that do not block verification but do block the `Processed: true` flag until the author rules on them.
