@@ -1,0 +1,10 @@
+{
+  "number": 55,
+  "url": "https://www.iea.org/data-and-statistics/charts/solar-pv-and-wind-net-additions-in-china-2024-2025",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "9624c00d1fc9e5bde101250f8856034ae6dd5d0bd3dc95bb4025337a4a622413",
+  "title": "IEA: Solar PV and wind net additions in China 2024-2025",
+  "authoritative": "yes",
+  "notes": "IEA official chart; authoritative."
+}

@@ -1,0 +1,10 @@
+{
+  "number": 44,
+  "url": "https://powering-intelligence.epri.com/load-impacts.html",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "7a1ee70748274169b4c1529901d79d52c4df214d3e42b0a808d31ad9e671889b",
+  "title": "EPRI Powering Intelligence 2026 — Load Impacts",
+  "authoritative": "yes",
+  "notes": "EPRI (recognized domain authority); interactive web page, full data tables not extracted."
+}

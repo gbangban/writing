@@ -1,0 +1,10 @@
+{
+  "number": 56,
+  "url": "https://www.enerdata.net/publications/daily-energy-news/china-installs-record-capacity-solar-45-and-wind-18-2024.html",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "8470d1b64f56a44e902ccf70a046f71123a8418c164e68563035553992096983",
+  "title": "Enerdata: China record capacity 2024",
+  "authoritative": "no",
+  "notes": "Traced-to:48. Vendor news brief; not independent."
+}

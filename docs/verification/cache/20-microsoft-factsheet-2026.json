@@ -1,0 +1,10 @@
+{
+  "number": 20,
+  "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": "pdf",
+  "sha256": "a8b04b2ccbd3e882701ab188713705004d1c466af712c6e598378c6ceb53c270",
+  "title": "2026 Microsoft Environmental Data Fact Sheet (FY25)",
+  "authoritative": "yes",
+  "notes": "PDF; official fact sheet; GHG/water/energy tables recovered via Exa + secondary reporting."
+}

@@ -1,0 +1,10 @@
+{
+  "number": 64,
+  "url": "https://curie.pnnl.gov/system/files/documents/not%20yet%20assigned/wilson.fuel_.cycle_.comparisons_final.pdf",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": "pdf",
+  "sha256": "db8920fada0ae4922e261633438a0cf5c2be61e5625e0196d2b8412767aa2ad6",
+  "title": "PNNL: Comparing Nuclear Fuel Cycle Options",
+  "authoritative": "yes",
+  "notes": "PDF; national lab (PNNL); partial recovery via Exa; full tables not extracted."
+}

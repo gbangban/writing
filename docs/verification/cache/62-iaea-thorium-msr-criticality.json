@@ -1,0 +1,10 @@
+{
+  "number": 62,
+  "url": "https://www.iaea.org/newscenter/news/chinas-2-mw-thorium-based-molten-salt-reactor-achieves-first-criticality",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": "crawl_timeout",
+  "sha256": "eaeaf555d2437b0feea5ad0c61badbb3189c43f7d47e2e7ffa0ccff4f227b74d",
+  "title": "IAEA: China's 2 MW Thorium MSR achieves first criticality",
+  "authoritative": "yes",
+  "notes": "IAEA official; page timed out; recovered via secondary sources."
+}

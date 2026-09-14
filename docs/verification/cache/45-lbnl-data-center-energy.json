@@ -1,0 +1,10 @@
+{
+  "number": 45,
+  "url": "https://seta.lbl.gov/publications/united-states-data-center-energy-2025",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "884500428762823e84e6251a072cb7434d8677d32d69703d8b736ede54a171e4",
+  "title": "LBNL US Data Center Energy Usage Report 2025",
+  "authoritative": "yes",
+  "notes": "LBNL (national lab); authoritative."
+}

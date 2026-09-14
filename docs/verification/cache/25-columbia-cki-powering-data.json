@@ -1,0 +1,10 @@
+{
+  "number": 25,
+  "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/CKI/data%20centers%20CKI/CKI%20AI%20x%20Data%20Centers-260123.pdf",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": "pdf",
+  "sha256": "7f5501559013c50f1b862b910aafc063b360af2e1f245232fe78cb4db68421b3",
+  "title": "Columbia CKI 'Powering Data' (Jan 23, 2026)",
+  "authoritative": "yes",
+  "notes": "PDF; recognized research institution (Columbia CKI); executive summary + key projections recovered via Exa; full tables not extracted."
+}

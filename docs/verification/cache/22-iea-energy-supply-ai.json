@@ -1,0 +1,10 @@
+{
+  "number": 22,
+  "url": "https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "92adb63f87436965f8887e4e3ec513bbf92fac7f1909209b813a565243ae22b7",
+  "title": "Energy and AI — Energy supply for AI (IEA, 2025)",
+  "authoritative": "yes",
+  "notes": "IEA official report chapter; authoritative."
+}

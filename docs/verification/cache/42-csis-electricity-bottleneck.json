@@ -1,0 +1,10 @@
+{
+  "number": 42,
+  "url": "https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "6c28c9a2874262ed67b077450912a1c41dbfddefe3a5b6e3dda5b84e1d98c5ba",
+  "title": "CSIS: The Electricity Supply Bottleneck on US AI Dominance",
+  "authoritative": "yes",
+  "notes": "CSIS (recognized think tank); authoritative."
+}

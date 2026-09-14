@@ -1,0 +1,10 @@
+{
+  "number": 30,
+  "url": "https://www.gov.cn/zhengce/zhengceku/202407/content_6962214.htm",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": "failed",
+  "sha256": "5fe6c6d4cb20b3c4fdb904b2a2c8b58e50ff7c14d52cda8efb727df3debd10c9",
+  "title": "数据中心绿色低碳发展专项行动计划 (发改环资〔2024〕970号)",
+  "authoritative": "yes",
+  "notes": "Official policy document; gov.cn returned CRAWL_NOT_FOUND; content recovered from ndrc.gov.cn via Exa search."
+}

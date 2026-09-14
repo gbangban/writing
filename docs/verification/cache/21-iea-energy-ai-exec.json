@@ -1,0 +1,10 @@
+{
+  "number": 21,
+  "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "082f7f4a23ff50f1f2840adc28774f54265f4dff2d507914f16e917c5432775d",
+  "title": "Energy and AI — Executive summary (IEA, 2025)",
+  "authoritative": "yes",
+  "notes": "IEA official report; authoritative."
+}

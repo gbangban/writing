@@ -1,0 +1,10 @@
+{
+  "number": 24,
+  "url": "https://www.iea.org/reports/electricity-2026/executive-summary",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "6a5b931b58cfa8402c19a11ec46157e839ca9af385e37c86aa5ef406ab5166be",
+  "title": "Electricity 2026 — Executive summary (IEA, 2026)",
+  "authoritative": "yes",
+  "notes": "IEA official report; authoritative."
+}

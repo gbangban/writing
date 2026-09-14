@@ -1,0 +1,10 @@
+{
+  "number": 29,
+  "url": "https://english.www.gov.cn/statecouncil/ministries/202112/09/content_WS61b13edac6d09c94e48a1f81.html",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "83c2151a18a6c9a14d711e077648351adae82f782a9030c7119a378230fe9582",
+  "title": "Green data centers in focus (China Daily via gov.cn, Dec 9, 2021)",
+  "authoritative": "yes",
+  "notes": "gov.cn official; fetched via Exa (direct gov.cn returned transport error)."
+}

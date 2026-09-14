@@ -1,0 +1,10 @@
+{
+  "number": 43,
+  "url": "https://rhg.com/research/data-centers-electricity-demand/",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "43ce1d0b019853628ca51753d22a2b2f17082b49267545392a7775f9978bd72f",
+  "title": "Rhodium Group: The Impacts of Rising Electricity Demand from Data Centers",
+  "authoritative": "yes",
+  "notes": "Rhodium Group (recognized research firm); authoritative."
+}

@@ -1,0 +1,10 @@
+{
+  "number": 60,
+  "url": "https://www.nuscalepower.com/products/nuscale-power-module",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "704c92908dc17a4070d52d42cf4a8d558b09ec15ed978a0b846c483a5bfb300a",
+  "title": "NuScale Power Module (NPM) product page",
+  "authoritative": "yes",
+  "notes": "Issuing company's own product page; authoritative for NPM specs."
+}

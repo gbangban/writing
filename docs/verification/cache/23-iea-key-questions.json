@@ -1,0 +1,10 @@
+{
+  "number": 23,
+  "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "afd5ef2ffc3a83d5faba21d13302228c0742f077073c49f67d769c7483609c1e",
+  "title": "Key Questions on Energy and AI — Executive summary (IEA, 2026)",
+  "authoritative": "yes",
+  "notes": "IEA official report; authoritative."
+}

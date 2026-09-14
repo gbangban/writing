@@ -1,0 +1,10 @@
+{
+  "number": 26,
+  "url": "https://apnews.com/article/ai-data-centers-environment-climate-footprint-a792f184a9f2833b5388dbae8b41ca95",
+  "fetched_at": "2026-09-14T12:00:00Z",
+  "http_status": 200,
+  "sha256": "f5966fd10131b501b5d8684a5fe2a7a1acee956c434e037c7c5f048e6d133bae",
+  "title": "AI and data centers leave goliath-sized environmental footprints globally (AP News)",
+  "authoritative": "yes",
+  "notes": "AP News (top-tier outlet); fetched via Exa (direct AP returned 403)."
+}
