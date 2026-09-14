@@ -93,3 +93,13 @@
 | 89 | DLA Piper 2024 Framework analysis | https://www.dlapiper.com/en-us/insights/publications/2024/09/china-releases-ai-safety-governance-framework | 89-dlapiper-ai-safety-framework.md | yes | 2026-09-14 | |
 | 90 | Regulations.ai generative AI (secondary) | https://regulations.ai/regulations/china-2023-7-generative-ai | 90-regulationsai-generative-ai.md | no | 2026-09-14 | traces to 88 (gov.cn CAC full text) |
 | 91 | Library of Congress 2019 principles | https://www.loc.gov/item/global-legal-monitor/2019-09-09/china-ai-governance-principles-released/ | 91-loc-2019-principles.md | yes | 2026-09-14 | |
+| 92 | Comparative AI 2019 principles (secondary) | https://comparativeai.org/rules/china/new-gen-ai-governance-principles | 92-comparativeai-2019-principles.md | no | 2026-09-14 | traces to 87 (MOST full text) |
+| 93 | Gov.cn MOE AI education circular | https://english.www.gov.cn/news/202412/03/content_WS674e4959c6d0868f4e8ed9ae.html | 93-govcn-moe-ai-education.md | yes | 2026-09-14 | |
+| 94 | ECNU AI curriculum guidelines (journal) | https://xbjk.ecnu.edu.cn/EN/10.16382/j.cnki.1000-5560.2023.03.013 | 94-ecnu-ai-curriculum-guidelines.md | yes | 2026-09-14 | |
+| 95 | AAAI AI teaching resources (K-12) | https://ojs.aaai.org/index.php/AAAI/article/view/26904 | 95-aaai-ai-teaching-resources.md | yes | 2026-09-14 | |
+| 96 | Beijing Education Commission AI curriculum | https://jw.beijing.gov.cn/xxgk/2024zcwj/2024qtwj/202506/t20250626_4127392.html | 96-beijing-edu-ai-curriculum.md | yes | 2026-09-14 | |
+| 97 | Stanford Tech Review AI Cold War | https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico | 97-stanfordtechreview-ai-cold-war.md | yes | 2026-09-14 | |
+| 98 | The Diplomat Central Asia pick a side | https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/ | 98-diplomat-central-asia-pick-side.md | yes | 2026-09-14 | |
+| 99 | Gov.cn 5,000 AI training (Xi) | https://english.www.gov.cn/news/202607/17/content_WS6a59a5c3c6d00ca5f9a0c439.html | 99-govcn-5000-ai-training.md | yes | 2026-09-14 | |
+| 100 | MFA AI Capacity-Building Action Plan | https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240927_11498465.html | 100-mfa-ai-capacity-building.md | yes | 2026-09-14 | |
+| 101 | MFA AI+ International Cooperation Initiative | https://www.mfa.gov.cn/eng/xw/zyxw/202509/t20250924_11715960.html | 101-mfa-ai-plus-initiative.md | yes | 2026-09-14 | |

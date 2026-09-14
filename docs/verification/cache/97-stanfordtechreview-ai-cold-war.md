@@ -1,0 +1,23 @@
+<!-- source: 97
+     url: https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico
+     fetched_at: 2026-09-14T13:20:00Z
+     http_status: 200
+     title: The AI Cold War: Pax Silica vs WAICO, Explained (Stanford Tech Review, Priya Raman, Aug 15, 2026)
+     authoritative: yes
+-->
+# The AI Cold War: Pax Silica vs WAICO, Explained
+
+Stanford Tech Review (independent publication, not affiliated with Stanford University), by Priya Raman, August 15, 2026 (7-min read). Full article retrieved.
+
+## Key findings
+- Two viral maps on X (1.1M+ views) framed **Pax Silica** (blue) and **WAICO** (red, 世界人工智能合作组织) as "the battle line for the new cold war." Both organizations are real; both maps are the standard member-state maps from their Wikipedia pages.
+- **Pax Silica**: US initiative launched **12 December 2025** when seven countries signed a non-binding declaration in Washington (Australia, Israel, Japan, South Korea, Singapore, UK, US). Coordinated by the State Department under Jacob Helberg (Under Secretary for Economic Growth, Energy, and the Environment). Subject is **physical**: connectivity/data infrastructure, compute/semiconductors, advanced manufacturing, logistics, mineral refining/processing, energy — purpose is to reduce coercive dependencies (routing chips and rare earths around China). US put **$250M** toward an investment consortium for energy and critical minerals in early 2026. Growth: Netherlands (17 Dec, "non-signing partner"), Qatar (13 Jan), UAE (14 Jan), India (20 Feb), Sweden (17 Mar), Finland (16 Apr), Philippines (17 Apr), Norway (6 May), EU with Germany and Greece (23 June), six more (26 June). Canada and Taiwan participate as observers.
+- **WAICO**: proposed by Premier Li Qiang in July 2025, reiterated by Xi Jinping at the 33rd APEC meeting (Oct 2025), **created 16 July 2026** when 29 countries signed its founding agreement on the eve of the World AI Conference. Wang Yi signed for China; UN Secretary-General António Guterres attended. Headquartered in **Shanghai**, oriented toward the **Global South**; founding members include Brazil, Russia, Indonesia, Pakistan, South Africa, Malaysia, Serbia, Kenya, Ethiopia, Senegal, Cuba, Venezuela. Iran signed shortly after (roster to 30). Subject is **governance**: norms, access, and who gets a seat.
+- **Where the cold war analogy holds**: (1) bloc-building as a scoreboard — Pax Silica went 7→24 signatories in six months; WAICO assembled 29 founding members before it had a headquarters; (2) chokepoints — advanced semiconductors are a scarce chokepoint; export controls are the live weapon; (3) alignment pressure on third countries — the Philippines signed alongside a plan for an AI industrial hub in Luzon (inducement attached to alignment).
+- **Where it breaks**: (1) asymmetry — Pax Silica is a non-binding supply-chain declaration; WAICO is a treaty-founded intergovernmental organization about governance; they are not competing for the same thing (one controls who can build the machines, the other controls the rules for using them); memberships are not mutually exclusive. (2) the grey — most of the world is on neither map; no Non-Aligned Movement organizes that majority. (3) direction of flow — Chinese open-weight models (DeepSeek, Kimi, Z.ai) went from <10% of tokens in mid-2025 to ~40% in mid-2026 **inside American companies**; a hardware front and a software front, with the two sides winning different ones.
+- **What alignment costs**: in the Philippines, agricultural groups (incl. Kilusang Magbubukid ng Pilipinas) opposed converting ~4,000 acres in New Clark City into an AI hub ("massive sellout"); officials said the US asked the zone operate under US law with diplomatic immunity (Helberg denied). Dutch officials worried export restrictions on China would damage ASML; EU policymakers questioned effect on regulatory autonomy. On WAICO, Elizabeth Gibney (writing in *Nature*) judged it will likely not govern the AI industry in an enforceable way — signing costs nothing.
+- **Verdict**: "Calling this a new cold war gets the direction right and the mechanism wrong... one bloc is organizing hardware and the other is organizing legitimacy... the thing to watch is not whether the maps get redder or bluer. It is whether either side ever makes membership exclusive."
+- Data note: membership rosters, dates, and figures drawn from the Wikipedia entries for Pax Silica and WAICO, as of 15 August 2026.
+
+## Assessment
+- `authoritative: yes` — recognized tech/policy publication with detailed, sourced analysis (cites State Dept, Reuters, Nature). Secondary analysis of the two blocs.
