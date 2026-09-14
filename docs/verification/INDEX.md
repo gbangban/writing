@@ -83,3 +83,13 @@
 | 79 | SCMP court AI layoffs | https://www.scmp.com/tech/tech-trends/article/3352327/ai-cost-cutting-not-legal-excuse-fire-workers-chinese-court-says | 79-scmp-court-ai-layoffs.md | yes | 2026-09-14 | |
 | 80 | NPR tech worker AI | https://www.npr.org/2026-05-01/nx-s1-5807131/tech-worker-china-ai | 80-npr-tech-worker-ai.md | yes | 2026-09-14 | |
 | 81 | El País court AI dismissal | https://english.elpais.com/economy-and-business/2026-05-07/a-chinese-court-sets-limits-on-the-dismissal-of-a-worker-replaced-by-ai.html | 81-elpais-court-ai-dismissal.md | yes | 2026-09-14 | |
+| 82 | OpenRouter rankings (vendor, live) | https://openrouter.ai/rankings | 82-openrouter-rankings.md | yes | 2026-09-14 | |
+| 83 | CNBC Chinese AI US companies | https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html | 83-cnbc-chinese-ai-us-companies.md | yes | 2026-09-14 | |
+| 84 | Reuters DeepSeek cheapest | https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/ | 84-reuters-deepseek-cheapest.md | yes | 2026-09-14 | |
+| 85 | Rest of World Americans Chinese AI | https://restofworld.org/2026/when-americans-choose-chinese-ai/ | 85-restofworld-americans-chinese-ai.md | yes | 2026-09-14 | |
+| 86 | Ramp top SaaS vendors (vendor, live) | https://www.ramp.com/data/top-saas-vendors-on-ramp-june-2026 | 86-ramp-saas-vendors.md | yes | 2026-09-14 | |
+| 87 | MOST 2019 principles (full text) | https://www.most.gov.cn/kjbgz/201906/t20190617_147107.html | 87-most-2019-principles.md | yes | 2026-09-14 | |
+| 88 | Gov.cn 2023 Interim Measures | https://www.gov.cn/zhengce/202311/content_6917778.htm | 88-govcn-2023-interim-measures.md | yes | 2026-09-14 | |
+| 89 | DLA Piper 2024 Framework analysis | https://www.dlapiper.com/en-us/insights/publications/2024/09/china-releases-ai-safety-governance-framework | 89-dlapiper-ai-safety-framework.md | yes | 2026-09-14 | |
+| 90 | Regulations.ai generative AI (secondary) | https://regulations.ai/regulations/china-2023-7-generative-ai | 90-regulationsai-generative-ai.md | no | 2026-09-14 | traces to 88 (gov.cn CAC full text) |
+| 91 | Library of Congress 2019 principles | https://www.loc.gov/item/global-legal-monitor/2019-09-09/china-ai-governance-principles-released/ | 91-loc-2019-principles.md | yes | 2026-09-14 | |
