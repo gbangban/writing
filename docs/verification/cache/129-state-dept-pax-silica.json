@@ -1,0 +1,24 @@
+{
+  "source_id": 129,
+  "title": "Pax Silica Summit (US State Dept, Office of the Spokesperson)",
+  "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/12/pax-silica-initiative",
+  "publisher": "US Department of State",
+  "published": "2025-12-11",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "b2e547b3e00c95ad2fdeb8a2ae4d9ee0f6830135a7f679de0b965517f8b69b6f",
+  "authoritative": "yes",
+  "authority_note": "Primary/official US government source for the Pax Silica initiative and inaugural summit.",
+  "claims": [
+    "Pax Silica is a US-led strategic initiative for a secure silicon supply chain (minerals, energy, manufacturing, semiconductors, AI infrastructure, logistics)",
+    "Inaugural Pax Silica Summit convened Dec 12, 2025 by Under Secretary Jacob Helberg",
+    "8 participating countries: Japan, Republic of Korea, Singapore, Netherlands, UK, Israel, UAE, Australia",
+    "Guest contributions from Taiwan, EU, Canada, OECD",
+    "Named participants include Sony, Hitachi, Fujitsu, Samsung, SK Hynix, Temasek, DeepMind, MGX, Rio Tinto, ASML",
+    "Deliverables: joint projects on critical minerals, semiconductor design/fab/packaging, logistics, compute, energy grids; new joint ventures"
+  ],
+  "draft_usage": "Cited at draft.md:266 for the Pax Silica economic-investment row ($250M seed / $4T target).",
+  "issues": [
+    "The $250M Pax Silica Fund and $4T target are NOT stated in this Dec 11, 2025 State Dept page; those dollar figures trace to source 130 (Tom's Hardware / NYT, Mar 24, 2026)."
+  ]
+}

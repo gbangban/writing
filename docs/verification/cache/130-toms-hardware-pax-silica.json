@@ -1,0 +1,26 @@
+{
+  "source_id": 130,
+  "title": "Trump administration targets $4 trillion Pax Silica investment fund for semiconductors",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/trump-administration-targets-4-trillion-pax-silica-investment-fund-for-semiconductors",
+  "publisher": "Tom's Hardware",
+  "published": "2026-03-24",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "80b24bca480275a42681bbd02c90914637bf338246e3e8431a2ddaf6cd687e72",
+  "authoritative": "no",
+  "authority_note": "Trade press; in-article attribution to a New York Times report. Traces to NYT + US State Dept Pax Silica (source 129).",
+  "traced_to": "New York Times report (cited in-article); US State Dept Pax Silica Initiative (source 129)",
+  "claims": [
+    "Voluntary investment consortium targeting $4 trillion for energy, critical minerals, semiconductor supply chains (per NYT)",
+    "US government contributes $250 million and administers the pool",
+    "Outlined by Jacob Helberg at Hill and Valley Forum; expansion of Pax Silica (launched Dec 2025)",
+    "Founding members SoftBank, Temasek, Mubadala collectively manage > $1 trillion in combined assets",
+    "Also includes sovereign wealth funds from Singapore, UAE, Qatar, Sweden",
+    "Pax Silica now counts 13 member countries",
+    "$250M = 0.00625% of $4T goal; total global FDI last year $1.6T (UN via NYT)"
+  ],
+  "draft_usage": "Cited at draft.md:266 for the $4T aspirational target and >$1T combined founding-investor AUM (SoftBank, Temasek, Mubadala).",
+  "issues": [
+    "Tom's Hardware is trade press, not a primary source; the $4T figure is attributed in-article to a New York Times report. Dollar figures are corroborated by that NYT attribution and the underlying State Dept initiative (source 129)."
+  ]
+}

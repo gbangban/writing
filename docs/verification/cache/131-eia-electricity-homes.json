@@ -1,0 +1,21 @@
+{
+  "source_id": 131,
+  "title": "Electricity use in homes (U.S. Energy Information Administration)",
+  "url": "https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php",
+  "publisher": "US Energy Information Administration (EIA)",
+  "published": "2023-12-18",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "409ea33be55456b0d27fced79f8071c724872bcc9febd9c3b65cc0c17f150f6a",
+  "authoritative": "yes",
+  "authority_note": "Primary/official US government statistics agency (EIA); data from Residential Energy Consumption Survey (RECS 2020).",
+  "claims": [
+    "Average US household consumes about 10,500 kWh of electricity per year (excludes generation/delivery losses)",
+    "Use varies by region/housing type; South single-family detached homes consume most",
+    "Largest 2020 end-use shares: air conditioning 19%, space heating 12%, water heating 12%",
+    "89% of homes used AC in 2020 (vs 57% in 1980); central AC 27% (1980) to 67% (2020)",
+    "99% of homes have a refrigerator; 34% had two or more (2020)"
+  ],
+  "draft_usage": "Cited for the ~10,500 kWh/year average US household baseline used to translate GW/TWh into homes powered.",
+  "issues": []
+}

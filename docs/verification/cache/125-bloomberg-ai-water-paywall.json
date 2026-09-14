@@ -1,0 +1,19 @@
+{
+  "source_id": 125,
+  "title": "How AI Demand Is Draining Local Water Supplies",
+  "url": "https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/",
+  "publisher": "Bloomberg",
+  "authors": ["Leonardo Nicoletti", "Michelle Ma", "Dina Bass"],
+  "published": "2025-05-08",
+  "fetched": "2026-09-14",
+  "http_status": "paywall",
+  "sha256": "31fca0bfa7f2988334119e070d0621228402f4a40d4a86649804bd7f182965d7",
+  "authoritative": "yes",
+  "authority_note": "Reputable data-journalism outlet; article is paywalled so only intro + partial graphic metadata recovered. The draft's 'two-thirds of new US data centers since 2022 in high water-stress areas' figure is NOT independently re-verified here.",
+  "claims": [
+    "AI data centers consume large amounts of water for cooling and indirectly via electricity",
+    "Graphic: 3.3K global data centers in areas with high water-stress (1995-2025); US state-level map"
+  ],
+  "draft_usage": "Cited for the '~two-thirds of new US data centers since 2022 in high water-stress areas' claim under Energy.",
+  "issues": ["PAYWALL: full article inaccessible; the two-thirds figure could not be verified from the accessible portion. No figures invented."]
+}

@@ -1,0 +1,22 @@
+{
+  "source_id": 124,
+  "title": "AI needs to reduce its water dependency",
+  "url": "https://planet-tracker.org/ai-needs-to-reduce-its-water-dependency/",
+  "publisher": "Planet Tracker",
+  "published": "2024-08-28",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "229709f0e21dadd0aeb164588bf7ab301f14a2e6673122edfd7e9c6f31eb80a6",
+  "authoritative": "yes",
+  "authority_note": "ESG research analysis; figures attributed to Goldman Sachs, IDC, WRI Aqueduct, Data Centre Map.",
+  "claims": [
+    "US hosts ~39% of global data centres: 2,928 in the US of 7,597 globally (3,168 in North America)",
+    "US average electricity-generation water intensity 2.18 L/kWh (2015); wind/solar could cut US withdrawals ~25%",
+    "Goldman Sachs: ~$1tn AI-related capex in coming years; IDC: $632B global AI spending by 2028",
+    "Some forecasts: US data-centre power consumption doubling to 35 GW by end of decade",
+    "Less than one-third of data-centre operators tracked water metrics",
+    "WRI Aqueduct water-stress scores by country (US 2.6 Medium-High; China 2.8; India 4.1 Extremely High)"
+  ],
+  "draft_usage": "Cited for AI water dependency and US data-centre water-stress exposure under Energy.",
+  "issues": ["The draft's '~32% of US data centers in high/extremely high water-stress areas' is not explicitly stated in the fetched text; the article provides per-country DC counts + WRI Aqueduct categories from which such a figure would be derived."]
+}

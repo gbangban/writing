@@ -125,3 +125,12 @@
 | 121 | Colorado SB 26-189 (ADMT) | https://leg.colorado.gov/bills/sb26-189 | 121-colorado-sb26-189.md | yes | 2026-09-14 | |
 | 122 | NIST AI mandates/EOs (AI RMF) | https://www.nist.gov/artificial-intelligence/ai-congressional-mandates-executive-orders-and-actions | 122-nist-ai-mandates-eo.md | yes | 2026-09-14 | |
 | 123 | CRS R48555 Regulating AI | https://www.congress.gov/crs-product/R48555 | 123-crs-r48555-regulating-ai.md | yes | 2026-09-14 | |
+| 124 | Planet Tracker AI water dependency | https://planet-tracker.org/ai-needs-to-reduce-its-water-dependency/ | 124-planet-tracker-ai-water.md | yes | 2026-09-14 | ~32% US-DC water-stress figure not explicit in text |
+| 125 | Bloomberg AI water (paywall) | https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/ | 125-bloomberg-ai-water-paywall.md | yes | 2026-09-14 | paywall; "two-thirds" figure not re-verified |
+| 126 | EIA three interconnections | https://www.eia.gov/todayinenergy/detail.php?id=27152 | 126-eia-three-interconnections.md | yes | 2026-09-14 | |
+| 127 | Xinhua UHV power expressway | https://english.news.cn/20260113/3e3a7d6df5744fefb18b98fa31a4addb/c.html | 127-xinhua-uhv-power.md | yes | 2026-09-14 | 42 lines + Changji-Guquan ±1100kV confirmed; 22AC/20DC, 370GW, 3300km not in text |
+| 128 | Wikipedia Bullshit Jobs (Graeber) | https://en.wikipedia.org/wiki/Bullshit_Jobs | 128-wikipedia-bullshit-jobs.md | traced-to | 2026-09-14 | traces to Graeber 2018 book; conceptual ref only |
+| 129 | State Dept Pax Silica Initiative | https://www.state.gov/releases/office-of-the-spokesperson/2025/12/pax-silica-initiative | 129-state-dept-pax-silica.md | yes | 2026-09-14 | $250M/$4T not in this page; traces to 130 |
+| 130 | Tom's Hardware $4T Pax Silica fund | https://www.tomshardware.com/tech-industry/semiconductors/trump-administration-targets-4-trillion-pax-silica-investment-fund-for-semiconductors | 130-toms-hardware-pax-silica.md | traced-to | 2026-09-14 | trade press; traces to NYT + State Dept 129 |
+| 131 | EIA electricity use in homes | https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php | 131-eia-electricity-homes.md | yes | 2026-09-14 | |
+| 132 | Brookings AI bubble ratepayers | https://www.brookings.edu/articles/boom-or-bust-how-to-protect-ratepayers-from-the-ai-bubble/ | 132-brookings-ai-bubble-ratepayers.md | yes | 2026-09-14 | |
