@@ -24,21 +24,21 @@ Sections (in draft.md order):
 | INTRO.10 | 37 | hw | The working class controls the Chinese government rather than a wealthy ruling class as in liberal democracies | — | — | — | — | — |
 | INTRO.11 | 39 | hw | The goals of the (Chinese) technology are centered on harmony with humanity and the planet rather than making profits under capitalism | — | — | — | — | — |
 | INTRO.12 | 41 | hw | AI and robotics are not destroying jobs, the planet, or recreating a two-tier society | — | — | — | — | — |
-| INTRO.13 | 41 | analysis | It is the capitalist economic model that is destroying jobs/planet/two-tier society | — | — | — | — |
+| INTRO.13 | 41 | analysis | It is the capitalist economic model that is destroying jobs/planet/two-tier society | | — | — | — | — |
 | INTRO.14 | 41 | hw | Capitalism has found technologies to replace its dependence on human labor | — | — | — | — | — |
 | INTRO.15 | 41 | hw | Socialism has discovered a technology to move humanity collectively forward beyond bullshit jobs and meaningless labor | 128 | — | — | — | — |
 | INTRO.16 | 43 | hw | The author is a scientist and a dialectical materialist who prefers objective facts/analysis to conjecture | — | — | — | — | — |
 | INTRO.17 | 45 | hw | Much of the rest of the piece is co-written with the author's local AI setup | — | — | — | — | — |
 | INTRO.18 | 45 | hw | The author's local AI setup runs on a renewable energy provider (zero water used, no emissions) | — | — | — | — | — |
-| INTRO.19 | 45 | hw | All high-level points are the author's own, but the majority of the research and some writeup are AI-generated | — | — | — | — |
-| INTRO.20 | 47 | hw | The author will update the piece as needed as they verify the various sources | — | — | — | — |
+| INTRO.19 | 45 | hw | All high-level points are the author's own, but the majority of the research and some writeup are AI-generated | | — | — | — | — |
+| INTRO.20 | 47 | hw | The author will update the piece as needed as they verify the various sources | | — | — | — | — |
 | INTRO.21 | 51 | hw | Most people are never taught the governance structures of non-liberal democratic countries | — | — | — | — | — |
 | INTRO.22 | 51 | hw | The primary economic difference is one-party central planning by the government vs corporate-government planning in most western countries | — | — | — | — | — |
-| INTRO.23 | 51 | hw | China's planning takes the shape of five-year plans using public and private sectors to implement party + working-class priorities | — | — | — | — |
-| INTRO.24 | 53 | hw | Without corporate/market influences the Chinese government can directly shape development for the collective benefit of the people | — | — | — | — |
+| INTRO.23 | 51 | hw | China's planning takes the shape of five-year plans using public and private sectors to implement party + working-class priorities | | — | — | — | — |
+| INTRO.24 | 53 | hw | Without corporate/market influences the Chinese government can directly shape development for the collective benefit of the people | | — | — | — | — |
 | INTRO.25 | 53 | ai | China has lifted 900 million people out of poverty more rapidly than any other nation in history | 1 | — | — | — | — |
 | INTRO.26 | 53 | hw | The US builds its economy upon poverty (in deep contrast to China) | — | — | — | — | — |
-| INTRO.27 | 53 | hw | China's rapid advancements in AI, robotics, biotech, EVs, renewable energy, etc. are a by-product of the five-year central-planning system over the last eight decades | — | — | — | — |
+| INTRO.27 | 53 | hw | China's rapid advancements in AI, robotics, biotech, EVs, renewable energy, etc. are a by-product of the five-year central-planning system over the last eight decades | | — | — | — | — |
 | INTRO.28 | 59 | hw | US model: corporate-government planning; market-driven, fragmented by state permitting | — | — | — | — | — |
 | INTRO.29 | 59 | hw | Chinese model: one-party central planning; five-year plans coordinating public and private sectors | — | — | — | — | — |
 | INTRO.30 | 60 | hw | US: AI data centers built faster than clean power | — | — | — | — | — |
@@ -48,7 +48,7 @@ Sections (in draft.md order):
 | INTRO.34 | 61 | ai | US: data center emissions trajectory upward or flat through 2030 | — | — | — | — | — |
 | INTRO.35 | 61 | ai | China: data center emissions peak ~2030, then decline as the grid decarbonizes | — | — | — | — | — |
 | INTRO.36 | 62 | hw | US: corporate self-regulation of AI; no federal AI statute; active deregulation | — | — | — | — | — |
-| INTRO.37 | 62 | hw | China: state-drawn red lines including worker-replacement bans, AI companion bans, K-12 AI education | — | — | — | — |
+| INTRO.37 | 62 | hw | China: state-drawn red lines including worker-replacement bans, AI companion bans, K-12 AI education | | — | — | — | — |
 | INTRO.38 | 63 | hw | Pax Silica is a US-led consortium biased toward the Global North, precluding China cooperation | — | — | — | — | — |
 | INTRO.39 | 63 | hw | WAICO is a Shanghai-based intergovernmental organization for Global South AI capacity building | — | — | — | — | — |
 
