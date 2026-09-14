@@ -12,3 +12,6 @@
 | 8 | Xinhua white paper PDF | https://english.news.cn/20240504/ae50c03d5f544ae8a651f146c08e5be9/20240504ae50c03d5f544ae8a651f146c08e5be9_332fa818c707734567b4c3c4f2ad406eb0.pdf | 8-xinhua-modernization-whitepaper.md | yes | 2026-09-14 | |
 | 9 | Guardian gas | https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter | 9-guardian-gas.md | yes | 2026-09-14 | |
 | 10 | Harvard BiGS carbon neutrality | https://www.hbs.edu/bigs/china-poised-to-meet-carbon-neutrality-goal-before-2060 | 10-harvard-bigs-carbon-neutrality.md | yes | 2026-09-14 | |
+| 15 | CWR water PDF | https://cwrrr.org/wp-content/uploads/2024/04/CWR-2024-China-ICT-running-dry-The-rise-of-AI-climate-risks-amplify-existing-water-risks-faced-by-thirsty-data-centres.pdf | 15-cwr-water.md | no | 2026-09-14 | |
+| 16 | Applied Energy LCA | https://ideas.repec.org/a/eee/appene/v399y2025ics0306261925012528.html | 16-applied-energy.md | yes | 2026-09-14 | |
+| 17 | Nature LCA | https://www.nature.com/articles/s41586-025-08832-3 | 17-nature-lca.md | yes | 2026-09-14 | |
