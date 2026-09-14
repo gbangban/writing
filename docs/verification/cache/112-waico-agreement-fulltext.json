@@ -1,0 +1,23 @@
+{
+  "source_id": 112,
+  "title": "Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization (full text)",
+  "url": "https://dig.watch/resource/agreement-on-the-establishment-of-the-world-artificial-intelligence-cooperation-organization",
+  "publisher": "Digital Watch Observatory (republication)",
+  "published": "2026-07",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "1766968ffbea1f798b0f1d770de29cb5fa3262ab8f259c6b4e85664e864e111c",
+  "authoritative": "yes",
+  "authority_note": "Reputation digital-policy NGO republication of the treaty text; signing facts corroborated by gov.cn/Xinhua (source 113).",
+  "claims": [
+    "WAICO established as an independent intergovernmental international organization with international legal personality",
+    "Headquarters in Shanghai, PRC; structure: Council + Secretariat",
+    "Functions limited exclusively to the civilian domain of AI; convergence with the UN framework process",
+    "Decision-making: consensus to the furthest extent possible, else two-thirds majority of members present and voting; one state one vote",
+    "Secretary General and two Deputy Secretaries General, 3-year terms",
+    "Financing: annual contributions per scale of assessment referencing Universal Postal Union contribution classes",
+    "Membership open to all states; signature open May 1 - July 31, 2026"
+  ],
+  "draft_usage": "Cited for WAICO governance structure and treaty terms under Social (comparison table).",
+  "issues": ["Fetched text truncated at Article 14.2 (entry-into-force not captured)."]
+}

@@ -1,0 +1,19 @@
+{
+  "source_id": 117,
+  "title": "EU AI Act Article 99 (penalties) & Article 101 (GPAI fines), Regulation (EU) 2024/1689",
+  "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+  "publisher": "EUR-Lex (Official Journal of the EU)",
+  "published": "2024",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "eef710f4e1e788b7ed9c392dfd42b44b03bc12c2ff5ca8f750af37e55c5aa150",
+  "authoritative": "yes",
+  "authority_note": "Primary official EU law text (OJ). Penalty provisions extracted from the JS-rendered OJ page via full-page fetch and string-verified.",
+  "claims": [
+    "Art. 99(3): prohibited practices (Art. 5) -> fines up to EUR 35,000,000 or 7% of total worldwide annual turnover, whichever higher",
+    "Art. 99(4): other operator/notified-body obligations -> fines up to EUR 15,000,000 or 3% of total worldwide annual turnover, whichever higher",
+    "Art. 101: GPAI model providers -> fines up to 3% of annual total worldwide turnover or EUR 15,000,000, whichever higher"
+  ],
+  "draft_usage": "Cited for EU penalty tiers under Social (comparison table).",
+  "issues": ["OJ page is JS-rendered; text recovered via full-page fetch. Art. 99(5) EUR 10M/1% tier not separately extracted."]
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": 114,
+  "trace_file": true,
+  "title": "Trace: non-authoritative claims in Wikipedia WAICO article (source 114)",
+  "url": "https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization",
+  "fetched": "2026-09-14",
+  "sha256": "ec0c735f2828fc3450fc2878fad15b9bbcd7e1bbfadba97927589f28dd48a066",
+  "purpose": "Document where source 114's load-bearing claims trace to authoritative sources.",
+  "traces": [
+    {"claim": "29 countries signed July 16, 2026 in Shanghai", "traced_to": "113 (gov.cn/Xinhua)"},
+    {"claim": "Independent intergovernmental org, HQ Shanghai", "traced_to": "113 + 112 (agreement Arts. 1, 5.2)"},
+    {"claim": "Council + Secretariat; 3-year SG terms", "traced_to": "112 (agreement Arts. 5-8)"},
+    {"claim": "Civilian-only functions; UN convergence", "traced_to": "112 (agreement Art. 3)"},
+    {"claim": "~40% token usage among surveyed US firms", "traced_to": "83 (CNBC)"},
+    {"claim": "37 total members incl. 8 later acceders", "traced_to": "NOT re-verified; Wikipedia-cited secondary reporting"}
+  ],
+  "discrepancy": "Wikipedia founding list includes Zambia; source 103 (The Diplomat) omits it; source 113 does not enumerate all 29."
+}

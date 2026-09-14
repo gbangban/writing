@@ -113,3 +113,9 @@
 | 109 | SCIO China-ASEAN education AI | http://english.scio.gov.cn/internationalexchanges/2026-08/04/content_118632350.html | 109-scio-china-asean-education.md | yes | 2026-09-14 | |
 | 110 | CGTN Global South AI leverage (opinion) | https://news.cgtn.com/news/2026-08-10/Why-Global-South-will-have-more-leverage-than-ever-in-the-future-of-AI-1PurCThjGMw/p.html | 110-cgtn-global-south-ai-leverage.md | no | 2026-09-14 | opinion/BRI-think-tank commentator; facts corroborated by 103/113 |
 | 111 | Heeks digital expansion review (TWQ) | https://www.tandfonline.com/doi/full/10.1080/01972243.2024.2315875 | 111-heeks-digital-expansion-review.md | yes | 2026-09-14 | |
+| 112 | WAICO Agreement full text | https://dig.watch/resource/agreement-on-the-establishment-of-the-world-artificial-intelligence-cooperation-organization | 112-waico-agreement-fulltext.md | yes | 2026-09-14 | |
+| 113 | Gov.cn 29 countries sign WAICO | https://english.www.gov.cn/news/202607/17/content_WS6a59a226c6d00ca5f9a0c432.html | 113-govcn-29-countries-waico.md | yes | 2026-09-14 | |
+| 114 | Wikipedia WAICO (37 members) | https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization | 114-wikipedia-waico.md | traced-to | 2026-09-14 | traces to 113+112+83; see 114-trace-waico-37-members.md |
+| 115 | EU AI Act policy page | https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai | 115-eu-ai-act-policy-page.md | yes | 2026-09-14 | |
+| 116 | EU AI Act enforcement 2 Aug | https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august | 116-eu-ai-act-enforcement-2aug.md | yes | 2026-09-14 | |
+| 117 | EU AI Act Art 99/101 penalties | https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng | 117-eu-ai-act-articles-99-101.md | yes | 2026-09-14 | |
