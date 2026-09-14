@@ -2,7 +2,7 @@
 Status:
   - 🟨
 Processed: false
-Verified: 2026-09-14 — full metabolic pass complete; 5 open escalations awaiting author decision (see docs/verification/claims.md, "## Escalations")
+Verified: 2026-09-14 — full metabolic verification pass COMPLETE; all open items formally escalated to the author (none silently open). 8 items escalated, pending author decision: INTRO.27, ENV.78, SOCIAL.10, SOCIAL.122, SOCIAL.130, ENERGY.23, ENERGY.24, SOCIAL.131 (see docs/verification/claims.md, "## Escalations"). Processed held false per plan Task 6 Step 3 until the author rules on the escalations.
 Created: August 23, 2026
 Related: 
 Reference: 
