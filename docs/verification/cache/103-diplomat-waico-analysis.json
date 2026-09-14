@@ -1,0 +1,24 @@
+{
+  "source_id": 103,
+  "title": "With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence",
+  "url": "https://thediplomat.com/2026/07/with-new-ai-governance-organization-china-seeks-to-formalize-its-global-ai-influence/",
+  "publisher": "The Diplomat",
+  "author": "Michael Caster",
+  "published": "2026-07-21",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "030c4f89cd990a082f597d6f638fb88832b87377050d1ebd3c282bfb6e7f9ca1",
+  "authoritative": "yes",
+  "authority_note": "Named-author analysis at a reputable policy outlet; factual claims attributed to WAIC 2026 keynote and the July 16 signing; interpretive passages are the author's assessment.",
+  "claims": [
+    "WAICO formally established July 16, 2026, headquartered in Shanghai",
+    "Xi Jinping delivered the WAIC 2026 keynote in person on July 17, 2026 (first in-person since 2018 launch)",
+    "29 countries signed the WAICO establishment agreement on July 16, 2026 (list: Algeria, Cameroon, Congo, Ethiopia, Kenya, Lesotho, Mozambique, Oman, Senegal, South Africa, Cambodia, China, Indonesia, Kazakhstan, Kyrgyzstan, Laos, Malaysia, Myanmar, Pakistan, Tajikistan, Uzbekistan, Belarus, Russia, Serbia, Brazil, Cuba, Nicaragua, Venezuela)",
+    "China pledged 5,000 AI training opportunities for developing countries over five years",
+    "China will establish AI cooperation centers with ASEAN, AU, League of Arab States, CELAC, SCO, and BRICS",
+    "China will invite 30 countries to use its AI-powered meteorological warning system MAZU",
+    "WAICO idea proposed by Li Qiang at 2025 WAIC; reiterated in the 2026-2030 Five-Year Plan"
+  ],
+  "draft_usage": "Cited for WAICO founding details, signatory count, and the 5,000-training / cooperation-center / MAZU pledges under Social.",
+  "issues": []
+}

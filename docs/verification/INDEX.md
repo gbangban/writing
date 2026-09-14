@@ -103,3 +103,13 @@
 | 99 | Gov.cn 5,000 AI training (Xi) | https://english.www.gov.cn/news/202607/17/content_WS6a59a5c3c6d00ca5f9a0c439.html | 99-govcn-5000-ai-training.md | yes | 2026-09-14 | |
 | 100 | MFA AI Capacity-Building Action Plan | https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240927_11498465.html | 100-mfa-ai-capacity-building.md | yes | 2026-09-14 | |
 | 101 | MFA AI+ International Cooperation Initiative | https://www.mfa.gov.cn/eng/xw/zyxw/202509/t20250924_11715960.html | 101-mfa-ai-plus-initiative.md | yes | 2026-09-14 | |
+| 102 | Global Times Digital South 200 programs | https://www.globaltimes.cn/page/202507/1337888.shtml | 102-globaltimes-digital-south.md | yes | 2026-09-14 | |
+| 103 | The Diplomat WAICO analysis | https://thediplomat.com/2026/07/with-new-ai-governance-organization-china-seeks-to-formalize-its-global-ai-influence/ | 103-diplomat-waico-analysis.md | yes | 2026-09-14 | |
+| 104 | Jamestown Xi AI governance leadership | https://jamestown.org/xi-pursues-ai-governance-leadership-at-beijing-summit/ | 104-jamestown-xi-ai-governance.md | yes | 2026-09-14 | |
+| 105 | AU-ASRIC AI Compute Faculty Development | https://asric.africa/events/call-participation-ai-compute-faculty-development-initiative | 105-au-asric-ai-compute-faculty.md | yes | 2026-09-14 | |
+| 106 | SAnews SA-China digital education | https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-digital-education | 106-sanews-sa-china-digital-education.md | yes | 2026-09-14 | |
+| 107 | China Daily Kenya digital education center | https://www.chinadaily.com.cn/a/202502/08/WS67a6c534a310a2ab06eaae40.html | 107-chinadaily-kenya-digital-education.md | yes | 2026-09-14 | |
+| 108 | CAC China-Africa Cyberspace Plan 2025-26 | https://www.cac.gov.cn/2025-09/28/c_1760606713169654.htm | 108-cac-china-africa-cyberspace-plan.md | yes | 2026-09-14 | |
+| 109 | SCIO China-ASEAN education AI | http://english.scio.gov.cn/internationalexchanges/2026-08/04/content_118632350.html | 109-scio-china-asean-education.md | yes | 2026-09-14 | |
+| 110 | CGTN Global South AI leverage (opinion) | https://news.cgtn.com/news/2026-08-10/Why-Global-South-will-have-more-leverage-than-ever-in-the-future-of-AI-1PurCThjGMw/p.html | 110-cgtn-global-south-ai-leverage.md | no | 2026-09-14 | opinion/BRI-think-tank commentator; facts corroborated by 103/113 |
+| 111 | Heeks digital expansion review (TWQ) | https://www.tandfonline.com/doi/full/10.1080/01972243.2024.2315875 | 111-heeks-digital-expansion-review.md | yes | 2026-09-14 | |

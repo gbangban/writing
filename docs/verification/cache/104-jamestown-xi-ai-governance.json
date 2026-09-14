@@ -1,0 +1,23 @@
+{
+  "source_id": 104,
+  "title": "Xi Pursues AI Governance Leadership at Beijing Summit",
+  "url": "https://jamestown.org/xi-pursues-ai-governance-leadership-at-beijing-summit/",
+  "publisher": "Jamestown Foundation",
+  "authors": ["Sunny Cheung", "Shijie Wang"],
+  "published": "2026-07-22",
+  "fetched": "2026-09-14",
+  "http_status": 200,
+  "sha256": "19e98cec88b8af9ed1ff417c9a5bc429d9c0177999bc2f9a93eea9aa0a28895a",
+  "authoritative": "yes",
+  "authority_note": "Named-author think-tank analysis; factual claims attributed to Xinhua, MFA, NDRC, People's Daily; strategic interpretation is the authors'.",
+  "claims": [
+    "WAICO (World Artificial Intelligence Cooperation Organization) unveiled at WAIC 2026, headquartered in Shanghai, billed as first intergovernmental body dedicated to AI",
+    "Xi pledged 5,000 AI research and training opportunities via centers in ASEAN, Arab League, AU, SCO, Latin America, BRICS",
+    "China offered the Mazu meteorological AI system to 30 countries",
+    "NDRC released an eight-point AI Action Plan on July 17, 2026",
+    "Cambodia, Thailand, and Kazakhstan endorsed Beijing's AI regulatory approach after the conference",
+    "2026 domestic regulations include Interim Measures on AI Anthropomorphic Interactive Services (CAC, April 10, 2026)"
+  ],
+  "draft_usage": "Cited for WAICO unveiling and the Global South capacity-building pledges under Social.",
+  "issues": ["Title says 'Beijing Summit' but the event is WAIC in Shanghai."]
+}
