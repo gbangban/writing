@@ -1,11 +1,10 @@
-# Source 113 — Gov.cn (Xinhua): 29 countries sign agreement on establishing World AI Cooperation Organization
-
-- **URL:** https://english.www.gov.cn/news/202607/17/content_WS6a59a226c6d00ca5f9a0c432.html
-- **Author:** 孙蕊 (Xinhua)
-- **Published:** 2026-07-17 (SHANGHAI, July 16 dateline)
-- **Type:** Official news report (State Council English site, Xinhua wire)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 113
+     url: https://english.www.gov.cn/news/202607/17/content_WS6a59a226c6d00ca5f9a0c432.html
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: 29 countries sign agreement on establishing World AI Cooperation Organization
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - On **Thursday, July 16, 2026**, **twenty-nine countries signed an agreement in Shanghai** on establishing the **World Artificial Intelligence Cooperation Organization (WAICO)**.
 - WAICO will be an **independent intergovernmental international organization headquartered in Shanghai**.

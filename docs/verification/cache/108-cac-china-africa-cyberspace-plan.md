@@ -1,11 +1,10 @@
-# Source 108 — CAC: Plan of Actions on Jointly Building a China-Africa Community with a Shared Future in Cyberspace (2025–2026)
-
-- **URL:** https://www.cac.gov.cn/2025-09/28/c_1760606713169654.htm
-- **Publisher:** Cyberspace Administration of China (CAC) / 中央网络安全和信息化委员会办公室
-- **Published:** 2025-09-28
-- **Type:** Official government policy document (English translation)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 108
+     url: https://www.cac.gov.cn/2025-09/28/c_1760606713169654.htm
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Plan of Actions on Jointly Building a China-Africa Community with a Shared Future in Cyberspace (2025-2026)
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - Background: In August 2021 China launched the **Initiative on China-Africa Jointly Building a Community with a Shared Future in Cyberspace** at the first China-Africa Internet Development and Cooperation Forum. This plan implements Xi's guiding principles and the FOCAC Beijing Action Plan (2025–2027).
 - **1. Digital economy:** cooperate on communication infrastructure (submarine cables, 5G); set up a "Cooperation Network of Chinese Internet Enterprises in Africa"; expand "Silk Road E-Commerce" — host online lectures, shopping festivals, and a campaign to **market 100 African stores and 1,000 African products** on e-commerce platforms.

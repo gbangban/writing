@@ -1,12 +1,10 @@
-# 132 — Brookings: Boom or bust, protecting ratepayers from the AI bubble
-
-- **URL:** https://www.brookings.edu/articles/boom-or-bust-how-to-protect-ratepayers-from-the-ai-bubble/
-- **Publisher:** Brookings Institution (Governance Studies / CTI)
-- **Authors:** David M. Klaus (Independent Consultant) & Mark MacCarthy (Nonresident Senior Fellow, CTI)
-- **Published:** 2025-10-30 (updated Oct 31 & Nov 3, 2025)
-- **Fetched:** 2026-09-14
-- **Authoritative:** yes (recognized policy research institution; named authors)
-
+<!-- source: 132
+     url: https://www.brookings.edu/articles/boom-or-bust-how-to-protect-ratepayers-from-the-ai-bubble/
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Boom or bust: How to protect ratepayers from the AI bubble
+     authoritative: yes
+-->
 ## Key facts recovered
 
 - US electricity rates up **30% since 2020**, rising at ~2x inflation; Dominion Energy (VA) petitioned for 15% base-rate increase; residential bill projected +50% by 2039.

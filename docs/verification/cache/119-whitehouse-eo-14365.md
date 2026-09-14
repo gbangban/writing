@@ -1,11 +1,10 @@
-# Source 119 — White House: EO 14365 "Ensuring a National Policy Framework for Artificial Intelligence"
-
-- **URL:** https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
-- **Publisher:** The White House (Presidential Actions)
-- **Published:** 2025-12-11
-- **Type:** Executive Order (official text)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 119
+     url: https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: EO 14365 - Ensuring a National Policy Framework for Artificial Intelligence
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - **EO 14365, signed December 11, 2025** (page URL slug references "eliminating state law obstruction"; title "Ensuring a National Policy Framework for Artificial Intelligence").
 - Purpose: US AI leadership requires companies "free to innovate without cumbersome regulation"; **excessive State regulation** creates a "patchwork of 50 different regulatory regimes," increasingly forces "ideological bias" into models (cites a **Colorado law banning "algorithmic discrimination"** that "may even force AI models to produce false results"), and sometimes impermissibly regulates beyond State borders.

@@ -1,12 +1,10 @@
-# Source 123 — CRS: Regulating Artificial Intelligence: U.S. and International Approaches and Considerations for Congress (R48555)
-
-- **URL:** https://www.congress.gov/crs-product/R48555
-- **Publisher:** Congressional Research Service (Library of Congress)
-- **Author:** Laurie Harris
-- **Published:** 2025-06-04 (Version 4)
-- **Type:** Congressional Research Service report (nonpartisan analysis)
-- **Status:** fetched 2026-09-14 (full text via exa, http 200)
-
+<!-- source: 123
+     url: https://www.congress.gov/crs-product/R48555
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Regulating Artificial Intelligence: U.S. and International Approaches and Considerations for Congress (CRS R48555)
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - **No federal legislation establishing broad regulatory authorities** for AI development/use or AI prohibitions has been enacted; recent Congresses have passed primarily more targeted AI provisions.
 - The focus on AI safety under the Biden Administration "appears to be shifting toward security concerns during the second Trump Administration."

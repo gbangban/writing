@@ -1,11 +1,10 @@
-# Source 107 — China Daily: Digital education center to boost Sino-African ties
-
-- **URL:** https://www.chinadaily.com.cn/a/202502/08/WS67a6c534a310a2ab06eaae40.html
-- **Author:** Edith Mutethya (Machakos, Kenya); byline 董志成
-- **Published:** 2025-02-08
-- **Type:** News article (China Daily, dateline Kenya)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 107
+     url: https://www.chinadaily.com.cn/a/202502/08/WS67a6c534a310a2ab06eaae40.html
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Digital education center to boost Sino-African ties
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - As part of plans announced during the **2024 Forum on China-Africa Cooperation (FOCAC) Summit**, the **first-ever Regional Cooperation Center for China-Africa Digital Education** was launched (Friday, Feb 7, 2025) at the **Open University of Kenya** in Machakos County, together with an **Open Learning Center**.
 - The collaboration is between the **Open University of China, Donghua University, and the Open University of Kenya**.

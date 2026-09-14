@@ -1,11 +1,10 @@
-# Source 104 — Jamestown: Xi Pursues AI Governance Leadership at Beijing Summit
-
-- **URL:** https://jamestown.org/xi-pursues-ai-governance-leadership-at-beijing-summit/
-- **Authors:** Sunny Cheung, Shijie Wang (Jamestown Foundation)
-- **Published:** 2026-07-22
-- **Type:** Policy analysis (think-tank)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 104
+     url: https://jamestown.org/xi-pursues-ai-governance-leadership-at-beijing-summit/
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Xi Pursues AI Governance Leadership at Beijing Summit
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - On July 17, 2026 Xi Jinping addressed the 2026 World Artificial Intelligence Conference and High-Level Meeting on AI Global Governance in Shanghai; his keynote centered on "when machines begin thinking, how will humans coexist with them?"
 - The **World Artificial Intelligence Cooperation Organization (WAICO; 世界人工智能合作组织)** was unveiled at the conference, to be headquartered in Shanghai, and is "billed as the first intergovernmental body dedicated to AI" (attributed to Xinhua, July 17).

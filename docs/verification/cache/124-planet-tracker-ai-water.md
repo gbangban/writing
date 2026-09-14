@@ -1,11 +1,10 @@
-# Source 124 — Planet Tracker: AI needs to reduce its water dependency
-
-- **URL:** https://planet-tracker.org/ai-needs-to-reduce-its-water-dependency/
-- **Publisher:** Planet Tracker (ESG research firm)
-- **Published:** 2024-08-28
-- **Type:** Research/analysis article
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 124
+     url: https://planet-tracker.org/ai-needs-to-reduce-its-water-dependency/
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: AI needs to reduce its water dependency
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - Data-centre water is rarely viewed as a constraint, but if data-centre water consumption is not dramatically reduced it will be an increasingly important factor in data-centre location.
 - AI expansion is linked to data-centre growth; rising demand for compute (inference/training, deep learning) requires GPUs/TPUs hosted in data centres.

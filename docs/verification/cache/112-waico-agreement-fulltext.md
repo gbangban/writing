@@ -1,11 +1,10 @@
-# Source 112 — Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization (full text)
-
-- **URL:** https://dig.watch/resource/agreement-on-the-establishment-of-the-world-artificial-intelligence-cooperation-organization
-- **Publisher:** Digital Watch Observatory (republication of the agreement text)
-- **Published:** July 2026
-- **Type:** Treaty text (republication)
-- **Status:** fetched 2026-09-14 (full text via exa, http 200; text truncated at Article 14.2)
-
+<!-- source: 112
+     url: https://dig.watch/resource/agreement-on-the-establishment-of-the-world-artificial-intelligence-cooperation-organization
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization (full text)
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - The **WAICO is established as an independent intergovernmental international organization** with international legal personality (Art. 1); all contracting states are Member States.
 - **Purposes (Art. 2):** human-centric approach; promote AI for good; open/fair/just/non-discriminatory environment; bridge the AI divide; mitigate risks; safe, secure, ethical, trustworthy AI.

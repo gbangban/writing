@@ -1,5 +1,10 @@
-# Trace file — Source 114 (Wikipedia WAICO) non-authoritative claims
-
+<!-- source: 114
+     url: https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Trace: non-authoritative claims in Wikipedia WAICO article (source 114)
+     authoritative: no
+-->
 Source 114 is a tertiary (Wikipedia) source and is marked `authoritative: "no"`. Its load-bearing claims trace as follows:
 
 | Claim in 114 | Authoritative trace |

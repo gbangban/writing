@@ -1,11 +1,10 @@
-# 127 — Xinhua: UHV power expressway (Xinjiang to economic hubs)
-
-- **URL:** https://english.news.cn/20260113/3e3a7d6df5744fefb18b98fa31a4addb/c.html
-- **Publisher:** Xinhua (Xinhua Headlines)
-- **Published:** 2026-01-13
-- **Fetched:** 2026-09-14
-- **Authoritative:** yes (state wire service; primary source for the UHV-network claim)
-
+<!-- source: 127
+     url: https://english.news.cn/20260113/3e3a7d6df5744fefb18b98fa31a4addb/c.html
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: From Xinjiang's desert to economic hubs: a power expressway that lights up both ends
+     authoritative: yes
+-->
 ## Key facts recovered
 
 - UHV = ultra-high-voltage transmission; defined as AC ≥ 1000 kV and DC ≥ ±800 kV.

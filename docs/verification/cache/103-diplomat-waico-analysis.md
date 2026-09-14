@@ -1,11 +1,10 @@
-# Source 103 — The Diplomat: With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence
-
-- **URL:** https://thediplomat.com/2026/07/with-new-ai-governance-organization-china-seeks-to-formalize-its-global-ai-influence/
-- **Author:** Michael Caster
-- **Published:** 2026-07-21
-- **Type:** Analysis / opinion (The Diplomat, policy magazine)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 103
+     url: https://thediplomat.com/2026/07/with-new-ai-governance-organization-china-seeks-to-formalize-its-global-ai-influence/
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - On **July 17, 2026**, Xi Jinping delivered the keynote at the World Artificial Intelligence Conference (WAIC) in Shanghai — the first in-person appearance by China's leader at the event since its 2018 launch.
 - The **World Artificial Intelligence Cooperation Organization (WAICO)** was formally established a day before Xi's speech (July 16, 2026), to be **headquartered in Shanghai**.

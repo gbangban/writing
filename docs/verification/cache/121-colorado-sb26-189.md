@@ -1,11 +1,10 @@
-# Source 121 — Colorado General Assembly: SB 26-189 (Automated Decision-Making Technology)
-
-- **URL:** https://leg.colorado.gov/bills/sb26-189
-- **Publisher:** Colorado General Assembly (official bill page)
-- **Published:** 2026 Regular Session; **signed by Governor May 14, 2026** (Chapter 131)
-- **Type:** State legislation (enacted bill summary)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 121
+     url: https://leg.colorado.gov/bills/sb26-189
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: SB 26-189 - Automated Decision-Making Technology (Colorado)
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - **SB 26-189** (2026) "repeals and reenacts" the provisions of **SB 24-205** (the 2024 act that created consumer protections in interactions with AI systems), with new requirements on **automated decision-making technology (ADMT)** in consequential decisions.
 - **Definitions:** "ADMT" = technology that processes personal data and uses computation to generate output (predictions, recommendations, classifications, rankings, scores) used to make/guide/assist a decision concerning an individual. "Consequential decision" = decision relating to an individual's access to/eligibility for/compensation related to **education, employment, housing, financial/lending services, insurance, health-care services, or essential government services and public benefits**.

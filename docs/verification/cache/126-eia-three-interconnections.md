@@ -1,12 +1,10 @@
-# Source 126 — US EIA: U.S. electric system is made up of interconnections and balancing authorities
-
-- **URL:** https://www.eia.gov/todayinenergy/detail.php?id=27152
-- **Publisher:** U.S. Energy Information Administration (EIA), "Today in Energy"
-- **Author:** Sara Hoff (principal contributor)
-- **Published:** n/a (Today in Energy article)
-- **Type:** Official agency explainer
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 126
+     url: https://www.eia.gov/todayinenergy/detail.php?id=27152
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: U.S. electric system is made up of interconnections and balancing authorities
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - The US power system consists of **more than 7,300 power plants, nearly 160,000 miles of high-voltage power lines**, and millions of low-voltage lines/transformers, connecting **145 million customers**.
 - At the highest level, the US power system in the **Lower 48 states** is made up of **three main interconnections**, which operate largely independently with limited power transfers between them:

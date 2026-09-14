@@ -1,11 +1,10 @@
-# 131 — US EIA: Electricity use in homes
-
-- **URL:** https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php
-- **Publisher:** US Energy Information Administration (EIA)
-- **Published:** Last updated 2023-12-18 (data from RECS 2020)
-- **Fetched:** 2026-09-14
-- **Authoritative:** yes (primary/official US government statistics agency)
-
+<!-- source: 131
+     url: https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Electricity use in homes (U.S. Energy Information Administration)
+     authoritative: yes
+-->
 ## Key facts recovered
 
 - **The average US household consumes about 10,500 kWh of electricity per year** (excludes generation/delivery losses).

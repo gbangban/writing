@@ -1,11 +1,10 @@
-# Source 117 — EU AI Act, Article 99 (penalties) & Article 101 (GPAI fines), Regulation (EU) 2024/1689
-
-- **URL:** https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
-- **Publisher:** EUR-Lex (Official Journal of the European Union)
-- **Published:** Regulation (EU) 2024/1689 (OJ L, 2024)
-- **Type:** Official EU law text (consolidated OJ)
-- **Status:** fetched 2026-09-14 (penalty provisions extracted from OJ text; page is JS-heavy, text recovered via full-page fetch)
-
+<!-- source: 117
+     url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: EU AI Act Article 99 (penalties) & Article 101 (GPAI fines), Regulation (EU) 2024/1689
+     authoritative: yes
+-->
 ## Key claims (as stated in source — penalty provisions)
 - **Article 99(3):** Non-compliance with the **prohibited AI practices (Article 5)** is subject to administrative fines of up to **EUR 35,000,000** or, if the offender is an undertaking, up to **7% of its total worldwide annual turnover** for the preceding financial year, **whichever is higher**.
 - **Article 99(4):** Non-compliance with the other listed operator/notified-body obligations (i.e., provisions other than Article 5) is subject to fines of up to **EUR 15,000,000** or **3% of total worldwide annual turnover**, whichever is higher.

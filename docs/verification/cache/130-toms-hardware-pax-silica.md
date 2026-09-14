@@ -1,13 +1,10 @@
-# 130 — Tom's Hardware: $4T Pax Silica investment fund
-
-- **URL:** https://www.tomshardware.com/tech-industry/semiconductors/trump-administration-targets-4-trillion-pax-silica-investment-fund-for-semiconductors
-- **Publisher:** Tom's Hardware
-- **Author:** Luke James
-- **Published:** 2026-03-24
-- **Fetched:** 2026-09-14
-- **Authoritative:** no (trade press; traces to NYT reporting + State Dept / source 129)
-- **Traced-to:** New York Times report (cited in-article); US State Dept Pax Silica (source 129)
-
+<!-- source: 130
+     url: https://www.tomshardware.com/tech-industry/semiconductors/trump-administration-targets-4-trillion-pax-silica-investment-fund-for-semiconductors
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Trump administration targets $4 trillion Pax Silica investment fund for semiconductors
+     authoritative: no
+-->
 ## Key facts recovered (from Tom's Hardware)
 
 - Trump administration plans a **voluntary investment consortium targeting $4 trillion** for energy projects, critical minerals, and semiconductor supply chains (per a **New York Times** report).

@@ -1,11 +1,10 @@
-# Source 114 — Wikipedia: World Artificial Intelligence Cooperation Organization
-
-- **URL:** https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization
-- **Publisher:** Wikipedia (English)
-- **Published:** n/a (article current as of fetch; infobox notes "July 16, 2026; 50 days ago")
-- **Type:** Encyclopedia article (tertiary source)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 114
+     url: https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: World Artificial Intelligence Cooperation Organization (Wikipedia)
+     authoritative: no
+-->
 ## Key claims (as stated in source)
 - WAICO is an international organization focused on AI, **established July 2026**, proposed by China prior to the 2026 WAIC, **headquartered in Shanghai**, oriented toward the Global South.
 - Viewed by analysts as a **rival to the US-led Pax Silica initiative**, aiming to counterbalance Western influence across rare-earth, semiconductor, and AI-governance supply chains.

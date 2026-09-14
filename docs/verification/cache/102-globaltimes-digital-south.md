@@ -1,11 +1,10 @@
-# Source 102 — Global Times: China to host 200 training programs on digital economy and AI for Global South
-
-- **URL:** https://www.globaltimes.cn/page/202507/1337888.shtml
-- **Author:** Global Times
-- **Published:** 2025-07-08
-- **Type:** News article (state-media wire-style reporting of a government announcement)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 102
+     url: https://www.globaltimes.cn/page/202507/1337888.shtml
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: China to host 200 training programs on digital economy and AI for Global South in next five years: Chinese Premier
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - Premier Li Qiang announced at the 17th BRICS Summit (Rio de Janeiro, plenary sessions, July 7–8 2025) that China will launch the **"Digital South" initiative** under the Global Development Initiative (GDI) framework.
 - Over the next five years China will **host 200 training programs on the digital economy and AI** for Global South countries.

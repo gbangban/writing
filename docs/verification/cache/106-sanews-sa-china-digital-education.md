@@ -1,11 +1,10 @@
-# Source 106 — SAnews: SA, China to deepen cooperation in digital education
-
-- **URL:** https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-digital-education
-- **Publisher:** SAnews (South African Government news service)
-- **Published:** 2026-05-13
-- **Type:** Official government news release
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 106
+     url: https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-digital-education
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: SA, China to deepen cooperation in digital education
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - South Africa and China agreed on key measures to deepen cooperation in **digital education, technical skills development, and student mobility**, following bilateral talks between SA Higher Education and Training Minister **Buti Manamela** and China's Vice Minister of Education **Xu Qingsen** on the sidelines of the **World Digital Education Conference in Hangzhou** (May 12, 2026).
 - Agreed outcomes: a structured cooperation framework on **AI in education and digital transformation**; a **Joint Technical Working Group** to oversee rollout of **China–South Africa Vocational and Technical Centres across all nine provinces**.

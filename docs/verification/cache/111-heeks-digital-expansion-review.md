@@ -1,11 +1,10 @@
-# Source 111 — Heeks: China's digital expansion in the Global South: Systematic literature review and future research agenda
-
-- **URL:** https://www.tandfonline.com/doi/full/10.1080/01972243.2024.2315875
-- **Author:** Richard Heeks (University of Manchester)
-- **Published:** 2024 (Third World Quarterly, DOI 10.1080/01972243.2024.2315875)
-- **Type:** Peer-reviewed academic article (systematic literature review)
-- **Status:** fetched 2026-09-14 (full text via exa, http 200)
-
+<!-- source: 111
+     url: https://www.tandfonline.com/doi/full/10.1080/01972243.2024.2315875
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: China's digital expansion in the Global South: Systematic literature review and future research agenda
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - China has been engaged in digital initiatives in low- and middle-income Global South countries since at least the 1980s; the activity expanded through the "Going Out" strategy (1999), the Belt and Road Initiative (2013), and the "Information Silk Road" / "Digital Silk Road" (from 2015).
 - China's digital economy growth (nine of the world's 20 largest Internet companies in 2022) has driven and been driven by overseas expansion of Chinese tech firms.

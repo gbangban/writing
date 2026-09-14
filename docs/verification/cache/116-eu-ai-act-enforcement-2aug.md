@@ -1,11 +1,10 @@
-# Source 116 — EU: Commission starts enforcing AI Act rules and new transparency requirements on 2 August
-
-- **URL:** https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august
-- **Publisher:** European Commission, Digital Strategy (press release)
-- **Published:** 2026-07-31
-- **Type:** Official press release
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 116
+     url: https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Commission starts enforcing AI Act rules and new transparency requirements on 2 August
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - **From 2 August 2026**, the European Commission's **AI Office, together with national authorities, will begin enforcing the AI Act**.
 - On the same date, **new transparency rules start to apply**: certain AI systems must tell users when they are interacting with AI and when content has been generated or altered by AI.

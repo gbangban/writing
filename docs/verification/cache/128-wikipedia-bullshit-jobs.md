@@ -1,11 +1,10 @@
-# 128 — Wikipedia: Bullshit Jobs (David Graeber)
-
-- **URL:** https://en.wikipedia.org/wiki/Bullshit_Jobs
-- **Publisher:** Wikipedia
-- **Fetched:** 2026-09-14
-- **Authoritative:** no (tertiary encyclopedia; traces to Graeber's 2018 book)
-- **Traced-to:** David Graeber, *Bullshit Jobs: A Theory* (Simon & Schuster, May 2018) — the primary source named in the draft.
-
+<!-- source: 128
+     url: https://en.wikipedia.org/wiki/Bullshit_Jobs
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Bullshit Jobs (Wikipedia) — David Graeber
+     authoritative: no
+-->
 ## Key facts recovered (from Wikipedia)
 
 - *Bullshit Jobs: A Theory* is a **2018 book by American anthropologist David Graeber** (Simon & Schuster, May 2018; 368 pp; ISBN 978-1-5011-4331-1).

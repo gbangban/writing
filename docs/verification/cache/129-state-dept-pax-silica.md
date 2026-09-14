@@ -1,11 +1,10 @@
-# 129 — US State Dept: Pax Silica Initiative
-
-- **URL:** https://www.state.gov/releases/office-of-the-spokesperson/2025/12/pax-silica-initiative
-- **Publisher:** US Department of State, Office of the Spokesperson
-- **Published:** 2025-12-11 (Summet convened Dec 12, 2025)
-- **Fetched:** 2026-09-14
-- **Authoritative:** yes (primary/official government source)
-
+<!-- source: 129
+     url: https://www.state.gov/releases/office-of-the-spokesperson/2025/12/pax-silica-initiative
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Pax Silica Summit (US State Dept, Office of the Spokesperson)
+     authoritative: yes
+-->
 ## Key facts recovered
 
 - **Pax Silica** = US-led strategic initiative to build a secure, prosperous, innovation-driven silicon supply chain (critical minerals → energy inputs → advanced manufacturing → semiconductors → AI infrastructure → logistics).

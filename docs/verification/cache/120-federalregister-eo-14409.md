@@ -1,11 +1,10 @@
-# Source 120 — Federal Register: EO 14409 "Promoting Advanced Artificial Intelligence Innovation and Security"
-
-- **URL:** https://www.federalregister.gov/documents/full_text/html/2026/06/05/2026-11415.html
-- **Publisher:** Federal Register (FR Doc. 2026-11415)
-- **Published:** 2026-06-05 (order dated June 2, 2026)
-- **Type:** Executive Order (official Federal Register text)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 120
+     url: https://www.federalregister.gov/documents/full_text/html/2026/06/05/2026-11415.html
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: EO 14409 - Promoting Advanced Artificial Intelligence Innovation and Security
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - **EO 14409, dated June 2, 2026** (published in the Federal Register June 5, 2026).
 - Purpose: promote AI innovation and security by working with the private sector to modernize and harden government/private information systems, protect IP from adversary theft, and cultivate advanced AI-enabled capabilities.

@@ -1,11 +1,10 @@
-# Source 115 — EU: AI Act (Regulation (EU) 2024/1689) official policy page
-
-- **URL:** https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
-- **Publisher:** European Commission, Digital Strategy ("Shaping Europe's digital future")
-- **Published:** policy page (updated; page reflects AI Omnibus changes, prohibition 9 effective Dec 2026)
-- **Type:** Official EU policy page
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 115
+     url: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: AI Act (Regulation (EU) 2024/1689) - official policy page
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - The **AI Act (Regulation (EU) 2024/1689)** is the **first-ever comprehensive legal framework on AI worldwide**; aim: foster trustworthy AI in Europe.
 - **Risk-based approach with 4 levels:**

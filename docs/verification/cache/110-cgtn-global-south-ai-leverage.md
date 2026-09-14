@@ -1,11 +1,10 @@
-# Source 110 — CGTN Opinion: Why the Global South will have more leverage than ever in the future of AI
-
-- **URL:** https://news.cgtn.com/news/2026-08-10/Why-Global-South-will-have-more-leverage-than-ever-in-the-future-of-AI-1PurCThjGMw/p.html
-- **Author:** Saxon Zvina (special commentator; Harare-based consultant, BRI Think Tank member)
-- **Published:** 2026-08-10
-- **Type:** Opinion article (CGTN Opinion)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 110
+     url: https://news.cgtn.com/news/2026-08-10/Why-Global-South-will-have-more-leverage-than-ever-in-the-future-of-AI-1PurCThjGMw/p.html
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: Why the Global South will have more leverage than ever in the future of AI
+     authoritative: no
+-->
 ## Key claims (as stated in source)
 - Xi outlined **four proposals for global AI governance** at the 2026 WAIC: openness/win-win cooperation with innovation-driven development; risk awareness and secure/controllable AI; inclusiveness and mutual learning among civilizations; solidarity and improved global governance.
 - **More than 100 UN member states — most from the Global South — have not participated in major international AI governance initiatives.**

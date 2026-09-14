@@ -1,11 +1,10 @@
-# Source 118 — White House: EO 14179 "Removing Barriers to American Leadership in Artificial Intelligence"
-
-- **URL:** https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/
-- **Publisher:** The White House (Presidential Actions)
-- **Published:** 2025-01-23
-- **Type:** Executive Order (official text)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 118
+     url: https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: EO 14179 - Removing Barriers to American Leadership in Artificial Intelligence
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - **EO 14179, signed January 23, 2025.** Purpose: develop AI "free from ideological bias or engineered social agendas"; maintain US global AI leadership.
 - **Revokes certain existing AI policies/directives** that act as barriers to innovation.

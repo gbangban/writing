@@ -1,11 +1,10 @@
-# Source 122 — NIST: AI Congressional Mandates, Executive Orders and Actions
-
-- **URL:** https://www.nist.gov/artificial-intelligence/ai-congressional-mandates-executive-orders-and-actions
-- **Publisher:** National Institute of Standards and Technology (NIST)
-- **Published:** page created 2025-01-21, **updated 2026-03-27**
-- **Type:** Official agency reference page (NIST AI program)
-- **Status:** fetched 2026-09-14 (full text, http 200)
-
+<!-- source: 122
+     url: https://www.nist.gov/artificial-intelligence/ai-congressional-mandates-executive-orders-and-actions
+     fetched_at: 2026-09-14T13:00:00Z
+     http_status: 200
+     title: AI Congressional Mandates, Executive Orders and Actions (NIST)
+     authoritative: yes
+-->
 ## Key claims (as stated in source)
 - NIST's AI efforts are driven by congressional mandates, Presidential EOs/policies, industry and research-community needs, and NIST's own capabilities.
 - **Chips and Science Act of 2022 (P.L. 117-167, 8/9/2022):** directs NIST to continue supporting AI/data science (carrying out the National AI Initiative Act of 2020), improve AI-enabled cybersecurity, establish testbeds for robust/trustworthy AI/ML, expand AI capabilities, support AI chip/hardware measurement R&D, develop technical standards for safe/trustworthy AI, create a risk-management framework, and develop cybersecurity tools/encryption/best practices.
