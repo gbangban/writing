@@ -10,16 +10,6 @@ aliases:
 tags:
   - Inbox
 ---
-# Revisions (completed this round — see Appendix)
-- [x] Add *Bullshit Jobs* reference to the Graeber mention (now linked, source [128])
-- [x] Re-verify the double 46% water claim — the US "46% of racks" was a copy of China's CWR figure; replaced with the real US figures (32% of US data centers in high/extreme water stress [124]; ~two-thirds of *new* US centers since 2022 in high-stress areas [125]). China's CWR 46% (Dry 10) retained.
-- [x] Qualify/verify the energy transmission claims and metaphor — the "single US grid / California-to-New-York" framing was inverted. Now states the US has 3 independent interconnections (Eastern/Western/ERCOT) that can't move bulk power coast-to-coast, vs China's 42-project UHV network [126][127].
-- [x] Review and reverify the attribution claims
-	- [x] Brookings quotes: confirmed real but misattributed. Quote 2 ("oversupplied grid") is from the *first* Brookings article (David Victor), not "Interwoven frontiers." Quote 1a is Samantha Gross (not Kyle Chan). The "electron gap" line was a paraphrase, now attributed to Kyle Chan.
-	- [x] The "60% renewable energy mix" figure was *not* misattributed — the IEA "Energy supply for AI" report does state renewables + nuclear ≈ 60% of China's data center electricity by 2035. Clarified it is renewables + nuclear (not a "renewable energy mix") and moved the 64 GW / 60+ reactors / thorium details to their own sources [65][61][62] so they're no longer bundled to the IEA link.
-- [x] Disambiguated GW vs TWh: made the hidden capacity-factor assumption explicit. 1 GW at 100% CF ≈ 830k homes (peak, "could supply"); 1 GW solar at ~25% CF ≈ 200k homes (actual); 1 TWh ≈ 95k homes. The nameplate "1 GW = 1M homes" silently assumes flat-out output, which is why it looks bigger than a TWh. Added US EIA household-consumption source [131].
-- [x] Add a link/source for the EU AI Act (now linked inline, source [115]).
-- [x] Update the WAICO vs Pax Silica table with an economic investment comparison (new row; Pax Silica $250M seed / $4T target / >$1T AUM [129][130] vs WAICO no disclosed budget, unit-based commitments).
 
 # What leftists and progressives miss about AI
 ## Introduction
@@ -478,10 +468,19 @@ Completed in the current revision round:
 - Added the GW-vs-TWh capacity/energy clarification using the shared homes reference
 - Added the economic-investment comparison row to the WAICO vs Pax Silica table [129][130]
 
-Remaining open follow-ups:
-- Fact-check the remaining prose against the linked resources and authoritative sources more broadly (esp. the load-bearing Microsoft Nature LCA numbers [17] and the IEA US mix details [22], flagged in docs/review.md D4–D9)
+# Revisions (completed this round — see Appendix)
+- [x] Add *Bullshit Jobs* reference to the Graeber mention (now linked, source [128])
+- [x] Re-verify the double 46% water claim — the US "46% of racks" was a copy of China's CWR figure; replaced with the real US figures (32% of US data centers in high/extreme water stress [124]; ~two-thirds of *new* US centers since 2022 in high-stress areas [125]). China's CWR 46% (Dry 10) retained.
+- [x] Qualify/verify the energy transmission claims and metaphor — the "single US grid / California-to-New-York" framing was inverted. Now states the US has 3 independent interconnections (Eastern/Western/ERCOT) that can't move bulk power coast-to-coast, vs China's 42-project UHV network [126][127].
+- [x] Review and reverify the attribution claims
+	- [x] Brookings quotes: confirmed real but misattributed. Quote 2 ("oversupplied grid") is from the *first* Brookings article (David Victor), not "Interwoven frontiers." Quote 1a is Samantha Gross (not Kyle Chan). The "electron gap" line was a paraphrase, now attributed to Kyle Chan.
+	- [x] The "60% renewable energy mix" figure was *not* misattributed — the IEA "Energy supply for AI" report does state renewables + nuclear ≈ 60% of China's data center electricity by 2035. Clarified it is renewables + nuclear (not a "renewable energy mix") and moved the 64 GW / 60+ reactors / thorium details to their own sources [65][61][62] so they're no longer bundled to the IEA link.
+- [x] Disambiguated GW vs TWh: made the hidden capacity-factor assumption explicit. 1 GW at 100% CF ≈ 830k homes (peak, "could supply"); 1 GW solar at ~25% CF ≈ 200k homes (actual); 1 TWh ≈ 95k homes. The nameplate "1 GW = 1M homes" silently assumes flat-out output, which is why it looks bigger than a TWh. Added US EIA household-consumption source [131].
+- [x] Add a link/source for the EU AI Act (now linked inline, source [115]).
+- [x] Update the WAICO vs Pax Silica table with an economic investment comparison (new row; Pax Silica $250M seed / $4T target / >$1T AUM [129][130] vs WAICO no disclosed budget, unit-based commitments).
 
-### Previous Outline
+
+### Original Outline
 #### Environmental 
 
 Data center vs power plant energy and water consumption
