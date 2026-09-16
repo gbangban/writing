@@ -339,7 +339,6 @@ When you have a humanistic government guiding the heights and restricting the lo
 37. 每经网 (2026 update) — https://www.nbd.com.cn/articles/2026-01-30/4242100.html
 38. Microsoft (Project Natick results) — https://news.microsoft.com/source/features/sustainability/project-natick-underwater-datacenter/
 40. Brookings, "How will the US and China power the AI race?" — https://www.brookings.edu/articles/how-will-the-united-states-and-china-power-the-ai-race/
-41. Brookings, "Interwoven frontiers: Energy, AI, and US-China competition" — https://www.brookings.edu/articles/interwoven-frontiers-energy-ai-and-us-china-competition/
 42. CSIS, "The Electricity Supply Bottleneck on US AI Dominance" — https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance
 43. Rhodium Group, "The Impacts of Rising Electricity Demand from Data Centers" — https://rhg.com/research/data-centers-electricity-demand/
 44. EPRI, "Powering Intelligence 2026" — https://powering-intelligence.epri.com/load-impacts.html
