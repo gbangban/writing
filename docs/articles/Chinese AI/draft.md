@@ -31,7 +31,7 @@ As such, the goals of the technology are centered upon achieving harmony with hu
 
 Tl;dr: AI and robotics aren't destroying jobs, the planet, or recreating a two tier society — it's our capitalist economic model that is.   Capitalism has found a set of technologies which it can use to replace its dependence on human labor whereas socialism has discovered a technology to move humanity collectively forward beyond ["bullshit jobs"](https://en.wikipedia.org/wiki/Bullshit_Jobs) [[128](#source-128)] and meaningless labor.   
 
-That said, as a scientist and a dialectical materialist, I prefer "objective" facts and analysis to conjecture, so I will list both positive and negative aspects of the Chinese model throughout this piece, especially with some of the social ramifications.
+That said, as a scientist and a dialectical materialist, I prefer "objective" facts and analysis to conjecture, so I will list both positive and negative aspects of the Chinese model throughout this piece, especially with some of the social ramifications.  An earlier draft contained more details about robotics, batteries/capacitors, and military analysis, but I will save that discussion in a future document.
 
 Transparently, much of the rest of this piece is co-written with my local AI setup on a renewable energy provider (i.e. zero water used, and no emissions).  All high level points are my own, but the majority of the research and some of the writeup are generated.  
 
@@ -39,9 +39,9 @@ I'll update this piece as needed as I verify the various sources.
 
 ### A Brief Introduction to the Chinese Governance Model
 
-Most people are never taught about the governance structures of non-liberal democratic countries, so I'll briefly introduce the primary economic difference.  Namely, one party central planning by the government vs the corporate-government planning that we see in most western countries.  These take the shape of five year plans which use the public and private sectors to implement the various priorities of the party + working class. 
+Most people are never taught about the governance structures of non-liberal democratic countries, so I'll briefly introduce the primary socioeconomic difference.  Namely, one-party central planning by the government vs the corporate-government planning that we see in most western countries.  These take the shape of five year plans which use the public and private sectors to implement the various priorities of the party + working class. 
 
-Without any corporate or market influences, the government can directly shape the development of the country for the collective benefit of the people.  Through this system, China has been able to lift [900 million people out of poverty more rapidly than any other nation in history](https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality) [[1](#source-1)] in deep contrast to the US, which builds its economy upon poverty.  Similarly, the rapid and somewhat mindboggling advancements that China continues to achieve in AI, robotics, biotech, EVs, renewable energy, and more are all a by-product of this five year central planning system over the last eight decades.
+Without any corporate or market influences, the government can directly shape the development of the country for the collective benefit of the people.  Through this system, China has been able to lift [900 million people out of poverty more rapidly than any other nation in history](https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality) [[1](#source-1)] in deep contrast to the US, which builds its economy upon poverty.  Similarly, the rapid and somewhat mindboggling advancements that China continues to achieve in AI, robotics, biotech, EVs, renewable energy, and more are all a by-product of this five year central planning system over the last seven decades.
 
 A quick summary table:
 
@@ -131,7 +131,7 @@ Similarly, since China has undertaken the massive unprofitable, but necessary up
 ### Known unknowns: underwater data centers
 Whereas most data centers that we hear about in the US are terrestrial/on-land installations, both the US and China have explored underwater data centers.  While I couldn't find any formal impact studies, I've found both beneficial and detrimental impacts for these experiments anecdotally.  
 
-One side leading towards large distortions in the local ecosystem which required local fishers to go further out to sea for their catches.  Conversely, in a different report, due to the reduced fishing nets and other impacts, local flora and fauna return.  I reserve my conclusions until after the studies, but I did want to flag the divergence in approaches here, especially given how much state capital is flowing to support the experiments.
+One side fears [localized temperature increases which would disturb local ecosystems via deoxygenation](https://www.nature.com/articles/s41598-022-21293-2#:~:text=The%20use%20of%20the%20ocean%20water%20at%20elevated%20temperature%20for%20underwater%20data%20center%20cooling%20results%20in%20outlet%20water%20having%20a%20higher%20temperature.%20The%20resulting%20higher%20temperature%20of%20the%20outlet%20water%20poses%20risk%20to%20aquatic%20bio%2Ddiversity%20due%20to%20ocean%20de%2Doxygenation39.) which are already degraded due to climate change.  Conversely, in a different report, [no large temperature increase was observed](increase) (>1°C ) .  I reserve my conclusions until after the studies, but I did want to flag the divergence in approaches here, especially given how much state capital is flowing to support the experiments.
 
 - Guangdong province five-year marine economy plan (2021): encourage "high energy consuming data centers" to relocate underwater in Guangzhou, Shenzhen, Zhuhai ([Reuters](https://www.reuters.com/markets/commodities/chinas-guangdong-province-plans-move-data-centres-undersea-cut-power-use-2021-12-14/) [[33](#source-33)]; [DataCenterDynamics](https://www.datacenterdynamics.com/en/news/guangdong-puts-underwater-data-centers-in-its-5-year-marine-economy-plan-to-save-cooling-costs/) [[34](#source-34)])
 - Follows successful trials by Highlander (specialist firm) in Shenzhen ([DataCenterDynamics](https://www.datacenterdynamics.com/en/news/guangdong-puts-underwater-data-centers-in-its-5-year-marine-economy-plan-to-save-cooling-costs/) [[34](#source-34)])
@@ -297,7 +297,7 @@ This is the flip side of the worker-replacement bans above: while China's courts
 
 # Conclusions?
 
-Other than this piece being too long, it's hopefully given you a material understanding of the Chinese AI model, including how it affects people and the planet.  Their rollout of AI is not perfect by any means, but there's a reason why a majority of Chinese people look forward to the development of AI.  
+Other than this piece being too long, it's hopefully given you a material understanding of the Chinese AI model, including how it affects people and the planet.  Their rollout of AI is not perfect by any means, but [there's a reason why a majority of Chinese people look forward to the development of AI](https://hai.stanford.edu/assets/files/ai_index_report_2026_chapter_9_public_opinion.pdf) .
 
 Similarly, as we increasingly move towards a multi-polar world order, its clear that the US and the west have no intention to help develop the global south after centuries of exploitation and degradation.  Now the Global South is rising to take care of its own needs outside of a decaying post colonial capitalist system. 
 
@@ -456,6 +456,13 @@ When you have a humanistic government guiding the heights and restricting the lo
 ## Appendix
 
 ### Revisions
+- Revise the Sources section to enable proper deep linking from the respective internal links ex. ([xyz](# Source 1))
+- Normalize Global South and across the text
+	- Review for grammar, spelling, and syntax
+- Improve sourcing and accuracy of the underwater data center section with the following links
+	- https://fortune.com/2026/08/25/ai-data-centers-ocean-expansion/
+	- Search for a supposed 2020 chinese study on affects of underwater data centers
+
 Completed in this revision round:
 - Restructured into intro + environment/energy/social sections
 - Fact-checked against linked sources
