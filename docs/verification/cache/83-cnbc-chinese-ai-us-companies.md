@@ -1,6 +1,7 @@
 <!-- source: 83
      url: https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
      fetched_at: 2026-09-14T12:35:00Z
+     refetched_at: 2026-09-16T00:00:00Z (re-fetch to capture provider-level breakdown)
      http_status: 200
      title: Chinese AI models gain ground with U.S. companies as costs surge (CNBC)
      authoritative: yes
@@ -19,6 +20,7 @@ By Kai Nicol-Schwarz. Published Tue, Jul 7 2026, 1:00 AM EDT (updated 5:30 AM ED
 - **Performance**: Brookings' **Kyle Chan** — Chinese models operate "close to the top American frontier models," currently **"six to nine months"** behind top U.S. rivals. **GLM 5.2** landed within a **percentage point of Anthropic's Opus 4.8** on one agentic benchmark, at **~a fifth of the cost**; some researchers say it can perform on par with top U.S. labs on some cyber benchmarks.
 - **Hugging Face** (Yacine Jernite, head of ML): companies motivated to use cheaper AI stacks they can control; "often means leveraging Chinese options." Warns of a risk users get stuck choosing between "performant but expensive US proprietary models... or Chinese models as the only feasible alternative."
 - Policy context: U.S. administration increasingly regulating its most powerful AI models; OpenAI limited rollout of new models on government request (end June); export controls on Anthropic's Mythos and Fable models lifted that month after a standoff.
+- **Provider-level breakdown (2026-09-16 re-fetch):** the full article body contains NO per-vendor/per-model token-share percentages. The only quantitative OpenRouter figures in the article are the aggregate weekly-share series above (Chinese models >30%/week since Feb 8, peak 46%, 12-mo avg 11%, 4.5% H1 2025). The article's chart is an embedded Flourish visualisation (public.flourish.studio/visualisation/29581915) whose data is not in the article text; the per-vendor figures (DeepSeek 17.6% largest single vendor; Qwen 13.9% / 2.77T tokens per week) circulated via secondary outlets citing this article/OpenRouter data are NOT present in the article text as fetched 2026-09-16.
 
 ## Assessment
 - `authoritative: yes` — CNBC is a top-tier business outlet.
