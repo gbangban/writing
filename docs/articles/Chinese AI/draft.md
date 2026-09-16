@@ -1,16 +1,3 @@
----
-Status:
-  - 🟨
-Processed: false
-Verified: 2026-09-14 — full metabolic verification pass COMPLETE; all open items formally escalated to the author (none silently open). 8 items escalated, pending author decision: INTRO.27, ENV.78, SOCIAL.10, SOCIAL.122, SOCIAL.130, ENERGY.23, ENERGY.24, SOCIAL.131 (see docs/verification/claims.md, "## Escalations"). Processed held false per plan Task 6 Step 3 until the author rules on the escalations.
-Created: August 23, 2026
-Related: 
-Reference: 
-aliases: 
-tags:
-  - Inbox
----
-
 # What leftists and progressives miss about AI
 ## Introduction
 I often get into discussions (read: arguments) with leftists of all stripes over AI.  Most Americans, if not most people around the western world, have only heard about AI from western media sources or straight from the various AI technofascists' mouths.  And they are absolutely in the right when it comes to a critique of those individuals and institutions, yet the field and industry of AI is much larger than just the US.  
