@@ -292,155 +292,290 @@ When you have a humanistic government guiding the heights and restricting the lo
 ## Sources
 
 ### Introduction
-1. The Guardian, "China has brought millions out of poverty. The US has not – by choice" (Nov 23, 2025) — https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality
-2. Xi, WAIC 2026 keynote (5,000 training, cooperation centers) — http://english.scio.gov.cn/m/topnews/2026-07/18/content_118605932.html
-3. Xi, WAIC 2026 (CGTN) — https://news.cgtn.com/news/2026-07-17/Full-text-Xi-s-keynote-speech-at-the-2026-WAIC-opening-ceremony-1OQSfeoRvUs/p.html
-4. Xi, sci-tech innovation speech (July 2026) — http://english.www.gov.cn/news/202607/08/content_WS6a4dc8b9c6d00ca5f9a0c10d.html
-5. Reuters, 15th Five-Year Plan — https://www.reuters.com/world/asia-pacific/china-vows-accelerate-technological-self-reliance-ai-push-2026-03-05/
-6. Springer, "The Basic Realization of Socialist Modernization by 2035" — https://link.springer.com/chapter/10.1007/978-981-99-3397-6_2
-7. 20th CPC National Congress report (full text) — https://www.idcpc.gov.cn/
-8. Xinhua white paper, "Chinese Modernization and the Great Rejuvenation of the Chinese Nation" (May 2024) — https://english.news.cn/20240504/ae50c03d5f544ae8a651f146c08e5be9/20240504ae50c03d5f544ae8a651f146c08e5be9_332fa818c707734567b4c3c4f2ad406eb0.pdf
-9. The Guardian, "US building twice as much gas-fired capacity as China in AI boom, analysis finds" (Aug 25, 2026) — https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter
-128. David Graeber, *Bullshit Jobs: A Theory* (2018) — https://en.wikipedia.org/wiki/Bullshit_Jobs
+### Source 1
+The Guardian, "China has brought millions out of poverty. The US has not – by choice" (Nov 23, 2025) — https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality
+### Source 2
+Xi, WAIC 2026 keynote (5,000 training, cooperation centers) — http://english.scio.gov.cn/m/topnews/2026-07/18/content_118605932.html
+### Source 3
+Xi, WAIC 2026 (CGTN) — https://news.cgtn.com/news/2026-07-17/Full-text-Xi-s-keynote-speech-at-the-2026-WAIC-opening-ceremony-1OQSfeoRvUs/p.html
+### Source 4
+Xi, sci-tech innovation speech (July 2026) — http://english.www.gov.cn/news/202607/08/content_WS6a4dc8b9c6d00ca5f9a0c10d.html
+### Source 5
+Reuters, 15th Five-Year Plan — https://www.reuters.com/world/asia-pacific/china-vows-accelerate-technological-self-reliance-ai-push-2026-03-05/
+### Source 6
+Springer, "The Basic Realization of Socialist Modernization by 2035" — https://link.springer.com/chapter/10.1007/978-981-99-3397-6_2
+### Source 7
+20th CPC National Congress report (full text) — https://www.idcpc.gov.cn/
+### Source 8
+Xinhua white paper, "Chinese Modernization and the Great Rejuvenation of the Chinese Nation" (May 2024) — https://english.news.cn/20240504/ae50c03d5f544ae8a651f146c08e5be9/20240504ae50c03d5f544ae8a651f146c08e5be9_332fa818c707734567b4c3c4f2ad406eb0.pdf
+### Source 9
+The Guardian, "US building twice as much gas-fired capacity as China in AI boom, analysis finds" (Aug 25, 2026) — https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter
+### Source 128
+David Graeber, *Bullshit Jobs: A Theory* (2018) — https://en.wikipedia.org/wiki/Bullshit_Jobs
 
 ### Environmental
-10. Harvard BiGS, "China poised to achieve carbon neutrality before 2060 goal" (June 20, 2025) — https://www.hbs.edu/bigs/china-poised-to-meet-carbon-neutrality-goal-before-2060
-11. Climate Action Tracker, China net-zero targets — https://climateactiontracker.org/countries/china/net-zero-targets/
-12. Climate Action Tracker, USA net-zero targets — https://climateactiontracker.org/countries/usa/net-zero-targets/
-13. Carbon Brief — https://www.carbonbrief.org/explainer-how-china-is-managing-the-rising-energy-demand-from-data-centres
-14. Caixin Global (AI boom pressure on grid) — https://www.caixinglobal.com/2025-03-22/ai-boom-puts-pressure-on-chinas-power-grid-as-data-centers-eat-up-electricity-102300894.html
-15. CWR (water risk) — https://cwrrr.org/wp-content/uploads/2024/04/CWR-2024-China-ICT-running-dry-The-rise-of-AI-climate-risks-amplify-existing-water-risks-faced-by-thirsty-data-centres.pdf
-16. Applied Energy journal — https://ideas.repec.org/a/eee/appene/v399y2025ics0306261925012528.html
-17. Microsoft Nature paper (LCA of data center cooling) — https://www.nature.com/articles/s41586-025-08832-3
-18. Microsoft (Nature paper press release) — https://news.microsoft.com/source/features/sustainability/microsoft-quantifies-environmental-impacts-of-datacenter-cooling-from-cradle-to-grave-in-new-nature-study/
-19. Microsoft 2025 Environmental Sustainability Report — https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Microsoft-Environmental-Sustainability-Report.pdf
-20. Microsoft 2026 Environmental Data Fact Sheet — https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf
-25. Columbia CKI, "Powering Data" — https://business.columbia.edu/sites/default/files-efs/imce-uploads/CKI/data%20centers%20CKI/CKI%20AI%20x%20Data%20Centers-260123.pdf
-26. UN University (AP News) — https://apnews.com/article/ai-data-centers-environment-climate-footprint-a792f184a9f2833b5388dbae8b41ca95
-39. SCMP (China data center water demand) — https://www.scmp.com/news/china/science/article/3259230/chinas-growing-data-centres-and-ai-industry-could-strain-scarce-water-resources-according-new-report
-124. Planet Tracker, "AI needs to reduce its water dependency" (Aug 2024; ~32% of US data centers in high/extremely high water-stress areas) — https://planet-tracker.org/ai-needs-to-reduce-its-water-dependency/
-125. Bloomberg, "How AI Demand Is Draining Local Water Supplies" (May 8, 2025; ~two-thirds of new US data centers since 2022 in high water-stress areas) — https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/
+### Source 10
+Harvard BiGS, "China poised to achieve carbon neutrality before 2060 goal" (June 20, 2025) — https://www.hbs.edu/bigs/china-poised-to-meet-carbon-neutrality-goal-before-2060
+### Source 11
+Climate Action Tracker, China net-zero targets — https://climateactiontracker.org/countries/china/net-zero-targets/
+### Source 12
+Climate Action Tracker, USA net-zero targets — https://climateactiontracker.org/countries/usa/net-zero-targets/
+### Source 13
+Carbon Brief — https://www.carbonbrief.org/explainer-how-china-is-managing-the-rising-energy-demand-from-data-centres
+### Source 14
+Caixin Global (AI boom pressure on grid) — https://www.caixinglobal.com/2025-03-22/ai-boom-puts-pressure-on-chinas-power-grid-as-data-centers-eat-up-electricity-102300894.html
+### Source 15
+CWR (water risk) — https://cwrrr.org/wp-content/uploads/2024/04/CWR-2024-China-ICT-running-dry-The-rise-of-AI-climate-risks-amplify-existing-water-risks-faced-by-thirsty-data-centres.pdf
+### Source 16
+Applied Energy journal — https://ideas.repec.org/a/eee/appene/v399y2025ics0306261925012528.html
+### Source 17
+Microsoft Nature paper (LCA of data center cooling) — https://www.nature.com/articles/s41586-025-08832-3
+### Source 18
+Microsoft (Nature paper press release) — https://news.microsoft.com/source/features/sustainability/microsoft-quantifies-environmental-impacts-of-datacenter-cooling-from-cradle-to-grave-in-new-nature-study/
+### Source 19
+Microsoft 2025 Environmental Sustainability Report — https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Microsoft-Environmental-Sustainability-Report.pdf
+### Source 20
+Microsoft 2026 Environmental Data Fact Sheet — https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf
+### Source 25
+Columbia CKI, "Powering Data" — https://business.columbia.edu/sites/default/files-efs/imce-uploads/CKI/data%20centers%20CKI/CKI%20AI%20x%20Data%20Centers-260123.pdf
+### Source 26
+UN University (AP News) — https://apnews.com/article/ai-data-centers-environment-climate-footprint-a792f184a9f2833b5388dbae8b41ca95
+### Source 39
+SCMP (China data center water demand) — https://www.scmp.com/news/china/science/article/3259230/chinas-growing-data-centres-and-ai-industry-could-strain-scarce-water-resources-according-new-report
+### Source 124
+Planet Tracker, "AI needs to reduce its water dependency" (Aug 2024; ~32% of US data centers in high/extremely high water-stress areas) — https://planet-tracker.org/ai-needs-to-reduce-its-water-dependency/
+### Source 125
+Bloomberg, "How AI Demand Is Draining Local Water Supplies" (May 8, 2025; ~two-thirds of new US data centers since 2022 in high water-stress areas) — https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/
 
 ### Energy
-21. IEA, Energy and AI (executive summary) — https://www.iea.org/reports/energy-and-ai/executive-summary
-22. IEA, Energy supply for AI (US/China mix) — https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai
-23. IEA, Key Questions on Energy and AI (2026 update) — https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
-24. IEA, Electricity 2026 — https://www.iea.org/reports/electricity-2026/executive-summary
-27. Caixin Global (in-depth) — https://www.caixinglobal.com/2025-05-16/in-depth-chinese-tech-giants-struggle-to-power-ai-data-center-boom-102320408.html
-28. CAICT (Data Center Electricity Consumption Report, 2025) — https://www.caict.ac.cn/kxyj/qwfb/ztbg/202505/P020250509511369626787.pdf
-29. Gov.cn (2021 green data center plan, PUE 1.3 target) — https://english.www.gov.cn/statecouncil/ministries/202112/09/content_WS61b13edac6d09c94e48a1f81.html
-30. NDRC/MIIT/NEA/NDA (Data Center Green Low-Carbon Action Plan, 2024) — https://www.gov.cn/zhengce/zhengceku/202407/content_6962214.htm
-31. Thinking China (summary of above) — https://www.thinkchina.sg/technology/chinese-tech-giants-struggle-power-ai-data-centre-boom
-32. South China Morning Post — https://www.scmp.com/economy/china-economy/article/3338522/china-vows-ramp-west-east-power-output-ai-hi-tech-manufacturing-fuel-demand
-33. Reuters — https://www.reuters.com/markets/commodities/chinas-guangdong-province-plans-move-data-centres-undersea-cut-power-use-2021-12-14/
-34. DataCenterDynamics — https://www.datacenterdynamics.com/en/news/guangdong-puts-underwater-data-centers-in-its-5-year-marine-economy-plan-to-save-cooling-costs/
-35. FreshFromChina (2025-2027 plan) — https://freshfromchina.com/guangdongs-underwater-data-centers-chinas-next-frontier-in-digital-infrastructure/
-36. Actual plan overview — https://www.cnbayarea.org.cn/policy/policyrelease/policies/content/post_1317919.html
-37. 每经网 (2026 update) — https://www.nbd.com.cn/articles/2026-01-30/4242100.html
-38. Microsoft (Project Natick results) — https://news.microsoft.com/source/features/sustainability/project-natick-underwater-datacenter/
-40. Brookings, "How will the US and China power the AI race?" — https://www.brookings.edu/articles/how-will-the-united-states-and-china-power-the-ai-race/
-42. CSIS, "The Electricity Supply Bottleneck on US AI Dominance" — https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance
-43. Rhodium Group, "The Impacts of Rising Electricity Demand from Data Centers" — https://rhg.com/research/data-centers-electricity-demand/
-44. EPRI, "Powering Intelligence 2026" — https://powering-intelligence.epri.com/load-impacts.html
-45. LBNL, "US Data Center Energy Usage Report 2025" — https://seta.lbl.gov/publications/united-states-data-center-energy-2025
-46. RAND, "Assessing the US Additional AI Power Capacity by 2030" — https://www.rand.org/pubs/research_reports/RRA3845-1.html
-47. AP News, "China built out record wind and solar in 2024" — https://apnews.com/article/wind-solar-energy-china-climate-carbon-emissions-b337503abfacfd9b7829fd7bbcd507e9
-48. NEA (2024 official data) — http://www.nea.gov.cn/20250121/097bfd7c1cd3498897639857d86d5dac/c.html
-49. Xinhua (2024 capacity) — https://english.news.cn/20250121/fce0300388b340cf8fbed805497e0fa4/c.html
-50. Electrek (2024 numbers) — https://electrek.co/2025/01/21/china-solar-wind-2024/
-51. PV-Tech (277 GW solar 2024) — https://www.pv-tech.org/china-hits-another-record-high-with-277-17gw-of-new-pv-in-2024/
-52. Gov.cn (2024 renewables 56% of capacity) — https://english.www.gov.cn/archive/statistics/202501/28/content_WS6798de96c6d0868f4e8ef410.html
-53. Gov.cn, "China's newly installed wind, solar up 22% in 2025" — https://english.www.gov.cn/archive/statistics/202602/12/content_WS698d93cbc6d00ca5f9a091bb.html
-54. PV Magazine, "China adds 315 GW solar in 2025" — https://www.pv-magazine.com/2026/01/28/china-adds-315-gw-of-solar-in-2025/
-55. IEA, "Solar PV and wind net additions in China 2024-2025" — https://www.iea.org/data-and-statistics/charts/solar-pv-and-wind-net-additions-in-china-2024-2025
-56. Enerdata (2024 capacity breakdown) — https://www.enerdata.net/publications/daily-energy-news/china-installs-record-capacity-solar-45-and-wind-18-2024.html
-57. Bloomberg, "US and China Diverge on Strategies to Power AI Data Centers" — https://www.bloomberg.com/news/newsletters/2025-07-28/us-and-china-diverge-on-strategies-to-power-their-ai-data-centers
-58. Reuters, "US AI boom faces electric shock" — https://www.reuters.com/markets/commodities/us-ai-boom-faces-electric-shock-2026-02-25/
-59. NucNet, "US and China to Lead Growth in Nuclear for Data Centers" — https://www.nucnet.org/news/us-and-china-to-lead-growth-in-nuclear-power-for-data-centre-supply-4-4-2025
-126. US EIA, "The US power system: three main interconnections" — https://www.eia.gov/todayinenergy/detail.php?id=27152
-127. Xinhua, "From Xinjiang's desert to economic hubs: a power expressway that lights up both ends" (42 UHV projects, 22 AC + 20 DC, ~370 GW inter-regional capacity; Changji–Guquan ±1,100 kV, ~3,300 km) — https://english.news.cn/20260113/3e3a7d6df5744fefb18b98fa31a4addb/c.html
-131. US EIA, "Electricity use in homes" (average US household ~10,500 kWh/year) — https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php
-132. Brookings, "Boom or bust: How to protect ratepayers from the AI bubble" (1 GW "sufficient to power 750,000 homes"; 64 GW "enough to power 56 million homes") — https://www.brookings.edu/articles/boom-or-bust-how-to-protect-ratepayers-from-the-ai-bubble/
-134. Fortune, "AI's land problem is pushing data centers into the ocean" (Kshetri via The Conversation, Aug 25, 2026; warm-seawater-discharge concern re oxygen/pH/marine life; HiCloud Hainan UDC <1°C rise; Shanghai Lingang UDC ≥30% less electricity) — https://fortune.com/2026/08/25/ai-data-centers-ocean-expansion/
-135. Highlander (海兰信), Zhuhai underwater data center test results — operator-commissioned assessment, cninfo Announcement 2021-006 (2021-01-11; 2020 Zhuhai test module; Qingdao Huanhai ecological impact assessment: max outlet temp rise 2°C, small local area, no negative effect on marine organisms; PUE 1.076) — http://static.cninfo.com.cn/finalpage/2021-01-11/1209079354.PDF
-136. Periola, Alonge & Ogudo, "Heat Wave Resilient Systems Architecture for Underwater Data Centers" (Scientific Reports, 2022; elevated-temperature outlet water poses risk to aquatic biodiversity via ocean de-oxygenation) — https://www.nature.com/articles/s41598-022-21293-2
+### Source 21
+IEA, Energy and AI (executive summary) — https://www.iea.org/reports/energy-and-ai/executive-summary
+### Source 22
+IEA, Energy supply for AI (US/China mix) — https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai
+### Source 23
+IEA, Key Questions on Energy and AI (2026 update) — https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
+### Source 24
+IEA, Electricity 2026 — https://www.iea.org/reports/electricity-2026/executive-summary
+### Source 27
+Caixin Global (in-depth) — https://www.caixinglobal.com/2025-05-16/in-depth-chinese-tech-giants-struggle-to-power-ai-data-center-boom-102320408.html
+### Source 28
+CAICT (Data Center Electricity Consumption Report, 2025) — https://www.caict.ac.cn/kxyj/qwfb/ztbg/202505/P020250509511369626787.pdf
+### Source 29
+Gov.cn (2021 green data center plan, PUE 1.3 target) — https://english.www.gov.cn/statecouncil/ministries/202112/09/content_WS61b13edac6d09c94e48a1f81.html
+### Source 30
+NDRC/MIIT/NEA/NDA (Data Center Green Low-Carbon Action Plan, 2024) — https://www.gov.cn/zhengce/zhengceku/202407/content_6962214.htm
+### Source 31
+Thinking China (summary of above) — https://www.thinkchina.sg/technology/chinese-tech-giants-struggle-power-ai-data-centre-boom
+### Source 32
+South China Morning Post — https://www.scmp.com/economy/china-economy/article/3338522/china-vows-ramp-west-east-power-output-ai-hi-tech-manufacturing-fuel-demand
+### Source 33
+Reuters — https://www.reuters.com/markets/commodities/chinas-guangdong-province-plans-move-data-centres-undersea-cut-power-use-2021-12-14/
+### Source 34
+DataCenterDynamics — https://www.datacenterdynamics.com/en/news/guangdong-puts-underwater-data-centers-in-its-5-year-marine-economy-plan-to-save-cooling-costs/
+### Source 35
+FreshFromChina (2025-2027 plan) — https://freshfromchina.com/guangdongs-underwater-data-centers-chinas-next-frontier-in-digital-infrastructure/
+### Source 36
+Actual plan overview — https://www.cnbayarea.org.cn/policy/policyrelease/policies/content/post_1317919.html
+### Source 37
+每经网 (2026 update) — https://www.nbd.com.cn/articles/2026-01-30/4242100.html
+### Source 38
+Microsoft (Project Natick results) — https://news.microsoft.com/source/features/sustainability/project-natick-underwater-datacenter/
+### Source 40
+Brookings, "How will the US and China power the AI race?" — https://www.brookings.edu/articles/how-will-the-united-states-and-china-power-the-ai-race/
+### Source 42
+CSIS, "The Electricity Supply Bottleneck on US AI Dominance" — https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance
+### Source 43
+Rhodium Group, "The Impacts of Rising Electricity Demand from Data Centers" — https://rhg.com/research/data-centers-electricity-demand/
+### Source 44
+EPRI, "Powering Intelligence 2026" — https://powering-intelligence.epri.com/load-impacts.html
+### Source 45
+LBNL, "US Data Center Energy Usage Report 2025" — https://seta.lbl.gov/publications/united-states-data-center-energy-2025
+### Source 46
+RAND, "Assessing the US Additional AI Power Capacity by 2030" — https://www.rand.org/pubs/research_reports/RRA3845-1.html
+### Source 47
+AP News, "China built out record wind and solar in 2024" — https://apnews.com/article/wind-solar-energy-china-climate-carbon-emissions-b337503abfacfd9b7829fd7bbcd507e9
+### Source 48
+NEA (2024 official data) — http://www.nea.gov.cn/20250121/097bfd7c1cd3498897639857d86d5dac/c.html
+### Source 49
+Xinhua (2024 capacity) — https://english.news.cn/20250121/fce0300388b340cf8fbed805497e0fa4/c.html
+### Source 50
+Electrek (2024 numbers) — https://electrek.co/2025/01/21/china-solar-wind-2024/
+### Source 51
+PV-Tech (277 GW solar 2024) — https://www.pv-tech.org/china-hits-another-record-high-with-277-17gw-of-new-pv-in-2024/
+### Source 52
+Gov.cn (2024 renewables 56% of capacity) — https://english.www.gov.cn/archive/statistics/202501/28/content_WS6798de96c6d0868f4e8ef410.html
+### Source 53
+Gov.cn, "China's newly installed wind, solar up 22% in 2025" — https://english.www.gov.cn/archive/statistics/202602/12/content_WS698d93cbc6d00ca5f9a091bb.html
+### Source 54
+PV Magazine, "China adds 315 GW solar in 2025" — https://www.pv-magazine.com/2026/01/28/china-adds-315-gw-of-solar-in-2025/
+### Source 55
+IEA, "Solar PV and wind net additions in China 2024-2025" — https://www.iea.org/data-and-statistics/charts/solar-pv-and-wind-net-additions-in-china-2024-2025
+### Source 56
+Enerdata (2024 capacity breakdown) — https://www.enerdata.net/publications/daily-energy-news/china-installs-record-capacity-solar-45-and-wind-18-2024.html
+### Source 57
+Bloomberg, "US and China Diverge on Strategies to Power AI Data Centers" — https://www.bloomberg.com/news/newsletters/2025-07-28/us-and-china-diverge-on-strategies-to-power-their-ai-data-centers
+### Source 58
+Reuters, "US AI boom faces electric shock" — https://www.reuters.com/markets/commodities/us-ai-boom-faces-electric-shock-2026-02-25/
+### Source 59
+NucNet, "US and China to Lead Growth in Nuclear for Data Centers" — https://www.nucnet.org/news/us-and-china-to-lead-growth-in-nuclear-power-for-data-centre-supply-4-4-2025
+### Source 126
+US EIA, "The US power system: three main interconnections" — https://www.eia.gov/todayinenergy/detail.php?id=27152
+### Source 127
+Xinhua, "From Xinjiang's desert to economic hubs: a power expressway that lights up both ends" (42 UHV projects, 22 AC + 20 DC, ~370 GW inter-regional capacity; Changji–Guquan ±1,100 kV, ~3,300 km) — https://english.news.cn/20260113/3e3a7d6df5744fefb18b98fa31a4addb/c.html
+### Source 131
+US EIA, "Electricity use in homes" (average US household ~10,500 kWh/year) — https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php
+### Source 132
+Brookings, "Boom or bust: How to protect ratepayers from the AI bubble" (1 GW "sufficient to power 750,000 homes"; 64 GW "enough to power 56 million homes") — https://www.brookings.edu/articles/boom-or-bust-how-to-protect-ratepayers-from-the-ai-bubble/
+### Source 134
+Fortune, "AI's land problem is pushing data centers into the ocean" (Kshetri via The Conversation, Aug 25, 2026; warm-seawater-discharge concern re oxygen/pH/marine life; HiCloud Hainan UDC <1°C rise; Shanghai Lingang UDC ≥30% less electricity) — https://fortune.com/2026/08/25/ai-data-centers-ocean-expansion/
+### Source 135
+Highlander (海兰信), Zhuhai underwater data center test results — operator-commissioned assessment, cninfo Announcement 2021-006 (2021-01-11; 2020 Zhuhai test module; Qingdao Huanhai ecological impact assessment: max outlet temp rise 2°C, small local area, no negative effect on marine organisms; PUE 1.076) — http://static.cninfo.com.cn/finalpage/2021-01-11/1209079354.PDF
+### Source 136
+Periola, Alonge & Ogudo, "Heat Wave Resilient Systems Architecture for Underwater Data Centers" (Scientific Reports, 2022; elevated-temperature outlet water poses risk to aquatic biodiversity via ocean de-oxygenation) — https://www.nature.com/articles/s41598-022-21293-2
 
 ### Nuclear
-60. NuScale Power, VOYGR SMR (77 MWe/module, NRC approval) — https://www.nuscalepower.com/products/nuscale-power-module
-61. World Nuclear News, "Cold testing of Chinese SMR completed" (ACP100/Linglong One) — https://www.world-nuclear-news.org/articles/cold-testing-of-chinese-smr-completed
-62. IAEA, "China's 2 MW Thorium-Based Molten Salt Reactor Achieves First Criticality" — https://www.iaea.org/newscenter/news/chinas-2-mw-thorium-based-molten-salt-reactor-achieves-first-criticality
-63. World Nuclear Association, "Cooling Power Plants" — https://world-nuclear.org/information-library/current-and-future-generation/cooling-power-plants
-64. PNNL, "Comparing Nuclear Fuel Cycle Options" (LWR water use, waste volumes) — https://curie.pnnl.gov/system/files/documents/not%20yet%20assigned/wilson.fuel_.cycle_.comparisons_final.pdf
-65. World Nuclear Association, "China: Nuclear Power" (reactor fleet, 64 GW) — https://world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power
-66. World Nuclear News, "Mega cooling tower completed at Chinese unit" (Lianjiang seawater recirculating cooling, 1/40th discharge) — https://www.world-nuclear-news.org/articles/mega-cooling-tower-completed-at-chinese-unit
-67. IAEA, "China's Thorium Molten Salt Reactor Completes First Thorium-Uranium Fuel Conversion" (Nov 2025) — https://www.iaea.org/newscenter/news/chinas-thorium-molten-salt-reactor-completes-first-thorium-uranium-fuel-conversion
+### Source 60
+NuScale Power, VOYGR SMR (77 MWe/module, NRC approval) — https://www.nuscalepower.com/products/nuscale-power-module
+### Source 61
+World Nuclear News, "Cold testing of Chinese SMR completed" (ACP100/Linglong One) — https://www.world-nuclear-news.org/articles/cold-testing-of-chinese-smr-completed
+### Source 62
+IAEA, "China's 2 MW Thorium-Based Molten Salt Reactor Achieves First Criticality" — https://www.iaea.org/newscenter/news/chinas-2-mw-thorium-based-molten-salt-reactor-achieves-first-criticality
+### Source 63
+World Nuclear Association, "Cooling Power Plants" — https://world-nuclear.org/information-library/current-and-future-generation/cooling-power-plants
+### Source 64
+PNNL, "Comparing Nuclear Fuel Cycle Options" (LWR water use, waste volumes) — https://curie.pnnl.gov/system/files/documents/not%20yet%20assigned/wilson.fuel_.cycle_.comparisons_final.pdf
+### Source 65
+World Nuclear Association, "China: Nuclear Power" (reactor fleet, 64 GW) — https://world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power
+### Source 66
+World Nuclear News, "Mega cooling tower completed at Chinese unit" (Lianjiang seawater recirculating cooling, 1/40th discharge) — https://www.world-nuclear-news.org/articles/mega-cooling-tower-completed-at-chinese-unit
+### Source 67
+IAEA, "China's Thorium Molten Salt Reactor Completes First Thorium-Uranium Fuel Conversion" (Nov 2025) — https://www.iaea.org/newscenter/news/chinas-thorium-molten-salt-reactor-completes-first-thorium-uranium-fuel-conversion
 
 ### Social
-68. AP News — https://apnews.com/article/china-ai-virtual-companions-bytedance-wechat-22c4247031092c37b61b537dd809b658
-69. Caixin Global — https://www.caixinglobal.com/2026-07-16/chinas-first-ai-companion-rules-to-curb-addiction-protect-minors-102464887.html
-70. Xinhua — https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html
-71. Comparative AI (full rule text) — https://comparativeai.org/rules/china/anthropomorphic-interaction-services/
-72. Official regulation (CAC Order No. 21, 5 agencies) — http://www.nmgwx.gov.cn/departmentalRegulations/18108.jhtml
-73. China Youth Daily (8,563-student survey, >60% AI use, 20.5% want to rely on AI to think) — https://zqb.cyol.com/pc/content/202603/26/content_423920.html
-74. The Paper (survey methodology) — https://www.thepaper.cn/newsDetail_forward_32814783
-75. China Daily (survey findings) — https://www.chinadaily.com.cn/a/202604/26/WS69ee2f3aa310d6866eb459b3.html
-76. Just Security (AI companion rules analysis) — https://www.justsecurity.org/148468/china-ai-companion-rules-relationships/
-77. Bloomberg — https://www.bloomberg.com/news/articles/2026-05-02/chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds
-78. Caixin Global — https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-102439602.html
-79. South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3352327/ai-cost-cutting-not-legal-excuse-fire-workers-chinese-court-says
-80. NPR — https://www.npr.org/2026-05-01/nx-s1-5807131/tech-worker-china-ai
-81. El País — https://english.elpais.com/economy-and-business/2026-05-07/a-chinese-court-sets-limits-on-the-dismissal-of-a-worker-replaced-by-ai.html
-87. MOST (2019 principles, full text) — https://www.most.gov.cn/kjbgz/201906/t20190617_147107.html
-88. Gov.cn (2023 Interim Measures) — https://www.gov.cn/zhengce/202311/content_6917778.htm
-89. DLA Piper (2024 Framework analysis) — https://www.dlapiper.com/en-us/insights/publications/2024/09/china-releases-ai-safety-governance-framework
-90. Regulations.ai — https://regulations.ai/regulations/china-2023-7-generative-ai
-91. Library of Congress (2019 principles analysis) — https://www.loc.gov/item/global-legal-monitor/2019-09-09/china-ai-governance-principles-released/
-92. Comparative AI (2019 principles, comparative context) — https://comparativeai.org/en/rules/china/new-gen-ai-governance-principles/
-93. Gov.cn (MOE circular) — https://english.www.gov.cn/news/202412/03/content_WS674e4959c6d0868f4e8ed9ae.html
-94. ECNU journal (curriculum guidelines) — https://xbjk.ecnu.edu.cn/EN/10.16382/j.cnki.1000-5560.2023.03.013
-95. AAAI (AI teaching resources) — https://ojs.aaai.org/index.php/AAAI/article/view/26904
-96. Beijing Education Commission — https://jw.beijing.gov.cn/xxgk/2024zcwj/2024qtwj/202506/t20250626_4127392.html
+### Source 68
+AP News — https://apnews.com/article/china-ai-virtual-companions-bytedance-wechat-22c4247031092c37b61b537dd809b658
+### Source 69
+Caixin Global — https://www.caixinglobal.com/2026-07-16/chinas-first-ai-companion-rules-to-curb-addiction-protect-minors-102464887.html
+### Source 70
+Xinhua — https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html
+### Source 71
+Comparative AI (full rule text) — https://comparativeai.org/rules/china/anthropomorphic-interaction-services/
+### Source 72
+Official regulation (CAC Order No. 21, 5 agencies) — http://www.nmgwx.gov.cn/departmentalRegulations/18108.jhtml
+### Source 73
+China Youth Daily (8,563-student survey, >60% AI use, 20.5% want to rely on AI to think) — https://zqb.cyol.com/pc/content/202603/26/content_423920.html
+### Source 74
+The Paper (survey methodology) — https://www.thepaper.cn/newsDetail_forward_32814783
+### Source 75
+China Daily (survey findings) — https://www.chinadaily.com.cn/a/202604/26/WS69ee2f3aa310d6866eb459b3.html
+### Source 76
+Just Security (AI companion rules analysis) — https://www.justsecurity.org/148468/china-ai-companion-rules-relationships/
+### Source 77
+Bloomberg — https://www.bloomberg.com/news/articles/2026-05-02/chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds
+### Source 78
+Caixin Global — https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-102439602.html
+### Source 79
+South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3352327/ai-cost-cutting-not-legal-excuse-fire-workers-chinese-court-says
+### Source 80
+NPR — https://www.npr.org/2026-05-01/nx-s1-5807131/tech-worker-china-ai
+### Source 81
+El País — https://english.elpais.com/economy-and-business/2026-05-07/a-chinese-court-sets-limits-on-the-dismissal-of-a-worker-replaced-by-ai.html
+### Source 87
+MOST (2019 principles, full text) — https://www.most.gov.cn/kjbgz/201906/t20190617_147107.html
+### Source 88
+Gov.cn (2023 Interim Measures) — https://www.gov.cn/zhengce/202311/content_6917778.htm
+### Source 89
+DLA Piper (2024 Framework analysis) — https://www.dlapiper.com/en-us/insights/publications/2024/09/china-releases-ai-safety-governance-framework
+### Source 90
+Regulations.ai — https://regulations.ai/regulations/china-2023-7-generative-ai
+### Source 91
+Library of Congress (2019 principles analysis) — https://www.loc.gov/item/global-legal-monitor/2019-09-09/china-ai-governance-principles-released/
+### Source 92
+Comparative AI (2019 principles, comparative context) — https://comparativeai.org/en/rules/china/new-gen-ai-governance-principles/
+### Source 93
+Gov.cn (MOE circular) — https://english.www.gov.cn/news/202412/03/content_WS674e4959c6d0868f4e8ed9ae.html
+### Source 94
+ECNU journal (curriculum guidelines) — https://xbjk.ecnu.edu.cn/EN/10.16382/j.cnki.1000-5560.2023.03.013
+### Source 95
+AAAI (AI teaching resources) — https://ojs.aaai.org/index.php/AAAI/article/view/26904
+### Source 96
+Beijing Education Commission — https://jw.beijing.gov.cn/xxgk/2024zcwj/2024qtwj/202506/t20250626_4127392.html
 
 ### Economic
-82. OpenRouter — https://openrouter.ai/rankings
-83. CNBC, "Chinese AI models gain ground with U.S. companies as costs surge" (Kai Nicol-Schwarz, July 7, 2026) — https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
-84. Reuters, "DeepSeek's new AI model is by far the cheapest of well-known models to run" (Eduardo Baptista, August 3, 2026) — https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/
-85. Rest of World, "When Americans choose Chinese AI" (Viola Zhou, June 17, 2026) — https://restofworld.org/2026/when-americans-choose-chinese-ai/
-86. Ramp, "Top SaaS vendors on Ramp" (June 2026) — https://www.ramp.com/data/top-saas-vendors-on-ramp-june-2026
+### Source 82
+OpenRouter — https://openrouter.ai/rankings
+### Source 83
+CNBC, "Chinese AI models gain ground with U.S. companies as costs surge" (Kai Nicol-Schwarz, July 7, 2026) — https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
+### Source 84
+Reuters, "DeepSeek's new AI model is by far the cheapest of well-known models to run" (Eduardo Baptista, August 3, 2026) — https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/
+### Source 85
+Rest of World, "When Americans choose Chinese AI" (Viola Zhou, June 17, 2026) — https://restofworld.org/2026/when-americans-choose-chinese-ai/
+### Source 86
+Ramp, "Top SaaS vendors on Ramp" (June 2026) — https://www.ramp.com/data/top-saas-vendors-on-ramp-june-2026
 
 ### International
-97. Stanford Tech Review, "The AI Cold War: Pax Silica vs WAICO, Explained" (Priya Raman, Aug 15, 2026) — https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico
-98. The Diplomat, "Pax Silica vs WAICO: Will Central Asia Have to Pick a Side?" (Catherine Putz, Sept 8, 2026) — https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/
-99. Gov.cn (5,000 AI training) — https://english.www.gov.cn/news/202607/17/content_WS6a59a5c3c6d00ca5f9a0c439.html
-100. MFA (AI Capacity-Building Action Plan) — https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240927_11498465.html
-101. MFA (AI+ International Cooperation Initiative) — https://www.mfa.gov.cn/eng/xw/zyxw/202509/t20250924_11715960.html
-102. Global Times (Digital South, 200 training programs) — https://www.globaltimes.cn/page/202507/1337888.shtml
-103. The Diplomat (WAICO analysis) — https://thediplomat.com/2026/07/with-new-ai-governance-organization-china-seeks-to-formalize-its-global-ai-influence/
-104. Jamestown (Xi AI governance leadership) — https://jamestown.org/xi-pursues-ai-governance-leadership-at-beijing-summit/
-105. AU-ASRIC (AI Compute Faculty Development) — https://asric.africa/events/call-participation-ai-compute-faculty-development-initiative
-106. SAnews (South Africa–China digital education) — https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-digital-education
-107. China Daily (Kenya digital education center) — https://www.chinadaily.com.cn/a/202502/08/WS67a6c534a310a2ab06eaae40.html
-108. CAC (China-Africa Cyberspace Plan) — https://www.cac.gov.cn/2025-09/28/c_1760606713169654.htm
-109. SCIO (China-ASEAN education) — http://english.scio.gov.cn/internationalexchanges/2026-08/04/content_118632350.html
-110. CGTN (Global South AI leverage) — https://news.cgtn.com/news/2026-08-10/Why-Global-South-will-have-more-leverage-than-ever-in-the-future-of-AI-1PurCThjGMw/p.html
-111. Heeks, "China's digital expansion in the Global South" (academic review) — https://www.tandfonline.com/doi/full/10.1080/01972243.2024.2315875
-112. WAICO Agreement (full text, est. July 2026) — https://dig.watch/resource/agreement-on-the-establishment-of-the-world-artificial-intelligence-cooperation-organization
-113. gov.cn, "29 countries sign agreement on establishing World AI Cooperation Organization" (July 16, 2026) — https://english.www.gov.cn/news/202607/17/content_WS6a59a226c6d00ca5f9a0c432.html
-114. Wikipedia, "World Artificial Intelligence Cooperation Organization" (37 members, governance) — https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization
-129. US State Dept, "Pax Silica Initiative" (Dec 12, 2025; $250M Pax Silica Fund for critical minerals, infrastructure, manufacturing) — https://www.state.gov/releases/office-of-the-spokesperson/2025/12/pax-silica-initiative
-130. Tom's Hardware, "Trump administration targets $4 trillion Pax Silica investment fund for semiconductors" ($4T target; >$1T founding-investor AUM) — https://www.tomshardware.com/tech-industry/semiconductors/trump-administration-targets-4-trillion-pax-silica-investment-fund-for-semiconductors
-133. CEPA, "What the US-EU $40 Billion Chip Deal Means" (US-EU trade framework: European pledge to purchase "at least $40 billion" of US AI chips; aspirational, not yet financed) — https://cepa.org/article/what-the-us-eu-40-billion-chip-deal-means/
+### Source 97
+Stanford Tech Review, "The AI Cold War: Pax Silica vs WAICO, Explained" (Priya Raman, Aug 15, 2026) — https://stanfordtechreview.com/articles/ai-cold-war-pax-silica-vs-waico
+### Source 98
+The Diplomat, "Pax Silica vs WAICO: Will Central Asia Have to Pick a Side?" (Catherine Putz, Sept 8, 2026) — https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/
+### Source 99
+Gov.cn (5,000 AI training) — https://english.www.gov.cn/news/202607/17/content_WS6a59a5c3c6d00ca5f9a0c439.html
+### Source 100
+MFA (AI Capacity-Building Action Plan) — https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240927_11498465.html
+### Source 101
+MFA (AI+ International Cooperation Initiative) — https://www.mfa.gov.cn/eng/xw/zyxw/202509/t20250924_11715960.html
+### Source 102
+Global Times (Digital South, 200 training programs) — https://www.globaltimes.cn/page/202507/1337888.shtml
+### Source 103
+The Diplomat (WAICO analysis) — https://thediplomat.com/2026/07/with-new-ai-governance-organization-china-seeks-to-formalize-its-global-ai-influence/
+### Source 104
+Jamestown (Xi AI governance leadership) — https://jamestown.org/xi-pursues-ai-governance-leadership-at-beijing-summit/
+### Source 105
+AU-ASRIC (AI Compute Faculty Development) — https://asric.africa/events/call-participation-ai-compute-faculty-development-initiative
+### Source 106
+SAnews (South Africa–China digital education) — https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-digital-education
+### Source 107
+China Daily (Kenya digital education center) — https://www.chinadaily.com.cn/a/202502/08/WS67a6c534a310a2ab06eaae40.html
+### Source 108
+CAC (China-Africa Cyberspace Plan) — https://www.cac.gov.cn/2025-09/28/c_1760606713169654.htm
+### Source 109
+SCIO (China-ASEAN education) — http://english.scio.gov.cn/internationalexchanges/2026-08/04/content_118632350.html
+### Source 110
+CGTN (Global South AI leverage) — https://news.cgtn.com/news/2026-08-10/Why-Global-South-will-have-more-leverage-than-ever-in-the-future-of-AI-1PurCThjGMw/p.html
+### Source 111
+Heeks, "China's digital expansion in the Global South" (academic review) — https://www.tandfonline.com/doi/full/10.1080/01972243.2024.2315875
+### Source 112
+WAICO Agreement (full text, est. July 2026) — https://dig.watch/resource/agreement-on-the-establishment-of-the-world-artificial-intelligence-cooperation-organization
+### Source 113
+gov.cn, "29 countries sign agreement on establishing World AI Cooperation Organization" (July 16, 2026) — https://english.www.gov.cn/news/202607/17/content_WS6a59a226c6d00ca5f9a0c432.html
+### Source 114
+Wikipedia, "World Artificial Intelligence Cooperation Organization" (37 members, governance) — https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization
+### Source 129
+US State Dept, "Pax Silica Initiative" (Dec 12, 2025; $250M Pax Silica Fund for critical minerals, infrastructure, manufacturing) — https://www.state.gov/releases/office-of-the-spokesperson/2025/12/pax-silica-initiative
+### Source 130
+Tom's Hardware, "Trump administration targets $4 trillion Pax Silica investment fund for semiconductors" ($4T target; >$1T founding-investor AUM) — https://www.tomshardware.com/tech-industry/semiconductors/trump-administration-targets-4-trillion-pax-silica-investment-fund-for-semiconductors
+### Source 133
+CEPA, "What the US-EU $40 Billion Chip Deal Means" (US-EU trade framework: European pledge to purchase "at least $40 billion" of US AI chips; aspirational, not yet financed) — https://cepa.org/article/what-the-us-eu-40-billion-chip-deal-means/
 
 ### Governance
-115. EU, "AI Act" (Regulation (EU) 2024/1689, official policy page, updated Aug 3, 2026) — https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
-116. EU, "Commission starts enforcing AI Act rules and new transparency requirements on 2 August" (press release, July 31, 2026) — https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august
-117. EU AI Act, Article 99 (penalties) & Article 101 (GPAI fines), Regulation (EU) 2024/1689 — https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
-118. White House, EO 14179 "Removing Barriers to American Leadership in AI" (Jan 23, 2025, revokes Biden EO 14110) — https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/
-119. White House, EO 14365 "Ensuring a National Policy Framework for AI" (Dec 2025, state preemption strategy) — https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
-120. Federal Register, EO 14409 "Promoting Advanced AI Innovation and Security" (June 2, 2026) — https://www.federalregister.gov/documents/full_text/html/2026/06/05/2026-11415.html
-121. Colorado General Assembly, SB 26-189 (revised AI/ADMT law, effective Jan 1, 2027; repeals and reenacts SB 24-205) — https://leg.colorado.gov/bills/sb26-189
-122. NIST, "AI Congressional Mandates, Executive Orders and Actions" (NIST AI RMF, voluntary) — https://www.nist.gov/artificial-intelligence/ai-congressional-mandates-executive-orders-and-actions
-123. CRS, "Regulating Artificial Intelligence: U.S. and International Approaches" (R48555, June 2025) — https://www.congress.gov/crs-product/R48555
+### Source 115
+EU, "AI Act" (Regulation (EU) 2024/1689, official policy page, updated Aug 3, 2026) — https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+### Source 116
+EU, "Commission starts enforcing AI Act rules and new transparency requirements on 2 August" (press release, July 31, 2026) — https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august
+### Source 117
+EU AI Act, Article 99 (penalties) & Article 101 (GPAI fines), Regulation (EU) 2024/1689 — https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
+### Source 118
+White House, EO 14179 "Removing Barriers to American Leadership in AI" (Jan 23, 2025, revokes Biden EO 14110) — https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/
+### Source 119
+White House, EO 14365 "Ensuring a National Policy Framework for AI" (Dec 2025, state preemption strategy) — https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
+### Source 120
+Federal Register, EO 14409 "Promoting Advanced AI Innovation and Security" (June 2, 2026) — https://www.federalregister.gov/documents/full_text/html/2026/06/05/2026-11415.html
+### Source 121
+Colorado General Assembly, SB 26-189 (revised AI/ADMT law, effective Jan 1, 2027; repeals and reenacts SB 24-205) — https://leg.colorado.gov/bills/sb26-189
+### Source 122
+NIST, "AI Congressional Mandates, Executive Orders and Actions" (NIST AI RMF, voluntary) — https://www.nist.gov/artificial-intelligence/ai-congressional-mandates-executive-orders-and-actions
+### Source 123
+CRS, "Regulating Artificial Intelligence: U.S. and International Approaches" (R48555, June 2025) — https://www.congress.gov/crs-product/R48555
 
 ## Appendix
 
