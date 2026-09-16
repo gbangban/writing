@@ -286,7 +286,7 @@ This is the flip side of the worker-replacement bans above: while China's courts
 
 Other than this piece being too long, it's hopefully given you a material understanding of the Chinese AI model, including how it affects people and the planet.  Their rollout of AI is not perfect by any means, but [there's a reason why a majority of Chinese people look forward to the development of AI](https://hai.stanford.edu/assets/files/ai_index_report_2026_chapter_9_public_opinion.pdf) .
 
-Similarly, as we increasingly move towards a multi-polar world order, its clear that the US and the west have no intention to help develop the global south after centuries of exploitation and degradation.  Now the Global South is rising to take care of its own needs outside of a decaying post colonial capitalist system. 
+Similarly, as we increasingly move towards a multi-polar world order, its clear that the US and the west have no intention to help develop the Global South after centuries of exploitation and degradation.  Now the Global South is rising to take care of its own needs outside of a decaying post colonial capitalist system. 
 
 When you have a humanistic government guiding the heights and restricting the lows of such a formative technology, it's much easier to envision and subsequently build technology in a way that not only moves China forward, but the world as well.
 ## Sources
