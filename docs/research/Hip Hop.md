@@ -65,6 +65,21 @@ The question splits into two distinct sub-categories. The "most famous" ranking 
 
 **Companies specifically creating Black hip-hop artist avatars/music:** **Factory New** (FN Meka) is the clearest case — a Black "robot rapper" avatar created with AI/AR. **Hallwood Media**'s Xania Monet is AI R&B/gospel (not Black hip-hop), and **Stage Zero**'s TaTa is "A-Pop" (Filipino-heritage "part human"), so neither is a Black-hip-hop-avatar company. The largest-funded company (Suno) is a general AI music platform, not a Black-hip-hop-avatar company.
 
+### Q4 — Who makes the AI models
+
+The question is really: for each AI-hip-hop project, which underlying model generates the music, and which company/lab makes it. Two structural patterns emerge: (1) **Suno is both the company and the model** — it is the dominant model and is used by most of the projects; (2) a few projects **make their own model** (Treblo/Sonauto) or **use a third-party model** (Stage Zero uses Suno).
+
+| AI-hip-hop project | Underlying AI model | Made by (company/lab) | Founder/CEO | Source |
+|---|---|---|---|---|
+| Xania Monet, 1010Benja, Timbaland (own production) | Suno | **Suno** (self-made) | Mikey Shulman (Co-Founder & CEO) | [[150](#source-150)][[157](#source-157)] |
+| TaTa (Stage Zero) | Suno (a Suno "Persona" voice) | **Suno** (third-party model; Stage Zero is a *user*, not a maker) | Mikey Shulman (Suno CEO); Timbaland / Rocky Mudaliar / Zayd Portillo (Stage Zero) | [[159](#source-159)] |
+| FN Meka (Factory New) | "Proprietary AI technology" (music/lyrics); vocals human | **Factory New** (in-house / "proprietary"); Wikipedia attributes it to **Vydia**, but co-founder Martini walked back the AI claims | Anthony Martini (co-founder); Brandon Le (creator) | [[153](#source-153)] |
+| Fenix Flexin ("Rubberz") | Treblo (model "Melodia") | **Treblo** (formerly **Sonauto**; self-made) | Ryan Tremblay (Founder) + Hayden Housen (Co-Founder) | [[160](#source-160)] |
+| Illah (AI voice model) | ftrftr.ai voice model (name not established) | **Unverified** — maker of ftrftr.ai not established from any authoritative source | (not established) | [[146](#source-146)] (see 162) |
+| Udio (the "other major" model) | Udio (self-made) | **Udio Inc.** (ex-Google DeepMind researchers) | David Ding (CEO per launch PR) / Andrew Sanchez (CEO per later sources) | [[161](#source-161)] |
+
+**Summary:** **Suno is the dominant model** — it is the company *and* the model, and it powers Xania Monet, 1010Benja, Timbaland's own production, and (as a third-party model) Stage Zero's TaTa. **Treblo (formerly Sonauto)** and **Udio** are self-made models (Treblo's model is "Melodia"; Udio is by ex-Google DeepMind researchers). **Factory New** claims an in-house "proprietary AI" for FN Meka's music (vocals are human). **ftrftr.ai**'s maker is **unverified** — no authoritative source identifies who builds the platform Illah used. **Udio** is the other major AI-music model but is **not established as the model behind any specific Q1 artist** (those use Suno/Treblo/ftrftr/in-house).
+
 ## Sources
 
 (Filled in by Tasks 1–7. Numbered from 137, continuing `docs/verification/INDEX.md`. Each entry: `N. <outlet>, "<title>" (<date>) — <url>`.)
@@ -134,3 +149,15 @@ The question splits into two distinct sub-categories. The "most famous" ranking 
 
 ### Source 158
 158. Billboard, "How New SPAC Music Acquisition Corp. Will Spend Its $230M IPO Money" (2021-03-22) — https://www.billboard.com/pro/spac-music-acquisition-corp-ipo-money-plans-strategy-merger/
+
+### Source 159
+159. Music Business Worldwide, "Timbaland launches AI music company Stage Zero, with first AI artist, TaTa" (2025-06-09) — https://www.musicbusinessworldwide.com/timbaland-launches-ai-music-company-stage-zero-with-first-ai-artist-tata/
+
+### Source 160
+160. Y Combinator, "Sonauto: Create hit songs with AI" (company profile, YC W24) — https://www.ycombinator.com/companies/sonauto
+
+### Source 161
+161. Udio (via PR Newswire), "Former Google DeepMind Researchers Assemble Luminaries Across Music And Tech To Launch Udio" (2024-04-10) — https://www.prnewswire.com/news-releases/former-google-deepmind-researchers-assemble-luminaries-across-music-and-tech-to-launch-udio-a-new-ai-powered-app-that-allows-anyone-to-create-extraordinary-music-in-an-instant-302113166.html
+
+### Source 162
+162. ftrftr.ai (fetch failed — negative-result search log; no authoritative maker located) — https://ftrftr.ai
