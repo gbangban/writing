@@ -11,7 +11,7 @@ By Elizabeth Dilts Marshall. Published September 2025.
 
 ## Key findings
 - Xania Monet's AI-powered R&B tracks had racked up **more than 17 million total on-demand streams in the U.S.** since her Suno-crafted R&B tracks were released about two months prior, per **Luminate.**
-- Monet — the creation of 31-year-old Mississippi-based **Talisha Jones**, who used AI to craft Monet's image and Suno to make the music — was signed to Hallwood Media after a bidding war in which one label offered as much as **$3 million.**
+- Monet — the creation of 31-year-old Mississippi-based **Telisha Jones**, who used AI to craft Monet's image and Suno to make the music — was signed to Hallwood Media after a bidding war in which one label offered as much as **$3 million.**
 - Using RIAA, Luminate, and other financial sources, **Billboard estimates Monet's songs generated more than $50,000 in less than two months.**
 - Most streaming platforms (incl. Spotify) have no specific policy for AI music, so these songs may accrue royalties like human-made songs. The U.S. Copyright Office has said human-authored songs that use AI to assist are copyrightable, but fully AI-generated songs are not.
 - The five-song catalog generated **more than $52,000** and nearly **17 million** total on-demand official U.S. streams (nearly doubled from the prior week); **12,500 album consumption units** as of the week ending Sept. 18.
