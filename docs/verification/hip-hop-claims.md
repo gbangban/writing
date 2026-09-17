@@ -143,3 +143,17 @@ Questions (from Hip Hop.md):
 | Q10.6 | analysis | 1010Benja "Semiramis' Dream" — CANNOT BE ASSESSED. Full lyrics not publicly available. The Verge (145) describes the track's sound but does not quote lyrics | — | (no source located) | unverified | No lyric lines available to analyze. The Verge (145) describes: "jungle beat, with a Suno-generated children's choir buried in hyperpop-style vocal chops." No racial content described, but no lyrics to verify. | mark unverified/unavailable; do NOT assess racecraft without lyrics |
 | Q10.7 | analysis | Illah — CANNOT BE FULLY ASSESSED. Full lyrics not publicly available. The one available line from Rolling Stone India (2021): "Everybody that look like me is probably a doctor" references the South Asian "model minority" / "doctor" trope (a reasonable reading of the line); whether it is self-referential critique or invocation is not stated in the source. Either way it is about SOUTH ASIAN stereotyping, not Black stereotyping | 196 | 196 (Rolling Stone India, top-tier, but only 2 lines) | analysis-ok | The "doctor" line references a South Asian "model minority" / "doctor" trope, not Black racecraft; the source does not state whether it is self-referential critique or invocation (the "anti-stereotype callout" reading is the author's inference, not a sourced fact). The other line ("If you were in my shoes you'd probably lose / I make it look easy") is a generic confidence line. Note: the same source (196) also documents Illah's own "gratuitous (and contentious) use of the N-word by a brown artist" in "Make It Look Easy" — Illah is a HUMAN rapper, outside the AI-lyrics scope. Full assessment blocked by unavailable lyrics. | none |
 | Q10.8 | analysis | Synthesis: racecraft is concentrated in exactly ONE song — FN Meka's "Moonwalkin'" — where the n-word is deployed by a Black-coded AI avatar created by white people. This is the only instance where the lyrics themselves create, rely on, or perpetuate Black stereotypes. The other available lyrics (Xania Monet, TaTa Taktumi, Fenix Flexin, FN Meka "Florida Water") are RACE-NEUTRAL (heartbreak, flexing, gambling, luxury). The two songs with unavailable lyrics (1010Benja, Illah) cannot be assessed; Illah's one available line references a South Asian "doctor" trope (not Black racecraft). The racecraft in "Moonwalkin'" is not incidental — it is the defining feature of the project's controversy and the lyrical counterpart to the visual racecraft in Q8 | 189-193,184,153,144 | premises verified (Q10.1-Q10.7) | analysis-ok | Author's synthesis of the verified lyric lines above. The n-word in "Moonwalkin'" is the trigger for the Capitol drop (192, 184, 144). The racial configuration (white-created, Black-coded AI avatar using the n-word) is the racecraft: a non-Black entity performing Blackness (including the most restricted Black word) without Black authorship. | none |
+
+## Rollup
+
+- Total claims: 90
+- verified: 44
+- verified-with-caveat: 18
+- fix-required: 0
+- unverified: 12 (each with an explicit note — negative result recorded, no fabrication)
+- analysis-ok: 15
+- verified (exclusions): 1 (Q5.8 — the documented exclusion list for the Q5 ranking)
+- Sources used: 137–196 (60 new sources)
+- Lyrics aggregated locally: 8 files in `docs/research/hip-hop-lyrics/` (5 songs with full lyrics; 2 unavailable; 1 README index)
+- Depiction links: 8 in `docs/research/hip-hop-depictions/links.md`
+- Completed: 2026-09-16
