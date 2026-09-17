@@ -580,6 +580,9 @@ CRS, "Regulating Artificial Intelligence: U.S. and International Approaches" (R4
 ## Appendix
 
 ### Revisions
+- update the underwater data center portion with clarity around why underwater data centers are preferable, i.e. they're relatively low power usage effectiveness, less energy used, things like that.
+- clarify how the AI used to generate this essay was renewable, i.e. having a renewable energy provider as well as using a normal computer that has no water cooling.
+- 
 - Revise the Sources section to enable proper deep linking from the respective internal links ex. ([xyz](# Source 1))
 - Normalize Global South and across the text
 	- Review for grammar, spelling, and syntax
