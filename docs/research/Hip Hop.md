@@ -38,6 +38,31 @@ The question splits into two distinct sub-categories. The "most famous" ranking 
 - **Most famous human artist using AI in hip-hop: Timbaland** — a global, Grammy-winning name who is both a heavy Suno user in his own work and the creator of an AI artist; his AI use is documented by Rolling Stone across multiple pieces [[137](#source-137)][[138](#source-138)]. Drake's AI-Tupac moment was a bigger viral news event, but it was a single diss track, not an ongoing practice [[141](#source-141)].
 - **Most famous AI/AR hip-hop avatar: FN Meka** — the most prominent virtual/AR rapper by social reach (10M+ TikTok, "biggest virtual being on TikTok") and the first AR artist on a major label, though his streaming presence collapsed after the 2022 backlash [[144](#source-144)][[147](#source-147)]. **Xania Monet** is the strongest case for *measurable streaming success* by an AI artist (~17M streams, $3M deal, Billboard chart entry), but she is R&B/gospel rather than hip-hop [[142](#source-142)][[143](#source-143)].
 
+### Q2 — Company with the largest AI funding in AI hip-hop
+
+**Standing ruling applied:** Q2 asks for the largest AI funding *within the AI hip-hop field specifically*, not general AI funding. The AI-hip-hop *artist* companies (Stage Zero, Factory New, Hallwood Media, Pacific Music Group) have **no disclosed external venture funding** — they are funded by their founders' capital, catalog deals, and (for Hallwood) a SPAC-backed investment arm. The largest *disclosed* AI funding in this field is therefore held by the **AI-music platform that powers the artists** (Suno), and its funding is **general AI-music, not hip-hop-specific**.
+
+- **Suno** (the AI model behind TaTa, Xania Monet, 1010Benja, Illah) — **$250M Series C** at a **$2.45B post-money valuation** (Nov 19, 2025), led by **Menlo Ventures** with participation from **NVentures (NVIDIA), Hallwood Media, Lightspeed, and Matrix**; **$200M annual revenue** [[150](#source-150)][[151](#source-151)]. Scope: **general AI music platform** (not hip-hop-specific) — the model that generates the AI hip-hop/R&B artists. Verdict: `verified-with-caveat` (caveat = general-AI, not hip-hop-specific).
+- **Beatclub** (Timbaland's *separate* beat marketplace, co-founded with Gary Marella) — **Series A-2** investment from **Hipgnosis** (Feb 2023) and **Anthem Entertainment** (Jun 2023); **financial terms undisclosed** [[155](#source-155)]. Scope: beat marketplace / creator platform, **not** the AI-hip-hop venture (Stage Zero). Verdict: `verified-with-caveat` (investment confirmed; figure undisclosed).
+- **Stage Zero** (Timbaland's AI entertainment company; artist TaTa) — **no disclosed external VC** in launch coverage (Billboard, MBW, Rolling Stone, NPR, Kotaku, Pollstar) [[155](#source-155)]. Verdict: `unverified` (no authoritative funding figure located; treated as founder-funded).
+- **Factory New** (virtual label; artist FN Meka) — **no disclosed external VC** in coverage (MBW, GQ, NME, USA Today) [[153](#source-153)]. Verdict: `unverified` (no authoritative funding figure located).
+- **Hallwood Media** (label; artist Xania Monet) — **no disclosed external VC raised by the operating label**; its investment arm **Hallwood Media Ventures** (from a SPAC that reportedly raised ~$230M, per a secondary source) **participated in Suno's $250M Series C** [[152](#source-152)][[156](#source-156)]. Verdict: `verified-with-caveat` (Suno participation verified; the ~$230M SPAC figure is secondary-only).
+- **Pacific Music Group** (Ne-Yo et al.; signed TaTa) — **no disclosed external VC** in launch coverage [[154](#source-154)]. Verdict: `unverified` (no authoritative funding figure located).
+
+**Largest:** **Suno** — by a wide margin, the only company in this field with a large disclosed AI funding round ($250M Series C, $2.45B valuation). **Scope caveat:** that money is for the *general AI music platform* (the model that generates the AI hip-hop artists), **not** for a hip-hop-specific product, so it is marked `verified-with-caveat`. Among the *artist-specific* AI-hip-hop companies, none has a disclosed funding figure, so no hip-hop-specific "largest" can be ranked from primary data.
+
+### Q3 — Company info + CEOs (Black hip-hop avatars)
+
+| Company | CEO / Founder | Funding | Focus (Black hip-hop avatars?) | Source |
+|---|---|---|---|---|
+| **Factory New** (FN Meka) | **Anthony Martini** (co-founder; also CEO of Royalty Exchange); co-creator **Brandon Le** | No disclosed external VC | **Yes** — FN Meka is a Black "robot rapper" avatar (AI/AR); the project drew "minstrel show" / appropriation accusations, and Capitol apologized "to the Black community" | [[153](#source-153)] |
+| **Hallwood Media** (Xania Monet) | **Neil Jacobson** (founder, Managing Partner; ex-UMG Geffen President) | No disclosed external VC for the label; HMV (SPAC, ~$230M per secondary source) invested in Suno's $250M Series C | **No** — Xania Monet is an AI **R&B/gospel** artist (not Black hip-hop); Hallwood is a general AI-music label | [[152](#source-152)][[156](#source-156)] |
+| **Stage Zero** (TaTa) | **Timbaland** (co-founder); co-founders **Rocky Mudaliar**, **Zayd Portillo** | No disclosed external VC | **No** — TaTa is an "A-Pop" artist with a Filipino-heritage "part human" performer; not a Black hip-hop avatar | [[155](#source-155)] |
+| **Pacific Music Group** (signed TaTa) | **Jonathan Serbin** (CEO; ex-Warner Music Asia Co-President); founders **Ne-Yo, Sonu Nigam, MC Jin** | No disclosed external VC | **No** — Pan-Asian (HK-based) focus, not Black hip-hop | [[154](#source-154)] |
+| **Suno** (the AI model) | **Mikey Shulman** (Co-Founder & CEO) | $250M Series C @ $2.45B (Nov 2025) | **No** — general AI music platform, not a Black hip-hop avatar company | [[150](#source-150)][[151](#source-151)] |
+
+**Companies specifically creating Black hip-hop artist avatars/music:** **Factory New** (FN Meka) is the clearest case — a Black "robot rapper" avatar created with AI/AR. **Hallwood Media**'s Xania Monet is AI R&B/gospel (not Black hip-hop), and **Stage Zero**'s TaTa is "A-Pop" (Filipino-heritage "part human"), so neither is a Black-hip-hop-avatar company. The largest-funded company (Suno) is a general AI music platform, not a Black-hip-hop-avatar company.
+
 ## Sources
 
 (Filled in by Tasks 1–7. Numbered from 137, continuing `docs/verification/INDEX.md`. Each entry: `N. <outlet>, "<title>" (<date>) — <url>`.)
@@ -80,3 +105,24 @@ The question splits into two distinct sub-categories. The "most famous" ranking 
 
 ### Source 149
 149. The New Yorker, "Who's Afraid of A.I. Music?" (2026-09-07) — https://www.newyorker.com/magazine/2026/09/07/whos-afraid-of-ai-music
+
+### Source 150
+150. Suno (via PR Newswire), "Suno Raises $250M at a $2.45B Valuation" (2025-11-19) — https://www.prnewswire.com/news-releases/suno-raises-250m-at-a-2-45b-valuation-302620166.html
+
+### Source 151
+151. TechCrunch, "Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue" (2025-11-19) — https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/
+
+### Source 152
+152. Music Business Worldwide, "One of Suno's latest investors will be of particular interest to the music industry" (2025-11-24) — https://www.musicbusinessworldwide.com/one-of-sunos-latest-investors-will-be-of-particular-interest-to-the-music-industry/
+
+### Source 153
+153. Music Business Worldwide, "This robot rapper has 9m followers on TikTok. The company that created him thinks traditional A&R is 'inefficient and unreliable'" (2021-04-01) — https://www.musicbusinessworldwide.com/this-robot-rapper-has-9-million-followers-on-tiktok-his-creator-thinks-traditional-ar-is-inefficient-and-unreliable/
+
+### Source 154
+154. Music Business Worldwide, "NE-YO, Sonu Nigam, MC Jin, and former WMG exec Jonathan Serbin launch Pacific Music Group" (2025-11-24) — https://www.musicbusinessworldwide.com/pacific-music-group-a-new-hong-kong-based-entertainment-company-launched-by-ne-yo-sonu-nigam-mc-jin-and-former-wmg-exec-jonathan-serbin/
+
+### Source 155
+155. Music Business Worldwide, "Anthem invests in Timbaland's music marketplace Beatclub, acquires additional publishing interests in his catalog" (2023-06-07) — https://www.musicbusinessworldwide.com/anthem-invests-in-timbalands-music-marketplace-beatclub-acquires-additional-publishing-interests-in-his-catalog/
+
+### Source 156
+156. Hallwood Media Ventures, "Team" (company page) — https://www.hallwoodmediaventures.com/team
