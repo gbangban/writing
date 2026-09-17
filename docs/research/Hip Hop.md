@@ -188,7 +188,7 @@ Across the genre, Black *female* identity in AI hip-hop content is constructed i
 | FN Meka | Moonwalkin' | **Yes** — full lyrics | [192](#source-192) (moguldom.com, blog) | `verified-with-caveat` (blog, not authoritative alone; n-word usage corroborated by [184](#source-184) Guardian + [144](#source-144) Fortune) |
 | FN Meka, Gunna & Clix | Florida Water | **Yes** — full lyrics | [193](#source-193) (7lyrics.com, aggregator) | `verified-with-caveat` (aggregator, not authoritative alone; AZLyrics CAPTCHA-blocked, Musixmatch login-walled) |
 | 1010Benja | Semiramis' Dream | **No** — lyrics not publicly available | (no source located) | `unverified`/unavailable |
-| Illah | (catalog) | **No** — full lyrics not publicly available; 2 lines from [Rolling Stone India](https://rollingstoneindia.com/hear-illah-unsparing-new-song-make-it-look-easy/) (2021) | (partial) | `unverified`/unavailable (2 lines only) |
+| Illah | (catalog) | **No** — full lyrics not publicly available; 2 lines from [196](#source-196) (Rolling Stone India, 2021) | (partial) | `unverified`/unavailable (2 lines only) |
 
 **Local corpus:** All available lyrics are saved in `docs/research/hip-hop-lyrics/` (files 189–195). The README index at `docs/research/hip-hop-lyrics/README.md` lists each file.
 
@@ -216,16 +216,19 @@ Across the genre, Black *female* identity in AI hip-hop content is constructed i
 **6. 1010Benja — "Semiramis' Dream"** (source: unavailable)
 - **Racecraft: CANNOT BE ASSESSED.** Full lyrics are not publicly available (source: none located). The Verge review (source [145](#source-145)) describes the track's sound (jungle beat, unprocessed voice, Suno-generated children's choir) but does not quote lyrics. **Verdict: `unverified`/unavailable — no lyric lines to analyze.**
 
-**7. Illah — (catalog)** (source: partial)
-- **Racecraft: CANNOT BE FULLY ASSESSED.** Full lyrics are not publicly available. The two verified lines from Rolling Stone India (2021) are: "If you were in my shoes you'd probably lose / I make it look easy" and "Everybody that look like me is probably a doctor." The second line — "Everybody that look like me is probably a doctor" — is a **self-referential stereotype callout**: Illah (an Indo-American rapper) is naming the "model minority" stereotype applied to South Asians in the US. This is **anti-stereotype** usage (the rapper is criticizing the stereotype, not perpetuating it), and it is about **South Asian** stereotyping, not Black stereotyping. **Verdict: `analysis-ok` — the one available line is an anti-stereotype callout (South Asian "doctor" trope), not racecraft in the Black-stereotype sense; full assessment blocked by unavailable lyrics.**
+**7. Illah — (catalog)** (source [196](#source-196), partial)
+- **Racecraft: CANNOT BE FULLY ASSESSED.** Full lyrics are not publicly available. The two verified lines from Rolling Stone India (2021) are: "If you were in my shoes you'd probably lose / I make it look easy" and "Everybody that look like me is probably a doctor." The second line — "Everybody that look like me is probably a doctor" — references the South Asian "model minority" / "doctor" trope (a reasonable reading of the line); whether it is self-referential critique or invocation is not stated in the source. Either way it is about **South Asian** stereotyping, not Black stereotyping. **Verdict: `analysis-ok` — the one available line references a South Asian "doctor" trope, not racecraft in the Black-stereotype sense; full assessment blocked by unavailable lyrics.**
+- **Note:** the same source ([196](#source-196)) also documents Illah's own "gratuitous (and as some have pointed out, contentious) use of the N-word by a brown artist" in "Make It Look Easy." Illah is a **human** rapper (not an AI artist), so this is outside the "AI lyrics" scope — but it is relevant to a "how racecraft-y are the lyrics" question.
 
 #### Synthesis (analysis)
 
-Across the available lyrics, **racecraft is concentrated in exactly one song: FN Meka's "Moonwalkin'"**, where the n-word is deployed by a Black-coded AI avatar created by white people. This is the only instance where the lyrics themselves create, rely on, or perpetuate Black stereotypes. The other available lyrics (Xania Monet, TaTa Taktumi, Fenix Flexin, FN Meka's "Florida Water") are **race-neutral** — they deal with heartbreak, flexing, gambling, and luxury, with no racial content. The two songs with unavailable lyrics (1010Benja, Illah) cannot be assessed; Illah's one available line is an anti-stereotype callout (South Asian "doctor" trope), not Black racecraft.
+Across the available lyrics, **racecraft is concentrated in exactly one song: FN Meka's "Moonwalkin'"**, where the n-word is deployed by a Black-coded AI avatar created by white people. This is the only instance where the lyrics themselves create, rely on, or perpetuate Black stereotypes. The other available lyrics (Xania Monet, TaTa Taktumi, Fenix Flexin, FN Meka's "Florida Water") are **race-neutral** — they deal with heartbreak, flexing, gambling, and luxury, with no racial content. The two songs with unavailable lyrics (1010Benja, Illah) cannot be assessed; Illah's one available line references a South Asian "doctor" trope, not Black racecraft.
+
+**Scope note:** this survey is bounded to the Q1 commercial US AI hip-hop set. Other AI/AR rappers with racial content exist outside this scope (e.g. "Danny Bones," a white-nationalist AI skinhead who appropriates hip-hop styles; "Lolita Cercel," an AI singer invoking Roma stereotypes) but are not part of the "most popular AI hip-hop songs" defined in Q1.
 
 **The racecraft in FN Meka's "Moonwalkin'" is not incidental — it is the defining feature of the project's controversy.** The n-word in the hook ("I don't see no niggas like we playin' hockey") is the line that users identified as the trigger for the Capitol drop (per [192](#source-192), [184](#source-184), [144](#source-144)). The racial configuration — a white-created, Black-coded AI avatar using the n-word — is the racecraft: it is a **non-Black entity performing Blackness** (including the most restricted Black word) for a Black-coded audience, without Black authorship or membership. This is the lyrical counterpart to the visual racecraft documented in Q8 (the "Black male cyborg" appearance, the objectified women in his content).
 
-**Verdicts:** Xania Monet / TaTa Taktumi / Fenix Flexin / FN Meka "Florida Water" = `analysis-ok` (no racecraft in the lyrics). FN Meka "Moonwalkin'" = `analysis-ok` (racecraft present: n-word by Black-coded AI avatar, white creators; lyric lines `verified`). 1010Benja = `unverified`/unavailable (no lyrics). Illah = `analysis-ok` (one line = anti-stereotype callout, South Asian "doctor" trope; full assessment blocked). Synthesis = `analysis`.
+**Verdicts:** Xania Monet / TaTa Taktumi / Fenix Flexin / FN Meka "Florida Water" = `analysis-ok` (no racecraft in the lyrics). FN Meka "Moonwalkin'" = `analysis-ok` (racecraft present: n-word by Black-coded AI avatar, white creators; lyric lines `verified`). 1010Benja = `unverified`/unavailable (no lyrics). Illah = `analysis-ok` (one line references a South Asian "doctor" trope, not Black racecraft; full assessment blocked). Synthesis = `analysis`.
 
 ## Sources
 
@@ -401,3 +404,6 @@ Across the available lyrics, **racecraft is concentrated in exactly one song: FN
 
 ### Source 193
 193. 7Lyrics, "FN Meka, Gunna & Clix Florida Water Lyrics" (2025-08-18, accessed 2026-09-16) — https://www.7lyrics.com/fn-meka-gunna-clix-florida-water-lyrics
+
+### Source 196
+196. Rolling Stone India, "Hear Indo-American Rapper Illah's Unsparing New Song 'Make It Look Easy'" (2021-11-02, Anurag Tagat) — https://rollingstoneindia.com/hear-illah-unsparing-new-song-make-it-look-easy/
