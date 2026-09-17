@@ -172,6 +172,61 @@ Across the genre, Black *female* identity in AI hip-hop content is constructed i
 
 **Verdicts:** Xania Monet = AI-image face / Black-woman creator / female-soulful voice / live-action MV = `verified` (182, 183, 188). Kade Henderson likeness allegation = `unverified` (187 — claim, pending legal action, non-top-tier outlet). FN Meka = Black male cyborg + objectified women in his content = `verified` (184, 185). TaTa = futuristic/robotic, not Black female = `verified` (186). "For whose gaze" + the thin-field scope = `analysis`.
 
+### Q9 — Lyrics of the most popular AI hip-hop songs (aggregated locally)
+
+**Standing ruling applied:** Each lyric line is an `ai` claim (origin = the song itself, an AI-generated or AI-assisted artifact) that must reach `verified` / `verified-with-caveat` / `fix-required`. Where full lyrics are unavailable, the gap is marked `unverified`/unavailable with an explicit note — **no lyrics are fabricated**. Full lyrics are saved locally in `docs/research/hip-hop-lyrics/` (one file per song, per the README convention).
+
+**Scope:** The "most popular AI hip-hop songs" are the tracks by the Q1 artists with the highest measurable streaming or chart presence. That set is: Xania Monet "How Was I Supposed to Know?" (3M+ streams, No. 1 R&B Digital Sales), Fenix Flexin "Rubberz" (No. 58 Billboard Hot 100), FN Meka "Moonwalkin'" (the 2019 track that triggered the Capitol drop), FN Meka/Gunna/Clix "Florida Water" (Aug 2022 single), TaTa Taktumi "Glitch x Pulse" (Oct 2025 debut), 1010Benja "Semiramis' Dream" (2026 EP opener), and Illah (catalog).
+
+#### Lyrics availability
+
+| Artist | Song | Lyrics available? | Source | Verdict |
+|--------|------|-------------------|--------|---------|
+| Xania Monet | How Was I Supposed to Know? | **Yes** — full lyrics | [189](#source-189) (Genius, lyrics authority) | `verified` |
+| TaTa Taktumi | Glitch x Pulse | **Yes** — full lyrics | [190](#source-190) (official YouTube MV description, primary) | `verified` |
+| Fenix Flexin | Rubberz | **Yes** — full lyrics | [191](#source-191) (musicchartsarchive.com, aggregator) | `verified-with-caveat` (aggregator, not authoritative alone; official YouTube lyric video is the primary source) |
+| FN Meka | Moonwalkin' | **Yes** — full lyrics | [192](#source-192) (moguldom.com, blog) | `verified-with-caveat` (blog, not authoritative alone; n-word usage corroborated by [184](#source-184) Guardian + [144](#source-144) Fortune) |
+| FN Meka, Gunna & Clix | Florida Water | **Yes** — full lyrics | [193](#source-193) (7lyrics.com, aggregator) | `verified-with-caveat` (aggregator, not authoritative alone; AZLyrics CAPTCHA-blocked, Musixmatch login-walled) |
+| 1010Benja | Semiramis' Dream | **No** — lyrics not publicly available | (no source located) | `unverified`/unavailable |
+| Illah | (catalog) | **No** — full lyrics not publicly available; 2 lines from [Rolling Stone India](https://rollingstoneindia.com/hear-illah-unsparing-new-song-make-it-look-easy/) (2021) | (partial) | `unverified`/unavailable (2 lines only) |
+
+**Local corpus:** All available lyrics are saved in `docs/research/hip-hop-lyrics/` (files 189–195). The README index at `docs/research/hip-hop-lyrics/README.md` lists each file.
+
+### Q10 — How racecraft-y are the lyrics
+
+**Standing ruling applied:** The racecraft assessment is `analysis` (the author's interpretive framing); the underlying lyric lines are `ai` claims verified in Q9. The analysis quotes **actual verified lyric lines** and is honest where the lyrics are neutral or where racecraft is absent.
+
+#### Per-song analysis
+
+**1. Xania Monet — "How Was I Supposed to Know?"** (source [189](#source-189))
+- **Racecraft: NONE detected.** The lyrics are about paternal absence and romantic heartbreak: "He didn't walk me down no stairs / Didn't warn me 'bout them boys who wouldn't care... My mama did her best, but she can't teach / What it feels like when a father speaks." The chorus — "How was I supposed to know what love looked like / When daddy never showed me what felt right?" — is a personal, gendered (female) narrative of abandonment. There are no racial references, no Black stereotypes, no minstrel imagery. The "wounded crown" line ("My mama raised a queen with a wounded crown") is a self-empowerment metaphor, not a racial trope. **Verdict: `analysis-ok` — no racecraft in the lyrics.**
+
+**2. TaTa Taktumi — "Glitch x Pulse"** (source [190](#source-190))
+- **Racecraft: NONE detected.** The lyrics are about flexing, hustle, and confidence: "I pulled up in that spaceship, make a [__] crease a facelift / Talk my [__] on vibrations / 808 conversation, 101's on some greatness, public miseducation." The "Pulse" section is a melodic pop verse about a relationship: "You're gone and you in it / Telling you I'm at my limit." There are no racial references, no Black stereotypes, no minstrel imagery. The "public miseducation" line is a generic boast, not a racial claim. **Verdict: `analysis-ok` — no racecraft in the lyrics.**
+
+**3. Fenix Flexin — "Rubberz"** (source [191](#source-191))
+- **Racecraft: NONE detected.** The lyrics are about gambling, heartbreak, and wealth: "Swipin' cards and stackin' chips, I saw you sinkin' ships / Left me standin' in the pourin' rain, now I bought a heavy diamond chain." The "Sunset Boulevard" / "plastic smiles" imagery is a Hollywood-wealth critique, not a racial trope. There are no racial references, no Black stereotypes, no minstrel imagery. **Verdict: `analysis-ok` — no racecraft in the lyrics.**
+
+**4. FN Meka — "Moonwalkin'"** (source [192](#source-192))
+- **Racecraft: YES — the n-word is the central racecraft element.** The hook contains "I don't see no niggas like we playin' hockey" and verse 1 contains "I'on got shit for a broke nigga." The n-word is used by a **Black-coded AI avatar** (a "Black male cyborg," per [184](#source-184)) whose creators are **white** (Anthony Martini and Brandon Le, per [153](#source-153)). This is the exact configuration that triggered the racist-stereotype backlash: a non-Black entity deploying the n-word in a Black-coded persona. The line "I don't see no niggas like we playin' hockey" is particularly pointed — it positions the AI avatar as outside the Black community it is invoking ("no niggas like **we**"), which reads as a white-creator's fantasy of Blackness without Black membership. The "A.I." self-reference ("I'm a A.I., I'm a different beast") compounds the uncanny: the avatar is both Black-coded and explicitly non-human. **Verdict: `analysis-ok` — racecraft present (n-word by a Black-coded AI avatar created by white people); the lyric lines are `verified` (source [192](#source-192), corroborated by [184](#source-184) + [144](#source-144)).**
+
+**5. FN Meka, Gunna & Clix — "Florida Water"** (source [193](#source-193))
+- **Racecraft: MINIMAL / NONE in FN Meka's AI-generated lines.** The lyrics are about luxury and wealth: "Florida Water, two tone AP Presidential Rolex / 2019 Richard Mille and a Patek / real diamonds, carats, and pointers, and VVS." FN Meka's verse is cyber-futuristic braggadocio: "Too many 1's and 0's / Thumbin' through these racks / My system overload / I'm too OP for this path I chose." The n-word appears in **Gunna's** verse ("Niggas runnin round had to go to the bank again"), but that is Gunna's own writing, not FN Meka's AI-generated content. The "ice on my fingers feel like I'm making her wet" line is sexual objectification, not racial stereotyping. **Verdict: `analysis-ok` — no racecraft in FN Meka's AI lines; the n-word in Gunna's verse is Gunna's own writing (a human rapper using the word in his own song), not an AI-generated racial deployment.**
+
+**6. 1010Benja — "Semiramis' Dream"** (source: unavailable)
+- **Racecraft: CANNOT BE ASSESSED.** Full lyrics are not publicly available (source: none located). The Verge review (source [145](#source-145)) describes the track's sound (jungle beat, unprocessed voice, Suno-generated children's choir) but does not quote lyrics. **Verdict: `unverified`/unavailable — no lyric lines to analyze.**
+
+**7. Illah — (catalog)** (source: partial)
+- **Racecraft: CANNOT BE FULLY ASSESSED.** Full lyrics are not publicly available. The two verified lines from Rolling Stone India (2021) are: "If you were in my shoes you'd probably lose / I make it look easy" and "Everybody that look like me is probably a doctor." The second line — "Everybody that look like me is probably a doctor" — is a **self-referential stereotype callout**: Illah (an Indo-American rapper) is naming the "model minority" stereotype applied to South Asians in the US. This is **anti-stereotype** usage (the rapper is criticizing the stereotype, not perpetuating it), and it is about **South Asian** stereotyping, not Black stereotyping. **Verdict: `analysis-ok` — the one available line is an anti-stereotype callout (South Asian "doctor" trope), not racecraft in the Black-stereotype sense; full assessment blocked by unavailable lyrics.**
+
+#### Synthesis (analysis)
+
+Across the available lyrics, **racecraft is concentrated in exactly one song: FN Meka's "Moonwalkin'"**, where the n-word is deployed by a Black-coded AI avatar created by white people. This is the only instance where the lyrics themselves create, rely on, or perpetuate Black stereotypes. The other available lyrics (Xania Monet, TaTa Taktumi, Fenix Flexin, FN Meka's "Florida Water") are **race-neutral** — they deal with heartbreak, flexing, gambling, and luxury, with no racial content. The two songs with unavailable lyrics (1010Benja, Illah) cannot be assessed; Illah's one available line is an anti-stereotype callout (South Asian "doctor" trope), not Black racecraft.
+
+**The racecraft in FN Meka's "Moonwalkin'" is not incidental — it is the defining feature of the project's controversy.** The n-word in the hook ("I don't see no niggas like we playin' hockey") is the line that users identified as the trigger for the Capitol drop (per [192](#source-192), [184](#source-184), [144](#source-144)). The racial configuration — a white-created, Black-coded AI avatar using the n-word — is the racecraft: it is a **non-Black entity performing Blackness** (including the most restricted Black word) for a Black-coded audience, without Black authorship or membership. This is the lyrical counterpart to the visual racecraft documented in Q8 (the "Black male cyborg" appearance, the objectified women in his content).
+
+**Verdicts:** Xania Monet / TaTa Taktumi / Fenix Flexin / FN Meka "Florida Water" = `analysis-ok` (no racecraft in the lyrics). FN Meka "Moonwalkin'" = `analysis-ok` (racecraft present: n-word by Black-coded AI avatar, white creators; lyric lines `verified`). 1010Benja = `unverified`/unavailable (no lyrics). Illah = `analysis-ok` (one line = anti-stereotype callout, South Asian "doctor" trope; full assessment blocked). Synthesis = `analysis`.
+
 ## Sources
 
 (Filled in by Tasks 1–7. Numbered from 137, continuing `docs/verification/INDEX.md`. Each entry: `N. <outlet>, "<title>" (<date>) — <url>`.)
@@ -331,3 +386,18 @@ Across the genre, Black *female* identity in AI hip-hop content is constructed i
 
 ### Source 188
 188. YouTube, "Xania Monet - How Was I supposed to Know? (Official Music Video)" (accessed 2026-09-16) — https://www.youtube.com/watch?v=mUQCcfcpTek
+
+### Source 189
+189. Genius, "Xania Monet – How Was I Supposed to Know? Lyrics" (accessed 2026-09-16) — https://genius.com/Xania-monet-how-was-i-supposed-to-know-lyrics
+
+### Source 190
+190. YouTube, "Tata Taktumi - Glitch x Pulse (Official Music Video)" (2025-10-10, accessed 2026-09-16) — https://www.youtube.com/watch?v=JXFn32yhvh4
+
+### Source 191
+191. Music Charts Archive, "Rubberz" Song by Fenix Flexin (accessed 2026-09-16) — http://musicchartsarchive.com/singles/fenix-flexin/rubberz
+
+### Source 192
+192. Moguldom, "Critics Get White Creator Of AI Rapper Robot Dropped From Label For N-Word Lyrics: Is Drill Rap Worse?" (2022-08-25) — https://moguldom.com/419735/fn-meka-moonwalkin-lyrics
+
+### Source 193
+193. 7Lyrics, "FN Meka, Gunna & Clix Florida Water Lyrics" (2025-08-18, accessed 2026-09-16) — https://www.7lyrics.com/fn-meka-gunna-clix-florida-water-lyrics
