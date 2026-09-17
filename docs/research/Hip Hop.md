@@ -80,6 +80,26 @@ The question is really: for each AI-hip-hop project, which underlying model gene
 
 **Summary:** **Suno is the dominant model** — it is the company *and* the model, and it powers Xania Monet, 1010Benja, Timbaland's own production, and (as a third-party model) Stage Zero's TaTa. **Treblo (formerly Sonauto)** and **Udio** are self-made models (Treblo's model is "Melodia"; Udio is by ex-Google DeepMind researchers). **Factory New** claims an in-house "proprietary AI" for FN Meka's music (vocals are human). **ftrftr.ai**'s maker is **unverified** — no authoritative source identifies who builds the platform Illah used. **Udio** is the other major AI-music model but is **not established as the model behind any specific Q1 artist** (those use Suno/Treblo/ftrftr/in-house).
 
+### Q5 — Black entrepreneurs with the most AI funding / VC
+
+**Standing ruling applied:** the ranking is `analysis`; each funding figure is an `ai` claim that must reach `verified` / `verified-with-caveat` / `fix-required` (otherwise `unverified` with an explicit note). **Scope:** Black founders of *AI* companies (AI chips, AI-native software, AI models) — broader than the AI-hip-hop field in Q1–Q4. Race is confirmed only where a top-tier or primary source states it; where it cannot be confirmed, the founder is excluded from the ranking rather than assumed.
+
+| Rank | Company (AI focus) | Black founder / CEO | Funding (latest round) | Total known | Source |
+|---|---|---|---|---|---|
+| **1** | **SambaNova** (AI inference chips / SambaCloud) | **Kunle Olukotun** (co-founder & Chief Technologist; British-born Yoruba Nigerian, Stanford prof, "father of the multi-core processor") | **$350M+ Series E** (Feb 2026), led by **Vista Equity Partners + Cambium Capital**, w/ Intel Capital, Battery Ventures, First Data, T. Rowe Price accounts | **~$1.5B** | [[163](#source-163)][[164](#source-164)][[165](#source-165)] |
+| **2** | **Harper** (AI-native commercial insurance brokerage) | **Dakotah Rice** (co-founder & CEO; Black — "largest publicly disclosed Series A ever raised by a Black founder") | **$46.8M combined Seed + Series A** (Feb 2026), led by **Emergence Capital**, w/ Y Combinator, Peak XV, Antler, Outset | **~$59M** (per LinkedIn) | [[166](#source-166)][[167](#source-167)] |
+| **3** | **Novig** (sports prediction market; ML sports models) | **Kelechi Ukah** (co-founder; Black — Nigerian name). *CEO Jacob Fortinsky is not Black.* | **$75M Series B** (Feb 2026), led by **Pantera Capital**, at **$500M post-money** | **~$105–108M** | [[168](#source-168)][[169](#source-169)] |
+
+**Top-3 note:** **SambaNova is the clear #1** — by a wide margin, the largest AI round ever raised by a Black founder (~$1.5B total; the $350M Series E alone is ~7× Harper's total and ~5× Novig's round). It is also the single reason 2026's Black-founder Q1 total ($643M) was the strongest quarter since Q2 2022 [[163](#source-163)]. **Harper** is #2 and carries the notable distinction of the **largest publicly disclosed Series A by a Black founder** [[166](#source-166)][[167](#source-167)]. **Novig** is #3 on total funding, but its "AI" is sports-betting models inside a prediction/sweepstakes market (weaker AI-ness than SambaNova/Harper), and the Black founder is the *co-founder*, not the CEO — so it is `verified-with-caveat`.
+
+**Scope / exclusions (why these and not others):**
+- **GovDash** ($30M Series B, AI gov-contracting) — CEO **Sean Doherty is not Black** (co-founders Curtis Mason, Tim Goltser); excluded.
+- **Cognition** ($2B @ $48B), **Wayve** ($1.2B @ $8.6B), **General Intuition** ($320M @ $2.3B), **Arcee AI** (~$150M @ $1B), **Black Forest Labs** ($300M @ $3.25B), **Higgsfield** ($400M @ $5.4B) — all large AI rounds, but **none have a confirmed Black founder/CEO**; excluded.
+- **Meek Mill / "The Liberty Line"** (reportedly ~$20M from a16z, Sep 2025) — **unverified / likely false**: reported only by low-authority outlets (Hood Forbes, Tech.az, a blog); a Polymarket market on "Meek Mill gets a16z funding in 2025?" **resolved "No"**; no top-tier outlet or a16z confirms it. Excluded from the ranking (see the Q2-adjacent note above).
+- **Iman Abuzeid / Incredible Health** (~$97M total, ~$1.65B valuation) — a Black woman founder, but the company is a **healthcare career/staffing marketplace, not clearly an AI company**; excluded from the AI ranking (would be a top-3 candidate in a broader "Black tech founders" framing).
+
+**Verdicts:** SambaNova funding + Olukotun race = `verified` (primary Business Wire + Crunchbase News + Wikipedia/Stanford). Harper funding + Rice race = `verified` (TechCrunch + AfroTech "Black founder" framing). Novig funding = `verified`; Novig AI-ness + Ukah-as-Black-founder = `verified-with-caveat`. Ranking = `analysis` (author's synthesis of the verified figures above).
+
 ## Sources
 
 (Filled in by Tasks 1–7. Numbered from 137, continuing `docs/verification/INDEX.md`. Each entry: `N. <outlet>, "<title>" (<date>) — <url>`.)
@@ -161,3 +181,24 @@ The question is really: for each AI-hip-hop project, which underlying model gene
 
 ### Source 162
 162. ftrftr.ai (fetch failed — negative-result search log; no authoritative maker located) — https://ftrftr.ai
+
+### Source 163
+163. Crunchbase News, "Venture Dollars For Black Startup Founders Stay Scarce Despite AI Funding Boom" (2026-05-28) — https://news.crunchbase.com/diversity/black-startup-founder-venture-funding-data-q1-2026/
+
+### Source 164
+164. Business Wire, "SambaNova Unveils Fastest Chip for Agentic AI, Collaborates with Intel, and Raises $350M+" (2026-02-26) — https://www.businesswire.com/news/home/20260226805517/en/SambaNova-Unveils-Fastest-Chip-for-Agentic-AI-Collaborates-with-Intel-and-Raises-%24350M
+
+### Source 165
+165. Wikipedia, "Kunle Olukotun" (accessed 2026-09-16) — https://en.wikipedia.org/wiki/Kunle_Olukotun
+
+### Source 166
+166. TechCrunch, "Y Combinator grad and AI insurance brokerage Harper raises $47M" (2026-02-25) — https://techcrunch.com/2026/02/25/ai-insurance-brokerage-harper-raises-45m-series-a-and-seed/
+
+### Source 167
+167. AfroTech, "AI-Powered Commercial Insurance Startup Announces The Largest Publicly Disclosed Series A Amount Raised By A Black Founder" (2026) — https://afrotech.com/ai-powered-insurance-company-harper
+
+### Source 168
+168. Forbes, "Betting App Novig Raises $75 Million As It Joins Prediction Market Wave" (2026-02-18) — https://www.forbes.com/sites/hanktucker/2026/02/18/betting-app-novig-raises-75-million-as-it-looks-to-join-prediction-market-wave/
+
+### Source 169
+169. Fortune, "Sports-focused prediction market Novig raises $75 million to challenge Kalshi and Polymarket" (2026-02-18) — https://fortune.com/2026/02/18/sports-prediction-markets-novig-kalshi-polymarket-cftc-pantera-multicoin/
