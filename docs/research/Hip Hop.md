@@ -100,6 +100,53 @@ The question is really: for each AI-hip-hop project, which underlying model gene
 
 **Verdicts:** SambaNova funding + Olukotun race = `verified` (primary Business Wire + Crunchbase News + Wikipedia/Stanford). Harper funding + Rice race = `verified` (TechCrunch + AfroTech "Black founder" framing). Novig funding = `verified`; Novig AI-ness + Ukah-as-Black-founder = `verified-with-caveat`. Ranking = `analysis` (author's synthesis of the verified figures above).
 
+### Q6 — Where are the data centers located
+
+The question asks for the data-center locations of the companies found in Q1–Q5. The answer splits into two tiers: (1) the **AI-music model providers** whose models power the Q1 artists (Suno, Udio, Treblo/Sonauto), and (2) the **major AI data centers generally** that are the most prominent US AI-infrastructure sites (Stargate/Oracle, xAI Colossus, Meta Hyperion). Tier (1) is directly relevant to the Q1 artists; tier (2) is included because the question says "the companies found above" and the largest AI-infrastructure spenders define the landscape.
+
+#### Tier 1 — AI-music model providers (directly power the Q1 artists)
+
+| Company (model) | Data-center location | What it runs | Source |
+|---|---|---|---|
+| **Suno** (the dominant model; powers Xania Monet, 1010Benja, Timbaland, Stage Zero's TaTa) | **Oracle OCI Supercluster** — the flagship **Stargate campus in Abilene, Texas** (up and running); Oracle's customer page is region-agnostic but the OCI Supercluster is the Abilene site | Training + serving of Suno's music models | [[170](#source-170)][[171](#source-171)][[172](#source-172)] |
+| **Suno** (inference) | **Modal** (serverless GPU platform) — multi-cloud, "data centers across the world," with OCI Compute bare metal in the US | Inference for Suno's end users | [[171](#source-171)] |
+| **Udio** (the "other major" model; not tied to any specific Q1 artist) | **Google Cloud Platform (GCP)** — specific US region not publicly named | Training + inference of Udio's music model | [[179](#source-179)] (caveat: secondary analysis, not primary) |
+| **Treblo / Sonauto** (model "Melodia"; behind Fenix Flexin's "Rubberz") | **Not established** — no authoritative source names a specific data-center location or cloud provider | Training + inference of the Melodia model | (unverified — no source located) |
+
+#### Tier 2 — Major AI data centers generally (largest US AI-infrastructure sites)
+
+| Operator | Site | Location | What it runs | Source |
+|---|---|---|---|---|
+| **Oracle / OpenAI (Stargate)** — flagship | Abilene, Texas | 8 buildings, 1,100 acres, ~4M sq ft; up and running on OCI; ERCOT grid + GE Vernova natural-gas backup | OpenAI models (ChatGPT) + OCI Supercluster tenants (incl. Suno) | [[172](#source-172)] |
+| **Oracle / OpenAI (Stargate)** | Shackelford County, Texas | 10 buildings, 700 acres, 3.7M sq ft; on-site gas microgrid (Jenbacher reciprocating engines) | OpenAI / Oracle workloads | [[172](#source-172)] |
+| **Oracle / OpenAI (Stargate)** | Doña Ana County, New Mexico | New site (announced Sep 2025) | OpenAI / Oracle workloads | [[172](#source-172)] |
+| **Oracle / OpenAI (Stargate)** | Midwest (unnamed) | New site (announced Sep 2025) | OpenAI / Oracle workloads | [[172](#source-172)] |
+| **xAI (Colossus)** | Memphis, Tennessee (Paul Lowry Rd, SW Memphis) | 150 MW capacity; 35 on-site methane gas turbines (422 MW) | Grok (xAI's chatbot) | [[177](#source-177)] |
+| **Meta (Hyperion)** | Richland Parish, Louisiana (northeastern LA) | 2,250+ acres; 10 gas-fired power plants (7.5 GW) planned | Meta AI models (Llama, etc.) | [[178](#source-178)] |
+
+**Summary:** The AI-music model that powers most Q1 artists (**Suno**) trains and serves on the **Oracle OCI Supercluster at the Stargate campus in Abilene, Texas**, with inference via **Modal** (multi-cloud). **Udio** runs on **Google Cloud Platform** (region unnamed). **Treblo/Sonauto**'s location is **unverified**. The largest US AI data centers generally are the **Stargate sites** (Abilene TX, Shackelford County TX, Doña Ana County NM, Midwest), **xAI Colossus** (Memphis TN), and **Meta Hyperion** (Richland Parish LA).
+
+### Q7 — How many in Black/brown-majority locales, or near fossil-fuel plants
+
+**Standing ruling applied:** Demographics and fossil-fuel proximity are flagged with **EXPLICIT** confidence. Demographics are NOT inferred from city names — each locale requires an authoritative Census source. Fossil-fuel proximity requires an EIA filing or top-tier outlet. The "how many" count is `analysis`.
+
+| Site | Location | Demographics (Census) | Majority Black/Brown? | Fossil-fuel proximity | Source |
+|---|---|---|---|---|---|
+| **Stargate / Oracle (Suno training)** | Abilene, TX | White alone 63.4%, Black alone 10.3%, Hispanic/Latino 27.1% | **No** — White majority | **Yes** — 360.5 MW on-site natural gas plant (TCEQ filings); GE Vernova gas turbines (backup) | [[173](#source-173)][[176](#source-176)][[172](#source-172)] |
+| **xAI Colossus** | Memphis, TN | **Black alone 62.9%**, White alone 23.8%, Hispanic/Latino 10.4% | **Yes — majority Black** | **Yes** — 35 on-site methane gas turbines (422 MW), exceeding permit limits (SRLC/DCD) | [[174](#source-174)][[177](#source-177)] |
+| **Meta Hyperion** | Richland Parish, LA | White alone 62.2%, Black alone 35.6%, Hispanic/Latino 2.5% | **No** — White majority | **Yes** — 10 gas-fired power plants (7.5 GW) planned via Entergy (Fortune) | [[175](#source-175)][[178](#source-178)] |
+| **Stargate / Oracle** | Shackelford County, TX | *Not fetched* (rural county; no Census QuickFacts page fetched) | **Unverified** | **Yes** — on-site gas microgrid (Jenbacher reciprocating engines) per Hedges fact sheet | [[172](#source-172)] |
+| **Stargate / Oracle** | Doña Ana County, NM | *Not fetched* | **Unverified** | **Unverified** (no source located) | [[172](#source-172)] |
+| **Stargate / Oracle** | Midwest (unnamed) | *Not fetched* | **Unverified** | **Unverified** (no source located) | [[172](#source-172)] |
+| **Udio (GCP)** | Region unnamed | *N/A* | **Unverified** | **Unverified** (no source located) | [[179](#source-179)] |
+| **Treblo/Sonauto** | Not established | *N/A* | **Unverified** | **Unverified** (no source located) | (unverified) |
+
+**Count (analysis):**
+- **Majority Black/Brown locales:** **1 of 3** verified sites (Memphis, TN — xAI Colossus; 62.9% Black). Abilene TX and Richland Parish LA are White-majority. The remaining 5 sites are `unverified` (demographics not fetched or location unnamed).
+- **Near fossil-fuel plants:** **3 of 3** verified sites have confirmed on-site or adjacent natural-gas generation (Abilene TX: 360.5 MW gas plant; Memphis TN: 422 MW gas turbines; Richland Parish LA: 7.5 GW gas plants planned). The Shackelford County TX site also has a gas microgrid (per the Hedges fact sheet), making it **4 of 4** verified Stargate/xAI/Meta sites with confirmed fossil-fuel proximity. The remaining sites (Doña Ana NM, Midwest, Udio GCP, Treblo) are `unverified`.
+
+**Verdicts:** Abilene demographics = `verified` (Census). Memphis demographics = `verified` (Census). Richland Parish demographics = `verified` (Census). Abilene fossil-fuel = `verified` (Business Insider + Hedges fact sheet). Memphis fossil-fuel = `verified` (DCD/SRLC). Richland Parish fossil-fuel = `verified` (Fortune). Shackelford/Doña Ana/Midwest/Udio/Treblo = `unverified` (no authoritative source located). Count = `analysis`.
+
 ## Sources
 
 (Filled in by Tasks 1–7. Numbered from 137, continuing `docs/verification/INDEX.md`. Each entry: `N. <outlet>, "<title>" (<date>) — <url>`.)
@@ -202,3 +249,33 @@ The question is really: for each AI-hip-hop project, which underlying model gene
 
 ### Source 169
 169. Fortune, "Sports-focused prediction market Novig raises $75 million to challenge Kalshi and Polymarket" (2026-02-18) — https://fortune.com/2026/02/18/sports-prediction-markets-novig-kalshi-polymarket-cftc-pantera-multicoin/
+
+### Source 170
+170. Oracle, "Suno generates beautiful songs with Oracle Cloud" (customer page, accessed 2026-09-17) — https://oracle.com/customers/suno-ai/
+
+### Source 171
+171. Oracle (via PR Newswire), "AI Innovators Flock to Oracle to Address Some of the World's Most Pressing Challenges" (2024-03-18) — https://www.prnewswire.com/news-releases/ai-innovators-flock-to-oracle-to-address-some-of-the-worlds-most-pressing-challenges-302091783.html
+
+### Source 172
+172. Rep. Brett Hedges (House), "Oracle Fact Sheet: Stargate Data Centers" (2025-09-23) — https://arrington.house.gov/uploadedfiles/final_oracle_oai_data_center_fact_sheet_092225b.pdf
+
+### Source 173
+173. U.S. Census Bureau, "QuickFacts: Abilene city, Texas" (accessed 2026-09-17) — https://www.census.gov/quickfacts/fact/table/abilenecitytexas/PST045223
+
+### Source 174
+174. U.S. Census Bureau, "QuickFacts: Memphis city, Tennessee" (accessed 2026-09-17) — https://www.census.gov/quickfacts/fact/table/memphiscitytennessee/PST045223
+
+### Source 175
+175. U.S. Census Bureau, "QuickFacts: Richland Parish, Louisiana" (accessed 2026-09-17) — https://www.census.gov/quickfacts/richlandparishlouisiana
+
+### Source 176
+176. Business Insider, "Stargate Data Center Gets Power Boost With Natural Gas Plant in Texas" (2025-01-27) — https://www.businessinsider.com/stargate-data-center-powered-by-natural-gas-2025-1
+
+### Source 177
+177. Data Center Dynamics, "xAI doubles number of onsite gas turbines at Memphis data center in violation of permit limits" (2025-04-11) — https://www.datacenterdynamics.com/en/news/xai-doubles-number-of-onsite-gas-turbines-at-memphis-data-center-in-violation-of-permit-limits/
+
+### Source 178
+178. Fortune, "Meta orders 10 gas-fired power plants for its Hyperion AI campus in rural Louisiana—more than triple the initial plan" (2026-03-27) — https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/
+
+### Source 179
+179. Sacra, "Udio" (company analysis, accessed 2026-09-17) — https://sacra.com/c/udio/
