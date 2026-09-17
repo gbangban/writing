@@ -151,6 +151,27 @@ The list below is the most prominent US AI-infrastructure sites (not exhaustive)
 
 **Verdicts:** Abilene demographics = `verified` (Census). Memphis demographics = `verified` (Census). Richland Parish demographics = `verified` (Census). Abilene fossil-fuel = `verified` (Business Insider + Hedges fact sheet). Memphis fossil-fuel = `verified` (DCD/SRLC). Richland Parish fossil-fuel = `verified` (Fortune). Shackelford/Doña Ana/Midwest/Udio/Treblo = `unverified` (no authoritative source located). Count = `analysis`.
 
+### Q8 — Depiction of Black female artists
+
+**Standing ruling applied:** The question asks how Black female artists (not female AI artists) are *depicted* in AI hip-hop output, and for a gallery/compilation of links showing how these companies construct those identities and "for whose gaze." The "for whose gaze" framing is the author's `analysis`; the underlying depiction facts are `ai` and verified against top-tier / primary sources. **A gallery of depiction links is maintained at `docs/research/hip-hop-depictions/links.md`.**
+
+**Honest scope finding:** The field of **Black female** AI hip-hop artists is genuinely thin. **Xania Monet** is the principal case — but her music is **R&B/gospel, not strictly hip-hop** (see Q1). The other prominent AI hip-hop avatars are **male-coded** (FN Meka) or **non-Black / robotic** (TaTa Taktumi). So "how are Black female artists depicted" resolves to essentially **one** commercially significant persona, plus the way the *female figure* appears inside the male avatars' content.
+
+#### (a) Xania Monet — the principal Black female AI R&B/hip-hop-adjacent persona
+- **The face is a single AI-generated image.** Wikipedia's infobox for Xania Monet is captioned **"A 2025 AI image of Monet"** [[182](#source-182)]. The persona's visual identity is one AI-generated face used across album art and streaming platforms. Verdict: `verified`.
+- **The creator is a Black woman; the voice is prompted as female.** Telisha "Nikki" Jones (31, Mississippi) — "I'm a Black woman... I created Xania" — writes all the lyrics and prompts Suno for "**female soulful vocals**" [[183](#source-183)]. The "digital blackface" concern was raised on camera and answered by Jones's own identity [[183](#source-183)]. Verdict: `verified`.
+- **The video is live-action, not AI.** The official MV for the breakout single "How Was I Supposed to Know?" **uses live-action footage** [[182](#source-182)][[188](#source-188)] — so the *moving* depiction is a real (live-action) performance of a heartbroken Black female figure ("My mama raised a queen with a wounded crown"), while the *still* persona image is AI-generated. Verdict: `verified`.
+- **The AI face is contested as appropriating a real Black woman's likeness.** Photographer **Kade Henderson** alleges the image on Monet's *Unfolded* album art "replicates my exact facial features" (bone structure, ear, cheek, nose) from her public photos and is **pursuing legal action** over likeness/consent [[187](#source-187)]. Verdict: `unverified` — this is an **allegation** from an online magazine (not a top-tier outlet) and a pending legal claim, not an established fact; but it is the key "whose face / for whose gaze" data point.
+
+#### (b) The male avatars — how the female figure and Black identity are constructed around them
+- **FN Meka (Black male cyborg):** created as a "Black male cyborg" [[184](#source-184)]; dropped by Capitol over racist-stereotype backlash (N-word, a police-beating image) [[184](#source-184)]. In his content, **women appear objectified in wealth/pleasure contexts** — "he smirks as he sits between a woman's legs and is hand-fed grapes off a vine as a stack of $100 bills are thrown over him" [[185](#source-185)]. Verdict: `verified`.
+- **TaTa Taktumi (Timbaland/Stage Zero):** the female-coded AI artist is depicted as **futuristic/robotic** — "dancing robots, a spaceship, and a routine by... Jabbawockeez" [[186](#source-186)]. She is a **pink-haired virtual persona, NOT a Black female** depiction. Verdict: `verified`.
+
+#### Synthesis (analysis)
+Across the genre, Black *female* identity in AI hip-hop content is constructed in three recurring ways: (1) as a **single AI-generated face** on a commercial persona (Xania Monet) that is **contested as borrowing a real Black woman's likeness** (187); (2) as a **live-action "wounded queen"** heartbreak figure in the video (182, 188); and (3) as an **objectified female figure** in the wealth/luxury visuals of the male avatars (185). The male avatars themselves are rendered as **cyborg/cyber** (FN Meka, 184) or **sci-fi robot** (TaTa, 186) rather than as Black women. "For whose gaze" (author's framing): the documented depictions serve (a) the **label/brand's** commercial persona (Hallwood, Capitol, Stage Zero), (b) the **male avatar's** clout/wealth fantasy (185), and (c) — per the contested likeness claim — a **real Black woman's** face used without consent (187). The last is the strongest "gaze" data point but is `unverified` (pending litigation, non-authoritative outlet).
+
+**Verdicts:** Xania Monet = AI-image face / Black-woman creator / female-soulful voice / live-action MV = `verified` (182, 183, 188). Kade Henderson likeness allegation = `unverified` (187 — claim, pending legal action, non-top-tier outlet). FN Meka = Black male cyborg + objectified women in his content = `verified` (184, 185). TaTa = futuristic/robotic, not Black female = `verified` (186). "For whose gaze" + the thin-field scope = `analysis`.
+
 ## Sources
 
 (Filled in by Tasks 1–7. Numbered from 137, continuing `docs/verification/INDEX.md`. Each entry: `N. <outlet>, "<title>" (<date>) — <url>`.)
@@ -289,3 +310,24 @@ The list below is the most prominent US AI-infrastructure sites (not exhaustive)
 
 ### Source 181
 181. Epoch AI, "Colossus 2" (AI Data Centers directory, accessed 2026-09-17) — https://epoch.ai/data/ai-data-centers/directory/colossus-2
+
+### Source 182
+182. Wikipedia, "Xania Monet" (accessed 2026-09-16) — https://en.wikipedia.org/wiki/Xania_Monet
+
+### Source 183
+183. CBS News, "Meet the woman behind chart-topping AI artist Xania Monet: 'I look at her as a real person'" (2025-11-05) — https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/
+
+### Source 184
+184. The Guardian, "Capitol Records drops 'offensive' AI rapper FN Meka after outcry over racial stereotyping" (2022-08-24) — https://www.theguardian.com/music/2022/aug/24/major-record-label-drops-offensive-ai-rapper-after-outcry-over-racial-stereotyping
+
+### Source 185
+185. The Daily Beast, "Meet FN Meka, the World's First AI Robot Rapper Who Sells NFTs" (2021-04-03) — https://www.thedailybeast.com/meet-fn-meka-the-worlds-first-ai-robot-rapper-who-sells-nfts/
+
+### Source 186
+186. Vibe, "Timbaland Debuts First Music Video From His AI-Generated Artist, TaTa Taktumi" (2025-10-10) — https://www.vibe.com/music/videos/timbaland-ai-artist-tata-taktumi-music-video-glitch-1235131774/
+
+### Source 187
+187. Urban Magazine, "Creative Artist Kade Henderson Alleges AI Persona XaniaMonet Copied Her Likeness" (2025-10-08) — https://www.urbanmag-online.com/creative-artist-kade-henderson-alleges-ai-persona-xaniamonet-copied-her-likeness/
+
+### Source 188
+188. YouTube, "Xania Monet - How Was I supposed to Know? (Official Music Video)" (accessed 2026-09-16) — https://www.youtube.com/watch?v=mUQCcfcpTek
