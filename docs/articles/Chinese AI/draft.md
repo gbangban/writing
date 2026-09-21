@@ -116,9 +116,17 @@ Similarly, since China has undertaken the massive unprofitable, but necessary up
 - New policies may allow off-site renewable generation to ease constraints ([SCMP](https://www.scmp.com/economy/china-economy/article/3338522/china-vows-ramp-west-east-power-output-ai-hi-tech-manufacturing-fuel-demand) [[32](#source-32)])
 
 ### Known unknowns: underwater data centers
-Whereas most data centers that we hear about in the US are terrestrial/on-land installations, both the US and China have explored underwater data centers. While I couldn't find any formal impact studies, I've found both beneficial and detrimental impacts for these experiments anecdotally. 
+Whereas most data centers that we hear about in the US are terrestrial/on-land installations, both the US and China have explored underwater data centers. The primary benefit of these data centers is their lower power usage relative to traditional land based alternatives.  
 
-One line of concern is that outlet water at elevated temperature could disturb local ecosystems via deoxygenation in areas already degraded by climate change ([Nature Sci Rep](https://www.nature.com/articles/s41598-022-21293-2) [[136](#source-136)]; [Fortune](https://fortune.com/2026/08/25/ai-data-centers-ocean-expansion/) [[134](#source-134)]). Conversely, other reports anecdotally find no large temperature increase (>1°C) around submerged units: HiCloud, the contractor for China's Hainan underwater data center, reports a rise of less than 1°C in the nearby seawater [[134](#source-134)], and the 2020 Zhuhai test module of China's first UDC showed a maximum outlet temperature rise of only 2°C confined to a small area around the equipment [[135](#source-135)]. I reserve my conclusions until the formal studies are out, but I did want to flag the divergence in approaches here, especially given how much state capital is flowing to support the experiments.
+Additionally, given the environmental focus, one of the easiest ways to achieve a 100% renewable energy DC is to pair an UDC with wind or solar energy as is the case with the Shanghai UDC ([~95% on-site renewable energy](https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china)). 
+
+While I couldn't find any formal impact studies, I've found both beneficial and detrimental impacts for these experiments anecdotally. 
+
+One line of concern is that outlet water at elevated temperature could disturb local ecosystems via deoxygenation in areas already degraded by climate change ([Nature Sci Rep](https://www.nature.com/articles/s41598-022-21293-2) [[136](#source-136)]; [Fortune](https://fortune.com/2026/08/25/ai-data-centers-ocean-expansion/) [[134](#source-134)]). 
+
+Conversely, other reports anecdotally find no large temperature increase (>1°C) around submerged units: HiCloud, the contractor for China's Hainan underwater data center, reports a rise of less than 1°C in the nearby seawater [[134](#source-134)], and the 2020 Zhuhai test module of China's first UDC showed a maximum outlet temperature rise of only 2°C confined to a small area around the equipment [[135](#source-135)]. 
+
+I reserve my conclusions until the formal studies are out, but I did want to flag the divergence in approaches here, especially given how much state capital is flowing to support the experiments.
 
 - Guangdong province five-year marine economy plan (2021): encourage "high energy consuming data centers" to relocate underwater in Guangzhou, Shenzhen, Zhuhai ([Reuters](https://www.reuters.com/markets/commodities/chinas-guangdong-province-plans-move-data-centres-undersea-cut-power-use-2021-12-14/) [[33](#source-33)]; [DataCenterDynamics](https://www.datacenterdynamics.com/en/news/guangdong-puts-underwater-data-centers-in-its-5-year-marine-economy-plan-to-save-cooling-costs/) [[34](#source-34)])
 - Follows successful trials by Highlander (specialist firm) in Shenzhen ([DataCenterDynamics](https://www.datacenterdynamics.com/en/news/guangdong-puts-underwater-data-centers-in-its-5-year-marine-economy-plan-to-save-cooling-costs/) [[34](#source-34)]; [Highlander test results](http://static.cninfo.com.cn/finalpage/2021-01-11/1209079354.PDF) [[135](#source-135)])
@@ -289,6 +297,14 @@ Other than this piece being too long, it's hopefully given you a material unders
 Similarly, as we increasingly move towards a multi-polar world order, it's clear that the US and the west have no intention to help develop the Global South after centuries of exploitation and degradation. Now the Global South is rising to take care of its own needs outside of a decaying post colonial capitalist system. 
 
 When you have a humanistic government guiding the heights and restricting the lows of such a formative technology, it's much easier to envision and subsequently build technology in a way that not only moves China forward, but the world as well.
+
+# Appendix
+
+## How am I reaching 100% renewable energy use and 0 water consumption?
+As referenced earlier with the Microsoft paper, the majority of emissions and water use by AI come from the power grid rather than actually running the model at home or in a data center.
+
+So between using my local renewable energy provider (which still has its flaws via the [REC/pseudo carbon credit system](https://www.cityandstateny.com/policy/2018/04/want-to-pay-a-little-more-for-green-energy-its-not-so-simple/178594/)) and running my AI locally on a normal gaming PC, I can get to this 0 emissions/0 water consumed target.  At least as far as its permissable under this capitalist shell game 🤷🏿
+
 ## Sources
 
 ### Introduction
@@ -580,9 +596,13 @@ CRS, "Regulating Artificial Intelligence: U.S. and International Approaches" (R4
 ## Appendix
 
 ### Revisions
+Outstanding revisions:
+- Adding sourcing for the Shanghai UDC (https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china)
+- Adding sourcing for RECs (https://www.cityandstateny.com/policy/2018/04/want-to-pay-a-little-more-for-green-energy-its-not-so-simple/178594/)
+
+Completed last round:
 - update the underwater data center portion with clarity around why underwater data centers are preferable, i.e. they're relatively low power usage effectiveness, less energy used, things like that.
 - clarify how the AI used to generate this essay was renewable, i.e. having a renewable energy provider as well as using a normal computer that has no water cooling.
-- 
 - Revise the Sources section to enable proper deep linking from the respective internal links ex. ([xyz](# Source 1))
 - Normalize Global South and across the text
 	- Review for grammar, spelling, and syntax

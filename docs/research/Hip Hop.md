@@ -9,6 +9,9 @@ Research questions:
 - How are the depictions of black female artists, not female AI artists, commonly depicted? And can you either find a gallery, video and or compilation or even a series of links to be able to get a representation of how these companies are constructing these identities and for whose gaze?
 - Look up the lyrics of the most popular A.I. hip-hop songs. Aggregate them locally via search for reference at a later time in full.
   - How racecraft-y are they, i.e. how much do to create, rely on,  and perpetuate black stereotypes?
+    - reference for Timbaland and his zombie-like resurrection of Biggie on the song that he made.  https://www.youtube.com/watch?v=sIxvZfT6lnI
+      - A-pop avatar Tata is an k-pop inspired Asian woman performing k-pop whereas k-pop is appropriated and repackaged black r&b, hip-hop, etc. 
+    - Biggie, Tupac, and Snoop Dogg have all been synthsized in a commercial song
 
 ---
 
